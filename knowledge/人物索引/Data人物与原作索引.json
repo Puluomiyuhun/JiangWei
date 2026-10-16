@@ -1,0 +1,9712 @@
+[
+  {
+    "name": "姜维",
+    "ids": [
+      0
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_000.txt",
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 433
+  },
+  {
+    "name": "诸葛果",
+    "ids": [
+      1
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_000.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 69
+  },
+  {
+    "name": "杨兰",
+    "ids": [
+      2
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_000.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 130
+  },
+  {
+    "name": "柳隐",
+    "ids": [
+      3
+    ],
+    "original_files": [
+      "R_000.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 33
+  },
+  {
+    "name": "句扶",
+    "ids": [
+      4
+    ],
+    "original_files": [
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 39
+  },
+  {
+    "name": "宁随",
+    "ids": [
+      5
+    ],
+    "original_files": [
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 71
+  },
+  {
+    "name": "傅佥",
+    "ids": [
+      6
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "夏侯霸",
+    "ids": [
+      7
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_11.txt",
+      "R_15.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_21.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 33
+  },
+  {
+    "name": "来忠",
+    "ids": [
+      8
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 23
+  },
+  {
+    "name": "袁綝",
+    "ids": [
+      9
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 36
+  },
+  {
+    "name": "向充",
+    "ids": [
+      10
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 25
+  },
+  {
+    "name": "刘敏",
+    "ids": [
+      11
+    ],
+    "original_files": [
+      "R_15.txt",
+      "R_16.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_26.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宗预",
+    "ids": [
+      12
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_23.txt",
+      "R_27.txt",
+      "R_29.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "霍弋",
+    "ids": [
+      13
+    ],
+    "original_files": [
+      "R_19.txt",
+      "R_21.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 8
+  },
+  {
+    "name": "马隆",
+    "ids": [
+      14
+    ],
+    "original_files": [
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张翼",
+    "ids": [
+      15
+    ],
+    "original_files": [
+      "R_09.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_29.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 22
+  },
+  {
+    "name": "关索",
+    "ids": [
+      16
+    ],
+    "original_files": [
+      "R_09.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 3
+  },
+  {
+    "name": "廖化",
+    "ids": [
+      17
+    ],
+    "original_files": [
+      "R_08.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 47
+  },
+  {
+    "name": "赵统",
+    "ids": [
+      18
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_19.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赵广",
+    "ids": [
+      19
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_19.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "花鬘",
+    "ids": [
+      20
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_25.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 3
+  },
+  {
+    "name": "罗宪",
+    "ids": [
+      21
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_23.txt",
+      "R_27.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 100
+  },
+  {
+    "name": "张嶷",
+    "ids": [
+      22
+    ],
+    "original_files": [
+      "R_09.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张星彩",
+    "ids": [
+      23
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹绫",
+    "ids": [
+      24
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_000.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 21
+  },
+  {
+    "name": "赵云",
+    "ids": [
+      25
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_05.txt",
+      "R_07.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "魏延",
+    "ids": [
+      26
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马岱",
+    "ids": [
+      27,
+      1013
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_04.txt",
+      "R_08.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_23.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孟琰",
+    "ids": [
+      28
+    ],
+    "original_files": [
+      "R_02.txt",
+      "R_08.txt",
+      "R_14.txt",
+      "R_15.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "吴懿",
+    "ids": [
+      29
+    ],
+    "original_files": [
+      "R_02.txt",
+      "R_03.txt",
+      "R_05.txt",
+      "R_08.txt",
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "吴班",
+    "ids": [
+      30
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "高翔",
+    "ids": [
+      31
+    ],
+    "original_files": [
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蒋舒",
+    "ids": [
+      32
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_29.txt",
+      "R_30.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 14
+  },
+  {
+    "name": "孙皓",
+    "ids": [
+      33
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "毌丘俭",
+    "ids": [
+      34
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_16.txt",
+      "R_22.txt",
+      "R_23.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "董允",
+    "ids": [
+      35
+    ],
+    "original_files": [
+      "R_11.txt",
+      "R_12.txt",
+      "R_16.txt",
+      "R_17.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马忠",
+    "ids": [
+      36
+    ],
+    "original_files": [
+      "R_08.txt",
+      "R_09.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_18.txt",
+      "R_19.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "杨仪",
+    "ids": [
+      37
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李严",
+    "ids": [
+      38
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_12.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陈到",
+    "ids": [
+      39
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_12.txt",
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "诸葛瞻",
+    "ids": [
+      40
+    ],
+    "original_files": [
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_32.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "诸葛尚",
+    "ids": [
+      41
+    ],
+    "original_files": [
+      "R_32.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "黄崇",
+    "ids": [
+      42
+    ],
+    "original_files": [
+      "R_26.txt",
+      "R_32.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李球",
+    "ids": [
+      43
+    ],
+    "original_files": [
+      "R_32.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张遵",
+    "ids": [
+      44
+    ],
+    "original_files": [
+      "R_32.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张绍",
+    "ids": [
+      45
+    ],
+    "original_files": [
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蒋斌",
+    "ids": [
+      46
+    ],
+    "original_files": [
+      "R_29.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 4
+  },
+  {
+    "name": "董厥",
+    "ids": [
+      47
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_29.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 17
+  },
+  {
+    "name": "王含",
+    "ids": [
+      48
+    ],
+    "original_files": [
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 27
+  },
+  {
+    "name": "刘禅",
+    "ids": [
+      49
+    ],
+    "original_files": [
+      "R_11.txt",
+      "R_12.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 37
+  },
+  {
+    "name": "黄皓",
+    "ids": [
+      50
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_21.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陈祗",
+    "ids": [
+      51
+    ],
+    "original_files": [
+      "R_11.txt",
+      "R_12.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "阎宇",
+    "ids": [
+      52
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 87
+  },
+  {
+    "name": "杨戏",
+    "ids": [
+      53
+    ],
+    "original_files": [
+      "R_26.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马邈",
+    "ids": [
+      54
+    ],
+    "original_files": [
+      "R_32.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "谯周",
+    "ids": [
+      55
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 30
+  },
+  {
+    "name": "句安",
+    "ids": [
+      56
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_14.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_26.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 48
+  },
+  {
+    "name": "庞会",
+    "ids": [
+      57
+    ],
+    "original_files": [
+      "R_25.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_30.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 60
+  },
+  {
+    "name": "关统",
+    "ids": [
+      58
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_24.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘备",
+    "ids": [
+      59
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_12.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘谌",
+    "ids": [
+      60
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "诸葛亮",
+    "ids": [
+      61
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_29.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹真",
+    "ids": [
+      62
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹休",
+    "ids": [
+      63
+    ],
+    "original_files": [
+      "R_05.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹爽",
+    "ids": [
+      64
+    ],
+    "original_files": [
+      "R_08.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹羲",
+    "ids": [
+      65
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹训",
+    "ids": [
+      66
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹叡",
+    "ids": [
+      67
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_07.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_13.txt",
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹芳",
+    "ids": [
+      68
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_15.txt",
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹髦",
+    "ids": [
+      69
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹奂",
+    "ids": [
+      70
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 12
+  },
+  {
+    "name": "夏侯玄",
+    "ids": [
+      71
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "夏侯威",
+    "ids": [
+      72
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_15.txt",
+      "R_17.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "夏侯和",
+    "ids": [
+      73
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 72
+  },
+  {
+    "name": "夏侯惠",
+    "ids": [
+      74
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_15.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "华歆",
+    "ids": [
+      75
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_07.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陈群",
+    "ids": [
+      76
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_07.txt",
+      "R_09.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王朗",
+    "ids": [
+      77
+    ],
+    "original_files": [
+      "R_03.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "钟繇",
+    "ids": [
+      78
+    ],
+    "original_files": [
+      "R_03.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马扁",
+    "ids": [
+      79
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郭淮",
+    "ids": [
+      80
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "秦朗",
+    "ids": [
+      81
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙礼",
+    "ids": [
+      82
+    ],
+    "original_files": [
+      "R_15.txt",
+      "R_17.txt",
+      "R_19.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "费曜",
+    "ids": [
+      83
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_11.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "嵇凛",
+    "ids": [
+      84
+    ],
+    "original_files": [
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "魏平",
+    "ids": [
+      85
+    ],
+    "original_files": [
+      "R_06.txt",
+      "R_08.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张虎",
+    "ids": [
+      86
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_14.txt",
+      "R_22.txt",
+      "R_25.txt",
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "乐綝",
+    "ids": [
+      87
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_22.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "戴陵",
+    "ids": [
+      88
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_09.txt",
+      "R_22.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹遵",
+    "ids": [
+      89
+    ],
+    "original_files": [
+      "R_04.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "朱赞",
+    "ids": [
+      90
+    ],
+    "original_files": [
+      "R_04.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陈造",
+    "ids": [
+      91
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "万政",
+    "ids": [
+      92
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "司马懿",
+    "ids": [
+      93
+    ],
+    "original_files": [
+      "R_05.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "司马师",
+    "ids": [
+      94
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "诸葛诞",
+    "ids": [
+      95
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_15.txt",
+      "R_20.txt",
+      "R_22.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "司马炎",
+    "ids": [
+      96
+    ],
+    "original_files": [],
+    "sequel_speech_count": 27
+  },
+  {
+    "name": "司马攸",
+    "ids": [
+      97
+    ],
+    "original_files": [],
+    "sequel_speech_count": 20
+  },
+  {
+    "name": "司马望",
+    "ids": [
+      98
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "司马孚",
+    "ids": [
+      99
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贾充",
+    "ids": [
+      100
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 58
+  },
+  {
+    "name": "成济",
+    "ids": [
+      101
+    ],
+    "original_files": [
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "荀顗",
+    "ids": [
+      102
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "裴秀",
+    "ids": [
+      103
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 26
+  },
+  {
+    "name": "邓艾",
+    "ids": [
+      104
+    ],
+    "original_files": [
+      "R_06.txt",
+      "R_15.txt",
+      "R_19.txt"
+    ],
+    "sequel_speech_count": 60
+  },
+  {
+    "name": "邓忠",
+    "ids": [
+      105
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_30.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 7
+  },
+  {
+    "name": "师纂",
+    "ids": [
+      106
+    ],
+    "original_files": [
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 12
+  },
+  {
+    "name": "钟会",
+    "ids": [
+      107
+    ],
+    "original_files": [
+      "R_000.txt",
+      "R_14.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 305
+  },
+  {
+    "name": "张郃",
+    "ids": [
+      108
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_07.txt",
+      "R_08.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "周处",
+    "ids": [
+      109
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羊祜",
+    "ids": [
+      110
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 32
+  },
+  {
+    "name": "杜预",
+    "ids": [
+      111
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_30.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 85
+  },
+  {
+    "name": "陈泰",
+    "ids": [
+      112
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陈骞",
+    "ids": [
+      113
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王基",
+    "ids": [
+      114
+    ],
+    "original_files": [
+      "R_22.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王经",
+    "ids": [
+      115
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "徐质",
+    "ids": [
+      116
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_17.txt",
+      "R_19.txt",
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "司马伷",
+    "ids": [
+      117
+    ],
+    "original_files": [
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王韬",
+    "ids": [
+      118
+    ],
+    "original_files": [
+      "R_23.txt",
+      "R_24.txt",
+      "R_26.txt",
+      "R_28.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "胡奋",
+    "ids": [
+      119
+    ],
+    "original_files": [
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王凌",
+    "ids": [
+      120
+    ],
+    "original_files": [
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郑伦",
+    "ids": [
+      121
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王真",
+    "ids": [
+      122
+    ],
+    "original_files": [
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李鹏",
+    "ids": [
+      123
+    ],
+    "original_files": [
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "费祎",
+    "ids": [
+      124
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_19.txt",
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "毌丘甸",
+    "ids": [
+      125
+    ],
+    "original_files": [
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "毌丘秀",
+    "ids": [
+      126
+    ],
+    "original_files": [
+      "R_22.txt",
+      "R_23.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "文钦",
+    "ids": [
+      127
+    ],
+    "original_files": [
+      "R_22.txt",
+      "R_23.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "文鸯",
+    "ids": [
+      128
+    ],
+    "original_files": [
+      "R_22.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 12
+  },
+  {
+    "name": "文虎",
+    "ids": [
+      129
+    ],
+    "original_files": [
+      "R_22.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 12
+  },
+  {
+    "name": "司马昭",
+    "ids": [
+      130
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 69
+  },
+  {
+    "name": "蒋班",
+    "ids": [
+      131
+    ],
+    "original_files": [
+      "R_000.txt",
+      "R_22.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "焦彝",
+    "ids": [
+      132
+    ],
+    "original_files": [
+      "R_000.txt",
+      "R_22.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "石苞",
+    "ids": [
+      133
+    ],
+    "original_files": [
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "州泰",
+    "ids": [
+      134
+    ],
+    "original_files": [
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王濬",
+    "ids": [
+      135
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王浑",
+    "ids": [
+      136
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "卫瓘",
+    "ids": [
+      137
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_29.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 127
+  },
+  {
+    "name": "田续",
+    "ids": [
+      138
+    ],
+    "original_files": [
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 74
+  },
+  {
+    "name": "许仪",
+    "ids": [
+      139
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_20.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_30.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "关彝",
+    "ids": [
+      140
+    ],
+    "original_files": [
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 57
+  },
+  {
+    "name": "荀恺",
+    "ids": [
+      141
+    ],
+    "original_files": [
+      "R_29.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丘建",
+    "ids": [
+      142
+    ],
+    "original_files": [
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 38
+  },
+  {
+    "name": "皇甫闿",
+    "ids": [
+      143
+    ],
+    "original_files": [
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "夏侯咸",
+    "ids": [
+      144
+    ],
+    "original_files": [
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王买",
+    "ids": [
+      145
+    ],
+    "original_files": [
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "胡遵",
+    "ids": [
+      146
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_14.txt",
+      "R_17.txt",
+      "R_20.txt",
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "胡烈",
+    "ids": [
+      147
+    ],
+    "original_files": [
+      "R_25.txt",
+      "R_30.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 124
+  },
+  {
+    "name": "胡渊",
+    "ids": [
+      148
+    ],
+    "original_files": [
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 64
+  },
+  {
+    "name": "王颀",
+    "ids": [
+      149
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 9
+  },
+  {
+    "name": "牵弘",
+    "ids": [
+      150
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 16
+  },
+  {
+    "name": "杨欣",
+    "ids": [
+      151
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "诸葛绪",
+    "ids": [
+      152
+    ],
+    "original_files": [
+      "R_30.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "周旨",
+    "ids": [
+      153
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马遵",
+    "ids": [
+      154
+    ],
+    "original_files": [
+      "R_01.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "尹赏",
+    "ids": [
+      155
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_01.txt",
+      "R_02.txt",
+      "R_05.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_16.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_24.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "梁绪",
+    "ids": [
+      156
+    ],
+    "original_files": [
+      "R_01.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "梁虔",
+    "ids": [
+      157
+    ],
+    "original_files": [
+      "R_01.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郭攸之",
+    "ids": [
+      158
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙权",
+    "ids": [
+      159
+    ],
+    "original_files": [
+      "R_05.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_19.txt",
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙休",
+    "ids": [
+      160
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 27
+  },
+  {
+    "name": "蒋琬",
+    "ids": [
+      161
+    ],
+    "original_files": [
+      "R_05.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_12.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙峻",
+    "ids": [
+      162
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙綝",
+    "ids": [
+      163
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陆逊",
+    "ids": [
+      164
+    ],
+    "original_files": [
+      "R_05.txt",
+      "R_10.txt",
+      "R_12.txt",
+      "R_14.txt",
+      "R_16.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陆抗",
+    "ids": [
+      165
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 67
+  },
+  {
+    "name": "丁奉",
+    "ids": [
+      166
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_12.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_23.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 11
+  },
+  {
+    "name": "诸葛恪",
+    "ids": [
+      167
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_12.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丁封",
+    "ids": [
+      168
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "施绩",
+    "ids": [
+      169
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_14.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 8
+  },
+  {
+    "name": "周鲂",
+    "ids": [
+      170
+    ],
+    "original_files": [
+      "R_05.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "全琮",
+    "ids": [
+      171
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_15.txt",
+      "R_16.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "留赞",
+    "ids": [
+      172
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_12.txt",
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "留略",
+    "ids": [
+      173
+    ],
+    "original_files": [
+      "R_22.txt",
+      "R_23.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "钟离牧",
+    "ids": [
+      174
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "吾彦",
+    "ids": [
+      175
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "盛曼",
+    "ids": [
+      176
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "吕据",
+    "ids": [
+      177
+    ],
+    "original_files": [
+      "R_19.txt",
+      "R_22.txt",
+      "R_23.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陆凯",
+    "ids": [
+      178
+    ],
+    "original_files": [
+      "R_15.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "唐咨",
+    "ids": [
+      179
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_25.txt",
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "于诠",
+    "ids": [
+      180
+    ],
+    "original_files": [
+      "R_25.txt",
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "朱异",
+    "ids": [
+      181
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙异",
+    "ids": [
+      182
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张布",
+    "ids": [
+      183
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 46
+  },
+  {
+    "name": "鲁淑",
+    "ids": [
+      184
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_12.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_19.txt",
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "薛莹",
+    "ids": [
+      185
+    ],
+    "original_files": [
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "濮阳兴",
+    "ids": [
+      186
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 21
+  },
+  {
+    "name": "万彧",
+    "ids": [
+      187
+    ],
+    "original_files": [],
+    "sequel_speech_count": 10
+  },
+  {
+    "name": "岑昏",
+    "ids": [
+      188
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张悌",
+    "ids": [
+      189
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "沈莹",
+    "ids": [
+      190
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙歆",
+    "ids": [
+      191
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "左奕",
+    "ids": [
+      192
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙震",
+    "ids": [
+      193
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步协",
+    "ids": [
+      194
+    ],
+    "original_files": [],
+    "sequel_speech_count": 27
+  },
+  {
+    "name": "步阐",
+    "ids": [
+      195
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "全怿",
+    "ids": [
+      196
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_25.txt",
+      "R_26.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘璿",
+    "ids": [
+      197
+    ],
+    "original_files": [],
+    "sequel_speech_count": 2
+  },
+  {
+    "name": "胡济",
+    "ids": [
+      198
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_24.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "荀勖",
+    "ids": [
+      199
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 31
+  },
+  {
+    "name": "彻里吉",
+    "ids": [
+      200
+    ],
+    "original_files": [
+      "R_02.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "雅丹",
+    "ids": [
+      201
+    ],
+    "original_files": [
+      "R_02.txt",
+      "R_03.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "越吉",
+    "ids": [
+      202
+    ],
+    "original_files": [
+      "R_02.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "治无戴",
+    "ids": [
+      203
+    ],
+    "original_files": [
+      "R_17.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹操",
+    "ids": [
+      204
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郭循",
+    "ids": [
+      205
+    ],
+    "original_files": [
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张特",
+    "ids": [
+      206
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "迷当",
+    "ids": [
+      207
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "于巴",
+    "ids": [
+      208
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赤其",
+    "ids": [
+      209
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘胄",
+    "ids": [
+      210
+    ],
+    "original_files": [
+      "R_09.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张球",
+    "ids": [
+      211
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "姜母",
+    "ids": [
+      212
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_06.txt",
+      "R_13.txt",
+      "R_16.txt",
+      "R_17.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张皇后",
+    "ids": [
+      213
+    ],
+    "original_files": [
+      "R_09.txt",
+      "R_13.txt",
+      "R_19.txt",
+      "R_21.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_32.txt"
+    ],
+    "sequel_speech_count": 7
+  },
+  {
+    "name": "黄月英",
+    "ids": [
+      214
+    ],
+    "original_files": [
+      "R_05.txt",
+      "R_12.txt",
+      "R_19.txt",
+      "R_25.txt",
+      "R_29.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辛毗",
+    "ids": [
+      215
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_09.txt",
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李胜",
+    "ids": [
+      216
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_15.txt",
+      "R_17.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王嗣",
+    "ids": [
+      217
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_20.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "秃发机能",
+    "ids": [
+      218
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘晔",
+    "ids": [
+      219
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_07.txt",
+      "R_09.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "甘宁",
+    "ids": [
+      220
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt",
+      "R_25.txt",
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "邓贤",
+    "ids": [
+      221
+    ],
+    "original_files": [
+      "R_03.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "申仪",
+    "ids": [
+      222
+    ],
+    "original_files": [
+      "R_03.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郝昭",
+    "ids": [
+      223
+    ],
+    "original_files": [
+      "R_06.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "魏容",
+    "ids": [
+      224
+    ],
+    "original_files": [
+      "R_11.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "魏昌",
+    "ids": [
+      225
+    ],
+    "original_files": [
+      "R_11.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "冯紞",
+    "ids": [
+      226
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙秀",
+    "ids": [
+      227
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王瓘",
+    "ids": [
+      228
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "华覈",
+    "ids": [
+      229
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张节",
+    "ids": [
+      230
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "杨宗",
+    "ids": [
+      231
+    ],
+    "original_files": [
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 55
+  },
+  {
+    "name": "王沈",
+    "ids": [
+      232
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马谡",
+    "ids": [
+      233
+    ],
+    "original_files": [
+      "R_01.txt",
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虞汜",
+    "ids": [
+      234
+    ],
+    "original_files": [
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "杨阜",
+    "ids": [
+      235
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_16.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘达",
+    "ids": [
+      236
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "朱芳",
+    "ids": [
+      237
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孟获",
+    "ids": [
+      238
+    ],
+    "original_files": [
+      "R_09.txt",
+      "R_12.txt",
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "廖立",
+    "ids": [
+      239
+    ],
+    "original_files": [
+      "R_17.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陈式",
+    "ids": [
+      240
+    ],
+    "original_files": [
+      "R_06.txt",
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "向朗",
+    "ids": [
+      241
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_12.txt",
+      "R_14.txt",
+      "R_15.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "向宠",
+    "ids": [
+      242
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙资",
+    "ids": [
+      243
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_14.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "黄方",
+    "ids": [
+      244
+    ],
+    "original_files": [
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郭女王",
+    "ids": [
+      245
+    ],
+    "original_files": [
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "甄宓",
+    "ids": [
+      246
+    ],
+    "original_files": [
+      "R_06.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "满宠",
+    "ids": [
+      247
+    ],
+    "original_files": [
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "田豫",
+    "ids": [
+      248
+    ],
+    "original_files": [
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "神秘女子",
+    "ids": [
+      249
+    ],
+    "original_files": [
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "公孙渊",
+    "ids": [
+      250
+    ],
+    "original_files": [
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "毛炅",
+    "ids": [
+      251
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李福",
+    "ids": [
+      252
+    ],
+    "original_files": [
+      "R_10.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "朱然",
+    "ids": [
+      253
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_14.txt",
+      "R_16.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王赟",
+    "ids": [
+      254
+    ],
+    "original_files": [
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游奕",
+    "ids": [
+      255
+    ],
+    "original_files": [
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "牛金",
+    "ids": [
+      256
+    ],
+    "original_files": [
+      "R_08.txt",
+      "R_10.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_15.txt",
+      "R_17.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "樊建",
+    "ids": [
+      257
+    ],
+    "original_files": [
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 2
+  },
+  {
+    "name": "伤兵甲",
+    "ids": [
+      258
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "伤兵乙",
+    "ids": [
+      259
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵3",
+    "ids": [
+      260
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_27.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 24
+  },
+  {
+    "name": "步兵4",
+    "ids": [
+      261
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 9
+  },
+  {
+    "name": "步兵5",
+    "ids": [
+      262
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵6",
+    "ids": [
+      263
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵7",
+    "ids": [
+      264
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵8",
+    "ids": [
+      265
+    ],
+    "original_files": [
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵9",
+    "ids": [
+      266
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵10",
+    "ids": [
+      267
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵11",
+    "ids": [
+      268
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵12",
+    "ids": [
+      269
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵13",
+    "ids": [
+      270
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵14",
+    "ids": [
+      271
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵15",
+    "ids": [
+      272
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "步兵16",
+    "ids": [
+      273
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营1",
+    "ids": [
+      274
+    ],
+    "original_files": [
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营2",
+    "ids": [
+      275
+    ],
+    "original_files": [
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营3",
+    "ids": [
+      276
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营4",
+    "ids": [
+      277
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营5",
+    "ids": [
+      278
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营6",
+    "ids": [
+      279
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营7",
+    "ids": [
+      280
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营8",
+    "ids": [
+      281
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵1",
+    "ids": [
+      282
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵2",
+    "ids": [
+      283
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵3",
+    "ids": [
+      284
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵4",
+    "ids": [
+      285
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵5",
+    "ids": [
+      286
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵6",
+    "ids": [
+      287
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵7",
+    "ids": [
+      288
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵8",
+    "ids": [
+      289
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵9",
+    "ids": [
+      290
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵10",
+    "ids": [
+      291
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵11",
+    "ids": [
+      292
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵12",
+    "ids": [
+      293
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵13",
+    "ids": [
+      294
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵14",
+    "ids": [
+      295
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵15",
+    "ids": [
+      296
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓兵16",
+    "ids": [
+      297
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手1",
+    "ids": [
+      298
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手2",
+    "ids": [
+      299
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手3",
+    "ids": [
+      300
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手4",
+    "ids": [
+      301
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手5",
+    "ids": [
+      302
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手6",
+    "ids": [
+      303
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手7",
+    "ids": [
+      304
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "强弓手8",
+    "ids": [
+      305
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵1",
+    "ids": [
+      306
+    ],
+    "original_files": [
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵2",
+    "ids": [
+      307
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵3",
+    "ids": [
+      308
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵4",
+    "ids": [
+      309
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵5",
+    "ids": [
+      310
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵6",
+    "ids": [
+      311
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵7",
+    "ids": [
+      312
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵8",
+    "ids": [
+      313
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵9",
+    "ids": [
+      314
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵10",
+    "ids": [
+      315
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵11",
+    "ids": [
+      316
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵12",
+    "ids": [
+      317
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵13",
+    "ids": [
+      318
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵14",
+    "ids": [
+      319
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵15",
+    "ids": [
+      320
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轻骑兵16",
+    "ids": [
+      321
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵1",
+    "ids": [
+      322
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵2",
+    "ids": [
+      323
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵3",
+    "ids": [
+      324
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵4",
+    "ids": [
+      325
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵5",
+    "ids": [
+      326
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵6",
+    "ids": [
+      327
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵7",
+    "ids": [
+      328
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵8",
+    "ids": [
+      329
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵9",
+    "ids": [
+      330
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵10",
+    "ids": [
+      331
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵11",
+    "ids": [
+      332
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵12",
+    "ids": [
+      333
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵13",
+    "ids": [
+      334
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵14",
+    "ids": [
+      335
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵15",
+    "ids": [
+      336
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "重骑兵16",
+    "ids": [
+      337
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵1",
+    "ids": [
+      338
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵2",
+    "ids": [
+      339
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵3",
+    "ids": [
+      340
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵4",
+    "ids": [
+      341
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵5",
+    "ids": [
+      342
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵6",
+    "ids": [
+      343
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵7",
+    "ids": [
+      344
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "炮车兵8",
+    "ids": [
+      345
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家1",
+    "ids": [
+      346
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家2",
+    "ids": [
+      347
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家3",
+    "ids": [
+      348
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家4",
+    "ids": [
+      349
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家5",
+    "ids": [
+      350
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家6",
+    "ids": [
+      351
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家7",
+    "ids": [
+      352
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武术家8",
+    "ids": [
+      353
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵1",
+    "ids": [
+      354
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵2",
+    "ids": [
+      355
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵3",
+    "ids": [
+      356
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵4",
+    "ids": [
+      357
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵5",
+    "ids": [
+      358
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵6",
+    "ids": [
+      359
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵7",
+    "ids": [
+      360
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "贼兵8",
+    "ids": [
+      361
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策士1",
+    "ids": [
+      362
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策士2",
+    "ids": [
+      363
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策士3",
+    "ids": [
+      364
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策士4",
+    "ids": [
+      365
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策士5",
+    "ids": [
+      366
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策士6",
+    "ids": [
+      367
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "补给士1",
+    "ids": [
+      368
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "补给士2",
+    "ids": [
+      369
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "补给士3",
+    "ids": [
+      370
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "补给士4",
+    "ids": [
+      371
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "补给士5",
+    "ids": [
+      372
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "补给士6",
+    "ids": [
+      373
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "道士1",
+    "ids": [
+      374
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "道士2",
+    "ids": [
+      375
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "道士3",
+    "ids": [
+      376
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "道士4",
+    "ids": [
+      377
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "道士5",
+    "ids": [
+      378
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "道士6",
+    "ids": [
+      379
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑1",
+    "ids": [
+      380
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑2",
+    "ids": [
+      381
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑3",
+    "ids": [
+      382
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑4",
+    "ids": [
+      383
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑5",
+    "ids": [
+      384
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑6",
+    "ids": [
+      385
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑7",
+    "ids": [
+      386
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑8",
+    "ids": [
+      387
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑9",
+    "ids": [
+      388
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑10",
+    "ids": [
+      389
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑11",
+    "ids": [
+      390
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑12",
+    "ids": [
+      391
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑13",
+    "ids": [
+      392
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑14",
+    "ids": [
+      393
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑15",
+    "ids": [
+      394
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羌族骑16",
+    "ids": [
+      395
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑1",
+    "ids": [
+      396
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑2",
+    "ids": [
+      397
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑3",
+    "ids": [
+      398
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑4",
+    "ids": [
+      399
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑5",
+    "ids": [
+      400
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑6",
+    "ids": [
+      401
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑7",
+    "ids": [
+      402
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑8",
+    "ids": [
+      403
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑9",
+    "ids": [
+      404
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑10",
+    "ids": [
+      405
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑11",
+    "ids": [
+      406
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑12",
+    "ids": [
+      407
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑13",
+    "ids": [
+      408
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑14",
+    "ids": [
+      409
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑15",
+    "ids": [
+      410
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑骑16",
+    "ids": [
+      411
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵1",
+    "ids": [
+      412
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵2",
+    "ids": [
+      413
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵3",
+    "ids": [
+      414
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵4",
+    "ids": [
+      415
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵5",
+    "ids": [
+      416
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵6",
+    "ids": [
+      417
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵7",
+    "ids": [
+      418
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮兵8",
+    "ids": [
+      419
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "无当军1",
+    "ids": [
+      420
+    ],
+    "original_files": [
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "无当军2",
+    "ids": [
+      421
+    ],
+    "original_files": [
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "无当军3",
+    "ids": [
+      422
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "无当军4",
+    "ids": [
+      423
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军1",
+    "ids": [
+      424
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军2",
+    "ids": [
+      425
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军3",
+    "ids": [
+      426
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军4",
+    "ids": [
+      427
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军5",
+    "ids": [
+      428
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军6",
+    "ids": [
+      429
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军7",
+    "ids": [
+      430
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军8",
+    "ids": [
+      431
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军9",
+    "ids": [
+      432
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军10",
+    "ids": [
+      433
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军11",
+    "ids": [
+      434
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军12",
+    "ids": [
+      435
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军13",
+    "ids": [
+      436
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军14",
+    "ids": [
+      437
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军15",
+    "ids": [
+      438
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军16",
+    "ids": [
+      439
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "锦帆贼1",
+    "ids": [
+      440
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "锦帆贼2",
+    "ids": [
+      441
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "锦帆贼3",
+    "ids": [
+      442
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "锦帆贼4",
+    "ids": [
+      443
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "锦帆贼5",
+    "ids": [
+      444
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "锦帆贼6",
+    "ids": [
+      445
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵1",
+    "ids": [
+      446
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵2",
+    "ids": [
+      447
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵3",
+    "ids": [
+      448
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵4",
+    "ids": [
+      449
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵5",
+    "ids": [
+      450
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵6",
+    "ids": [
+      451
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵7",
+    "ids": [
+      452
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丹阳兵8",
+    "ids": [
+      453
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵1",
+    "ids": [
+      454
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵2",
+    "ids": [
+      455
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵3",
+    "ids": [
+      456
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵4",
+    "ids": [
+      457
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵5",
+    "ids": [
+      458
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵6",
+    "ids": [
+      459
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵7",
+    "ids": [
+      460
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弩兵8",
+    "ids": [
+      461
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军1",
+    "ids": [
+      462
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军2",
+    "ids": [
+      463
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军3",
+    "ids": [
+      464
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军4",
+    "ids": [
+      465
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军5",
+    "ids": [
+      466
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军6",
+    "ids": [
+      467
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军7",
+    "ids": [
+      468
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "先登军8",
+    "ids": [
+      469
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵1",
+    "ids": [
+      470
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵2",
+    "ids": [
+      471
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵3",
+    "ids": [
+      472
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵4",
+    "ids": [
+      473
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵5",
+    "ids": [
+      474
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵6",
+    "ids": [
+      475
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵7",
+    "ids": [
+      476
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵8",
+    "ids": [
+      477
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵9",
+    "ids": [
+      478
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵10",
+    "ids": [
+      479
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵11",
+    "ids": [
+      480
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西羌兵12",
+    "ids": [
+      481
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵1",
+    "ids": [
+      482
+    ],
+    "original_files": [
+      "R_07.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵2",
+    "ids": [
+      483
+    ],
+    "original_files": [
+      "R_07.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵3",
+    "ids": [
+      484
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵4",
+    "ids": [
+      485
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵5",
+    "ids": [
+      486
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵6",
+    "ids": [
+      487
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵7",
+    "ids": [
+      488
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵8",
+    "ids": [
+      489
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵9",
+    "ids": [
+      490
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵10",
+    "ids": [
+      491
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵11",
+    "ids": [
+      492
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲜卑兵12",
+    "ids": [
+      493
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑1",
+    "ids": [
+      494
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑2",
+    "ids": [
+      495
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑3",
+    "ids": [
+      496
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑4",
+    "ids": [
+      497
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑5",
+    "ids": [
+      498
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑6",
+    "ids": [
+      499
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑7",
+    "ids": [
+      500
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑8",
+    "ids": [
+      501
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑9",
+    "ids": [
+      502
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑10",
+    "ids": [
+      503
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑11",
+    "ids": [
+      504
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蛮族骑12",
+    "ids": [
+      505
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵1",
+    "ids": [
+      506
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵2",
+    "ids": [
+      507
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵3",
+    "ids": [
+      508
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵4",
+    "ids": [
+      509
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵5",
+    "ids": [
+      510
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵6",
+    "ids": [
+      511
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵7",
+    "ids": [
+      512
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵8",
+    "ids": [
+      513
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵9",
+    "ids": [
+      514
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "弓骑兵10",
+    "ids": [
+      515
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辎重队1",
+    "ids": [
+      516
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辎重队2",
+    "ids": [
+      517
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辎重队3",
+    "ids": [
+      518
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辎重队4",
+    "ids": [
+      519
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辎重队5",
+    "ids": [
+      520
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辎重队6",
+    "ids": [
+      521
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑1",
+    "ids": [
+      522
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑2",
+    "ids": [
+      523
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑3",
+    "ids": [
+      524
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑4",
+    "ids": [
+      525
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑5",
+    "ids": [
+      526
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑6",
+    "ids": [
+      527
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑7",
+    "ids": [
+      528
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "南蛮骑8",
+    "ids": [
+      529
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士1",
+    "ids": [
+      530
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士2",
+    "ids": [
+      531
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士3",
+    "ids": [
+      532
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士4",
+    "ids": [
+      533
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士5",
+    "ids": [
+      534
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士6",
+    "ids": [
+      535
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士7",
+    "ids": [
+      536
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "大戟士8",
+    "ids": [
+      537
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑1",
+    "ids": [
+      538
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑2",
+    "ids": [
+      539
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑3",
+    "ids": [
+      540
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑4",
+    "ids": [
+      541
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑5",
+    "ids": [
+      542
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑6",
+    "ids": [
+      543
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑7",
+    "ids": [
+      544
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑8",
+    "ids": [
+      545
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "诸葛瑾",
+    "ids": [
+      546
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_15.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "何晏",
+    "ids": [
+      547
+    ],
+    "original_files": [
+      "R_13.txt",
+      "R_14.txt",
+      "R_17.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙亮",
+    "ids": [
+      548
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张华",
+    "ids": [
+      549
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "卑衍",
+    "ids": [
+      550
+    ],
+    "original_files": [
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "高柔",
+    "ids": [
+      551
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_20.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "杨祚",
+    "ids": [
+      552
+    ],
+    "original_files": [
+      "R_14.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "辛宪英",
+    "ids": [
+      553
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 8
+  },
+  {
+    "name": "辛敞",
+    "ids": [
+      554
+    ],
+    "original_files": [
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "钟毓",
+    "ids": [
+      555
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_21.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 12
+  },
+  {
+    "name": "王昶",
+    "ids": [
+      556
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘渊",
+    "ids": [
+      557
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李特",
+    "ids": [
+      558
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "老人",
+    "ids": [
+      559
+    ],
+    "original_files": [
+      "R_06.txt",
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "女童",
+    "ids": [
+      560
+    ],
+    "original_files": [
+      "R_05.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "男童",
+    "ids": [
+      561
+    ],
+    "original_files": [
+      "R_12.txt",
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "商人",
+    "ids": [
+      562
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "农夫",
+    "ids": [
+      563
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "男子",
+    "ids": [
+      564
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "女子",
+    "ids": [
+      565
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "士兵01",
+    "ids": [
+      566
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_05.txt",
+      "R_06.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_13.txt",
+      "R_14.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_20.txt",
+      "R_22.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "士兵02",
+    "ids": [
+      567
+    ],
+    "original_files": [
+      "R_16.txt",
+      "R_18.txt",
+      "R_20.txt",
+      "R_23.txt",
+      "R_25.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 8
+  },
+  {
+    "name": "士兵03",
+    "ids": [
+      568
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_23.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武官",
+    "ids": [
+      569
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_29.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 9
+  },
+  {
+    "name": "文官",
+    "ids": [
+      570
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_20.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 1
+  },
+  {
+    "name": "使者",
+    "ids": [
+      571
+    ],
+    "original_files": [
+      "R_10.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_19.txt",
+      "R_24.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 17
+  },
+  {
+    "name": "医生",
+    "ids": [
+      572
+    ],
+    "original_files": [
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "旅人",
+    "ids": [
+      573
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "老妇",
+    "ids": [
+      574
+    ],
+    "original_files": [
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "酒家女",
+    "ids": [
+      575
+    ],
+    "original_files": [
+      "R_16.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "学者",
+    "ids": [
+      576
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蒋济",
+    "ids": [
+      577
+    ],
+    "original_files": [
+      "R_03.txt",
+      "R_10.txt",
+      "R_13.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李丰",
+    "ids": [
+      578
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张缉",
+    "ids": [
+      579
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王肃",
+    "ids": [
+      580
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_22.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羊琇",
+    "ids": [
+      581
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 24
+  },
+  {
+    "name": "姚柯回",
+    "ids": [
+      582
+    ],
+    "original_files": [
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "嵇康",
+    "ids": [
+      583
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陶璜",
+    "ids": [
+      584
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "韦昭",
+    "ids": [
+      585
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙鲁班",
+    "ids": [
+      586
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郑冲",
+    "ids": [
+      587
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王祥",
+    "ids": [
+      588
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_28.txt",
+      "R_31.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "傅嘏",
+    "ids": [
+      589
+    ],
+    "original_files": [
+      "R_17.txt",
+      "R_20.txt",
+      "R_23.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "滕胤",
+    "ids": [
+      590
+    ],
+    "original_files": [
+      "R_19.txt",
+      "R_20.txt",
+      "R_21.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "石周曷朱",
+    "ids": [
+      591
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵1",
+    "ids": [
+      592
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵2",
+    "ids": [
+      593
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵3",
+    "ids": [
+      594
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵4",
+    "ids": [
+      595
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵5",
+    "ids": [
+      596
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵6",
+    "ids": [
+      597
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵7",
+    "ids": [
+      598
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵8",
+    "ids": [
+      599
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵9",
+    "ids": [
+      600
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵10",
+    "ids": [
+      601
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵11",
+    "ids": [
+      602
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "氐族兵12",
+    "ids": [
+      603
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵1",
+    "ids": [
+      604
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵2",
+    "ids": [
+      605
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵3",
+    "ids": [
+      606
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵4",
+    "ids": [
+      607
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵5",
+    "ids": [
+      608
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵6",
+    "ids": [
+      609
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵7",
+    "ids": [
+      610
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵8",
+    "ids": [
+      611
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵9",
+    "ids": [
+      612
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵10",
+    "ids": [
+      613
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵11",
+    "ids": [
+      614
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "羯族兵12",
+    "ids": [
+      615
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵1",
+    "ids": [
+      616
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵2",
+    "ids": [
+      617
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵3",
+    "ids": [
+      618
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵4",
+    "ids": [
+      619
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵5",
+    "ids": [
+      620
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵6",
+    "ids": [
+      621
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵7",
+    "ids": [
+      622
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵8",
+    "ids": [
+      623
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵9",
+    "ids": [
+      624
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵10",
+    "ids": [
+      625
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵11",
+    "ids": [
+      626
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴兵12",
+    "ids": [
+      627
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑1",
+    "ids": [
+      628
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑2",
+    "ids": [
+      629
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑3",
+    "ids": [
+      630
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑4",
+    "ids": [
+      631
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑5",
+    "ids": [
+      632
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑6",
+    "ids": [
+      633
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑7",
+    "ids": [
+      634
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑8",
+    "ids": [
+      635
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑9",
+    "ids": [
+      636
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑10",
+    "ids": [
+      637
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑11",
+    "ids": [
+      638
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑12",
+    "ids": [
+      639
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑13",
+    "ids": [
+      640
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑14",
+    "ids": [
+      641
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑15",
+    "ids": [
+      642
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "匈奴骑16",
+    "ids": [
+      643
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "桓范",
+    "ids": [
+      644
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "邓艾1",
+    "ids": [
+      645
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_28.txt",
+      "R_29.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "甘宁1",
+    "ids": [
+      646
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "陈寿",
+    "ids": [
+      647
+    ],
+    "original_files": [],
+    "sequel_speech_count": 8
+  },
+  {
+    "name": "若罗拔能",
+    "ids": [
+      648
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "慕容涉归",
+    "ids": [
+      649
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王平",
+    "ids": [
+      650
+    ],
+    "original_files": [
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_05.txt",
+      "R_07.txt",
+      "R_08.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "邓芝",
+    "ids": [
+      651
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt",
+      "R_05.txt",
+      "R_07.txt",
+      "R_12.txt",
+      "R_13.txt",
+      "R_20.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郤正",
+    "ids": [
+      652
+    ],
+    "original_files": [
+      "R_20.txt",
+      "R_21.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_26.txt",
+      "R_27.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 11
+  },
+  {
+    "name": "尹大目",
+    "ids": [
+      653
+    ],
+    "original_files": [
+      "R_17.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赵明",
+    "ids": [
+      654
+    ],
+    "original_files": [
+      "R_30.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赵熊",
+    "ids": [
+      655
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赵触",
+    "ids": [
+      656
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赵锤",
+    "ids": [
+      657
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赵绅",
+    "ids": [
+      658
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "司马班",
+    "ids": [
+      659
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "曹节",
+    "ids": [
+      660
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "高然弗",
+    "ids": [
+      661
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "台与",
+    "ids": [
+      662
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "司马亮",
+    "ids": [
+      663
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张政",
+    "ids": [
+      664
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "山涛",
+    "ids": [
+      665
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_24.txt",
+      "R_28.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "阮籍",
+    "ids": [
+      666
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "齐万年",
+    "ids": [
+      667
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "来敏",
+    "ids": [
+      668
+    ],
+    "original_files": [
+      "R_15.txt",
+      "R_16.txt",
+      "R_24.txt",
+      "R_25.txt",
+      "R_29.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "何曾",
+    "ids": [
+      669
+    ],
+    "original_files": [
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "任恺",
+    "ids": [
+      670
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "高堂隆",
+    "ids": [
+      671
+    ],
+    "original_files": [
+      "R_13.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "许允",
+    "ids": [
+      672
+    ],
+    "original_files": [
+      "R_18.txt",
+      "R_20.txt",
+      "R_21.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘豹",
+    "ids": [
+      673
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑9",
+    "ids": [
+      674
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑10",
+    "ids": [
+      675
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑11",
+    "ids": [
+      676
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "虎豹骑12",
+    "ids": [
+      677
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军1",
+    "ids": [
+      678
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军2",
+    "ids": [
+      679
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军3",
+    "ids": [
+      680
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军4",
+    "ids": [
+      681
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军5",
+    "ids": [
+      682
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军6",
+    "ids": [
+      683
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军7",
+    "ids": [
+      684
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解烦军8",
+    "ids": [
+      685
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营9",
+    "ids": [
+      686
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营10",
+    "ids": [
+      687
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营11",
+    "ids": [
+      688
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武卫营12",
+    "ids": [
+      689
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "禁卫军1",
+    "ids": [
+      690
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "禁卫军2",
+    "ids": [
+      691
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军1",
+    "ids": [
+      692
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军2",
+    "ids": [
+      693
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军3",
+    "ids": [
+      694
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军4",
+    "ids": [
+      695
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军5",
+    "ids": [
+      696
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军6",
+    "ids": [
+      697
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军7",
+    "ids": [
+      698
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军8",
+    "ids": [
+      699
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军9",
+    "ids": [
+      700
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军10",
+    "ids": [
+      701
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军11",
+    "ids": [
+      702
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敢死军12",
+    "ids": [
+      703
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "刘放",
+    "ids": [
+      704
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_18.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "郭太后",
+    "ids": [
+      705
+    ],
+    "original_files": [
+      "R_21.txt",
+      "R_27.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王元姬",
+    "ids": [
+      706
+    ],
+    "original_files": [
+      "R_23.txt",
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 15
+  },
+  {
+    "name": "糜照",
+    "ids": [
+      707
+    ],
+    "original_files": [
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马车",
+    "ids": [
+      708
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "文鸯1",
+    "ids": [
+      709
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "文虎1",
+    "ids": [
+      710
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "张虎1",
+    "ids": [
+      711
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蒋舒1",
+    "ids": [
+      712
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "桓楷",
+    "ids": [
+      713
+    ],
+    "original_files": [
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "钟会1",
+    "ids": [
+      714
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "钟会2",
+    "ids": [
+      715
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李辅",
+    "ids": [
+      716
+    ],
+    "original_files": [
+      "R_29.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "蒋显",
+    "ids": [
+      717
+    ],
+    "original_files": [
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "丘本",
+    "ids": [
+      718
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_30.txt",
+      "R_31.txt",
+      "R_32.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "成倅",
+    "ids": [
+      719
+    ],
+    "original_files": [
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "和峤",
+    "ids": [
+      720
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "魏舒",
+    "ids": [
+      721
+    ],
+    "original_files": [
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "诸葛靓",
+    "ids": [
+      722
+    ],
+    "original_files": [
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "留平",
+    "ids": [
+      723
+    ],
+    "original_files": [],
+    "sequel_speech_count": 30
+  },
+  {
+    "name": "马谡1",
+    "ids": [
+      724
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "薛珝",
+    "ids": [
+      725
+    ],
+    "original_files": [
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 9
+  },
+  {
+    "name": "范长生",
+    "ids": [
+      726
+    ],
+    "original_files": [],
+    "sequel_speech_count": 12
+  },
+  {
+    "name": "皇甫谧",
+    "ids": [
+      727
+    ],
+    "original_files": [
+      "R_24.txt",
+      "R_25.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "王双",
+    "ids": [
+      728
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "邵悌",
+    "ids": [
+      729
+    ],
+    "original_files": [
+      "R_28.txt",
+      "R_33.txt"
+    ],
+    "sequel_speech_count": 7
+  },
+  {
+    "name": "邓敦",
+    "ids": [
+      730
+    ],
+    "original_files": [
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "齐万年1",
+    "ids": [
+      731
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李特1",
+    "ids": [
+      732
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军1",
+    "ids": [
+      733
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军2",
+    "ids": [
+      734
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军3",
+    "ids": [
+      735
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军4",
+    "ids": [
+      736
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军5",
+    "ids": [
+      737
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军6",
+    "ids": [
+      738
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军7",
+    "ids": [
+      739
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军8",
+    "ids": [
+      740
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军9",
+    "ids": [
+      741
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军10",
+    "ids": [
+      742
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军11",
+    "ids": [
+      743
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军12",
+    "ids": [
+      744
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军13",
+    "ids": [
+      745
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军14",
+    "ids": [
+      746
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军15",
+    "ids": [
+      747
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军16",
+    "ids": [
+      748
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军17",
+    "ids": [
+      749
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军18",
+    "ids": [
+      750
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军19",
+    "ids": [
+      751
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军20",
+    "ids": [
+      752
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军21",
+    "ids": [
+      753
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军22",
+    "ids": [
+      754
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军23",
+    "ids": [
+      755
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军24",
+    "ids": [
+      756
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军25",
+    "ids": [
+      757
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军26",
+    "ids": [
+      758
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军27",
+    "ids": [
+      759
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军28",
+    "ids": [
+      760
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军29",
+    "ids": [
+      761
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军30",
+    "ids": [
+      762
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军31",
+    "ids": [
+      763
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "骁骑军32",
+    "ids": [
+      764
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军1",
+    "ids": [
+      765
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军2",
+    "ids": [
+      766
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军3",
+    "ids": [
+      767
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军4",
+    "ids": [
+      768
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军5",
+    "ids": [
+      769
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军6",
+    "ids": [
+      770
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军7",
+    "ids": [
+      771
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军8",
+    "ids": [
+      772
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军9",
+    "ids": [
+      773
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军10",
+    "ids": [
+      774
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军11",
+    "ids": [
+      775
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军12",
+    "ids": [
+      776
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军13",
+    "ids": [
+      777
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军14",
+    "ids": [
+      778
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军15",
+    "ids": [
+      779
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军16",
+    "ids": [
+      780
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军17",
+    "ids": [
+      781
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军18",
+    "ids": [
+      782
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军19",
+    "ids": [
+      783
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军20",
+    "ids": [
+      784
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军21",
+    "ids": [
+      785
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军22",
+    "ids": [
+      786
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军23",
+    "ids": [
+      787
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军24",
+    "ids": [
+      788
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军25",
+    "ids": [
+      789
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军26",
+    "ids": [
+      790
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军27",
+    "ids": [
+      791
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军28",
+    "ids": [
+      792
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军29",
+    "ids": [
+      793
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军30",
+    "ids": [
+      794
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军31",
+    "ids": [
+      795
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游击军32",
+    "ids": [
+      796
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "牵招",
+    "ids": [
+      797
+    ],
+    "original_files": [
+      "R_07.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "轲比能",
+    "ids": [
+      798
+    ],
+    "original_files": [
+      "R_07.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李明",
+    "ids": [
+      799
+    ],
+    "original_files": [
+      "R_06.txt",
+      "R_12.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙葳",
+    "ids": [
+      800
+    ],
+    "original_files": [
+      "R_12.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "鲁芝",
+    "ids": [
+      801
+    ],
+    "original_files": [
+      "R_02.txt",
+      "R_03.txt",
+      "R_04.txt",
+      "R_06.txt",
+      "R_08.txt",
+      "R_09.txt",
+      "R_10.txt",
+      "R_11.txt",
+      "R_13.txt",
+      "R_15.txt",
+      "R_16.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt",
+      "R_25.txt",
+      "R_27.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "尹香",
+    "ids": [
+      802
+    ],
+    "original_files": [
+      "R_07.txt",
+      "R_13.txt",
+      "R_24.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "关兴",
+    "ids": [
+      803
+    ],
+    "original_files": [
+      "R_09.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑1",
+    "ids": [
+      804
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑2",
+    "ids": [
+      805
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑3",
+    "ids": [
+      806
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑4",
+    "ids": [
+      807
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑5",
+    "ids": [
+      808
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑6",
+    "ids": [
+      809
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑7",
+    "ids": [
+      810
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑8",
+    "ids": [
+      811
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑9",
+    "ids": [
+      812
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑10",
+    "ids": [
+      813
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑11",
+    "ids": [
+      814
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游牧骑12",
+    "ids": [
+      815
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "玄术骑1",
+    "ids": [
+      816
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "玄术骑2",
+    "ids": [
+      817
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "玄术骑3",
+    "ids": [
+      818
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "玄术骑4",
+    "ids": [
+      819
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "玄术骑5",
+    "ids": [
+      820
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "玄术骑6",
+    "ids": [
+      821
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "袁綝1",
+    "ids": [
+      822
+    ],
+    "original_files": [
+      "R_08.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西凉骑1",
+    "ids": [
+      823
+    ],
+    "original_files": [
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西凉骑2",
+    "ids": [
+      824
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西凉骑3",
+    "ids": [
+      825
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西凉骑4",
+    "ids": [
+      826
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西凉骑5",
+    "ids": [
+      827
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "西凉骑6",
+    "ids": [
+      828
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军17",
+    "ids": [
+      829
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军18",
+    "ids": [
+      830
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军19",
+    "ids": [
+      831
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军20",
+    "ids": [
+      832
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军21",
+    "ids": [
+      833
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军22",
+    "ids": [
+      834
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军23",
+    "ids": [
+      835
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军24",
+    "ids": [
+      836
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军25",
+    "ids": [
+      837
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军26",
+    "ids": [
+      838
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军27",
+    "ids": [
+      839
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军28",
+    "ids": [
+      840
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军29",
+    "ids": [
+      841
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军30",
+    "ids": [
+      842
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军31",
+    "ids": [
+      843
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "水军32",
+    "ids": [
+      844
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "钟会4",
+    "ids": [
+      845
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "孙氏",
+    "ids": [
+      846
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "李歆",
+    "ids": [
+      847
+    ],
+    "original_files": [
+      "R_15.txt",
+      "R_17.txt",
+      "R_18.txt",
+      "R_19.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "女子1",
+    "ids": [
+      848
+    ],
+    "original_files": [
+      "R_14.txt",
+      "R_16.txt",
+      "R_20.txt",
+      "R_27.txt",
+      "R_28.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "马隆1",
+    "ids": [
+      849
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军1",
+    "ids": [
+      850
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军2",
+    "ids": [
+      851
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军3",
+    "ids": [
+      852
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军4",
+    "ids": [
+      853
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军5",
+    "ids": [
+      854
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军6",
+    "ids": [
+      855
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军7",
+    "ids": [
+      856
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "踏浪军8",
+    "ids": [
+      857
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑1",
+    "ids": [
+      858
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑2",
+    "ids": [
+      859
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑3",
+    "ids": [
+      860
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑4",
+    "ids": [
+      861
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑5",
+    "ids": [
+      862
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑6",
+    "ids": [
+      863
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑7",
+    "ids": [
+      864
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "江东骑8",
+    "ids": [
+      865
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "主簿",
+    "ids": [
+      866
+    ],
+    "original_files": [],
+    "sequel_speech_count": 74
+  },
+  {
+    "name": "参军",
+    "ids": [
+      867
+    ],
+    "original_files": [],
+    "sequel_speech_count": 11
+  },
+  {
+    "name": "老兵",
+    "ids": [
+      868
+    ],
+    "original_files": [],
+    "sequel_speech_count": 77
+  },
+  {
+    "name": "新兵",
+    "ids": [
+      869
+    ],
+    "original_files": [],
+    "sequel_speech_count": 48
+  },
+  {
+    "name": "魏兵",
+    "ids": [
+      870
+    ],
+    "original_files": [],
+    "sequel_speech_count": 21
+  },
+  {
+    "name": "蜀兵",
+    "ids": [
+      871
+    ],
+    "original_files": [],
+    "sequel_speech_count": 60
+  },
+  {
+    "name": "魏将",
+    "ids": [
+      872
+    ],
+    "original_files": [],
+    "sequel_speech_count": 18
+  },
+  {
+    "name": "蜀降卒",
+    "ids": [
+      873
+    ],
+    "original_files": [],
+    "sequel_speech_count": 25
+  },
+  {
+    "name": "难度设定",
+    "ids": [
+      899
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "转换",
+    "ids": [
+      900
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "使用仙蕴果",
+    "ids": [
+      901
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "武力",
+    "ids": [
+      902
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "统御",
+    "ids": [
+      903
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "智力",
+    "ids": [
+      904
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敏捷",
+    "ids": [
+      905
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "士气",
+    "ids": [
+      906
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "907",
+    "ids": [
+      907
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "908",
+    "ids": [
+      908
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "909",
+    "ids": [
+      909
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "910",
+    "ids": [
+      910
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "911",
+    "ids": [
+      911
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "912",
+    "ids": [
+      912
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "913",
+    "ids": [
+      913
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "914",
+    "ids": [
+      914
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "915",
+    "ids": [
+      915
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "916",
+    "ids": [
+      916
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "917",
+    "ids": [
+      917
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "918",
+    "ids": [
+      918
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "919",
+    "ids": [
+      919
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "920",
+    "ids": [
+      920
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "921",
+    "ids": [
+      921
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "新的战场音乐",
+    "ids": [
+      922
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "显示buff状态",
+    "ids": [
+      923
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "显示地形适性",
+    "ids": [
+      924
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敌军精英单位",
+    "ids": [
+      925
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "误触保护",
+    "ids": [
+      926
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "更改设定",
+    "ids": [
+      927
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "95",
+    "ids": [
+      928
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "96",
+    "ids": [
+      929
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "97",
+    "ids": [
+      930
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "98",
+    "ids": [
+      931
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "99",
+    "ids": [
+      932
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "100",
+    "ids": [
+      933
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "培养系统",
+    "ids": [
+      934
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "返回军营",
+    "ids": [
+      935
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "能力培养",
+    "ids": [
+      936
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策略1",
+    "ids": [
+      937
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策略2",
+    "ids": [
+      938
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "策略3",
+    "ids": [
+      939
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "技能1",
+    "ids": [
+      940
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "技能2",
+    "ids": [
+      941
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "技能3",
+    "ids": [
+      942
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "返回",
+    "ids": [
+      943
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "装备淬炼",
+    "ids": [
+      944
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "下一页",
+    "ids": [
+      945
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "淬炼",
+    "ids": [
+      946
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "附灵",
+    "ids": [
+      947
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物1",
+    "ids": [
+      948
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物2",
+    "ids": [
+      949
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物3",
+    "ids": [
+      950
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物4",
+    "ids": [
+      951
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物5",
+    "ids": [
+      952
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物6",
+    "ids": [
+      953
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物7",
+    "ids": [
+      954
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物8",
+    "ids": [
+      955
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物9",
+    "ids": [
+      956
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物10",
+    "ids": [
+      957
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物11",
+    "ids": [
+      958
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物12",
+    "ids": [
+      959
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物13",
+    "ids": [
+      960
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物14",
+    "ids": [
+      961
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物15",
+    "ids": [
+      962
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物16",
+    "ids": [
+      963
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物17",
+    "ids": [
+      964
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "宝物18",
+    "ids": [
+      965
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "神秘商店",
+    "ids": [
+      966
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "装备",
+    "ids": [
+      967
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "解锁",
+    "ids": [
+      968
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "积攒之手",
+    "ids": [
+      969
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "四叶草化石",
+    "ids": [
+      970
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "璀璨悲泣",
+    "ids": [
+      971
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "钢铁坚躯",
+    "ids": [
+      972
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "浅海轻唱",
+    "ids": [
+      973
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "无度",
+    "ids": [
+      974
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "长生者之证",
+    "ids": [
+      975
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "恍悟",
+    "ids": [
+      976
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "回到主页",
+    "ids": [
+      977
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "形象一",
+    "ids": [
+      978
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "形象二",
+    "ids": [
+      979
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "攻击描边",
+    "ids": [
+      980
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "档位显示",
+    "ids": [
+      981
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "满级模式",
+    "ids": [
+      982
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "全宝模式",
+    "ids": [
+      983
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "敌我成长",
+    "ids": [
+      984
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "AI仇恨值",
+    "ids": [
+      985
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "设定形象",
+    "ids": [
+      986
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "三功勋",
+    "ids": [
+      987
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "四功勋",
+    "ids": [
+      988
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "五功勋",
+    "ids": [
+      989
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "正常观看剧情",
+    "ids": [
+      990
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "保持跳过剧情",
+    "ids": [
+      991
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "每关询问跳过",
+    "ids": [
+      992
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "帮助",
+    "ids": [
+      993,
+      994,
+      995,
+      996,
+      997,
+      998
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "101",
+    "ids": [
+      999
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "开始游戏",
+    "ids": [
+      1000
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "游戏指导",
+    "ids": [
+      1003
+    ],
+    "original_files": [
+      "R_00 - 副本.txt",
+      "R_00.txt"
+    ],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "？？？7",
+    "ids": [
+      1004
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "？？？5",
+    "ids": [
+      1005
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "？？？1",
+    "ids": [
+      1006
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "？？？2",
+    "ids": [
+      1007
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "？？？3",
+    "ids": [
+      1008
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "？？？4",
+    "ids": [
+      1009
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "艾丽妮",
+    "ids": [
+      1010
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "Ratchet",
+    "ids": [
+      1011
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "军需官",
+    "ids": [
+      1012
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "文官02",
+    "ids": [
+      1014
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "乌桓兵01",
+    "ids": [
+      1015
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "乌桓兵02",
+    "ids": [
+      1016
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "乌桓兵03",
+    "ids": [
+      1017
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "乌桓兵04",
+    "ids": [
+      1018
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "赤兔马",
+    "ids": [
+      1019
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "的卢",
+    "ids": [
+      1020
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  },
+  {
+    "name": "褐马",
+    "ids": [
+      1021
+    ],
+    "original_files": [],
+    "sequel_speech_count": 0
+  }
+]

@@ -1,0 +1,4 @@
+# Preserve archived source bytes and cross-platform SHA256 verification.
+* -text
+*.EEX binary
+*.e5 binary

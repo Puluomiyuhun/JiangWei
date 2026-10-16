@@ -1,0 +1,909 @@
+{
+  "02": {
+    "name": "Cmd_InternalInfo",
+    "args": [
+      5
+    ]
+  },
+  "04": {
+    "name": "Cmd_QueryTest",
+    "args": [
+      38
+    ]
+  },
+  "05": {
+    "name": "Cmd_VarTest",
+    "args": [
+      53,
+      1,
+      53,
+      1
+    ]
+  },
+  "06": {
+    "name": "Cmd_DeployLimit",
+    "args": [
+      46,
+      4
+    ]
+  },
+  "07": {
+    "name": "Cmd_DeployedTest",
+    "args": []
+  },
+  "08": {
+    "name": "Cmd_Menu",
+    "args": [
+      46
+    ]
+  },
+  "09": {
+    "name": "Cmd_Delay",
+    "args": [
+      4
+    ]
+  },
+  "0A": {
+    "name": "Cmd_InitLocalVars",
+    "args": []
+  },
+  "0B": {
+    "name": "Cmd_AssignVar",
+    "args": [
+      4,
+      39
+    ]
+  },
+  "0C": {
+    "name": "Cmd_EndSection",
+    "args": []
+  },
+  "0D": {
+    "name": "Cmd_EndScene",
+    "args": []
+  },
+  "0E": {
+    "name": "Cmd_BattleFail",
+    "args": []
+  },
+  "0F": {
+    "name": "Cmd_EndingSet",
+    "args": [
+      18
+    ]
+  },
+  "11": {
+    "name": "Cmd_ScriptJump",
+    "args": [
+      55
+    ]
+  },
+  "12": {
+    "name": "Cmd_SelectionBox",
+    "args": [
+      5,
+      2
+    ]
+  },
+  "13": {
+    "name": "Cmd_Case",
+    "args": [
+      4
+    ]
+  },
+  "14": {
+    "name": "Cmd_Dialogue",
+    "args": [
+      5
+    ]
+  },
+  "15": {
+    "name": "Cmd_Dialogue2",
+    "args": [
+      2,
+      2,
+      5
+    ]
+  },
+  "16": {
+    "name": "Cmd_ShowInfo",
+    "args": [
+      5
+    ]
+  },
+  "17": {
+    "name": "Cmd_LocationName",
+    "args": [
+      5
+    ]
+  },
+  "18": {
+    "name": "Cmd_EventName",
+    "args": [
+      5
+    ]
+  },
+  "19": {
+    "name": "Cmd_WinCondition",
+    "args": [
+      5
+    ]
+  },
+  "1A": {
+    "name": "Cmd_ShowWinCondition",
+    "args": [
+      5
+    ]
+  },
+  "1B": {
+    "name": "Cmd_RetreatInfoFlag",
+    "args": [
+      2,
+      39
+    ]
+  },
+  "1C": {
+    "name": "Cmd_Draw",
+    "args": []
+  },
+  "1D": {
+    "name": "Cmd_PaletteSet",
+    "args": []
+  },
+  "1E": {
+    "name": "Cmd_CharRedraw",
+    "args": []
+  },
+  "1F": {
+    "name": "Cmd_MapViewSwitch",
+    "args": [
+      4,
+      4
+    ]
+  },
+  "20": {
+    "name": "Cmd_AvatarStatusSet",
+    "args": [
+      74
+    ]
+  },
+  "21": {
+    "name": "Cmd_BattleObjectAdd",
+    "args": [
+      4,
+      4,
+      16,
+      38,
+      38
+    ]
+  },
+  "22": {
+    "name": "Cmd_Animation",
+    "args": [
+      27
+    ]
+  },
+  "23": {
+    "name": "Cmd_SoundEffect",
+    "args": [
+      30,
+      4
+    ]
+  },
+  "24": {
+    "name": "Cmd_CdTrack",
+    "args": [
+      9
+    ]
+  },
+  "25": {
+    "name": "Cmd_UnitAtPosTest",
+    "args": [
+      2,
+      4,
+      4
+    ]
+  },
+  "26": {
+    "name": "Cmd_UnitInAreaTest",
+    "args": [
+      2,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "27": {
+    "name": "Cmd_ShowBackground",
+    "args": [
+      45,
+      12,
+      26,
+      28,
+      21
+    ]
+  },
+  "28": {
+    "name": "Cmd_FreeRStart",
+    "args": [
+      54
+    ]
+  },
+  "29": {
+    "name": "Cmd_MapAvatarShow",
+    "args": [
+      2,
+      4,
+      4
+    ]
+  },
+  "2A": {
+    "name": "Cmd_MapAvatarMove",
+    "args": [
+      2,
+      4,
+      4
+    ]
+  },
+  "2B": {
+    "name": "Cmd_MapAvatarHide",
+    "args": [
+      2
+    ]
+  },
+  "2C": {
+    "name": "Cmd_MapTextShow",
+    "args": [
+      5,
+      38,
+      38,
+      38
+    ]
+  },
+  "2D": {
+    "name": "Cmd_UnitClickTest",
+    "args": [
+      2
+    ]
+  },
+  "2E": {
+    "name": "Cmd_UnitAdjacentTest",
+    "args": [
+      2,
+      2,
+      38
+    ]
+  },
+  "2F": {
+    "name": "Cmd_ClearChar",
+    "args": []
+  },
+  "30": {
+    "name": "Cmd_CharAppear",
+    "args": [
+      2,
+      4,
+      4,
+      43,
+      13
+    ]
+  },
+  "31": {
+    "name": "Cmd_CharDisappear",
+    "args": [
+      44,
+      2,
+      4,
+      4,
+      4,
+      4,
+      3
+    ]
+  },
+  "32": {
+    "name": "Cmd_CharMove",
+    "args": [
+      64,
+      2,
+      4,
+      4,
+      4,
+      43
+    ]
+  },
+  "33": {
+    "name": "Cmd_CharTurn",
+    "args": [
+      2,
+      13,
+      43
+    ]
+  },
+  "34": {
+    "name": "Cmd_CharAction",
+    "args": [
+      2,
+      13
+    ]
+  },
+  "35": {
+    "name": "Cmd_CharImageChange",
+    "args": [
+      2,
+      19
+    ]
+  },
+  "36": {
+    "name": "Cmd_UnitStatusTest",
+    "args": [
+      2,
+      35,
+      4,
+      36
+    ]
+  },
+  "37": {
+    "name": "Cmd_MoneyChapterLoyaltyTest",
+    "args": [
+      40,
+      4,
+      36
+    ]
+  },
+  "38": {
+    "name": "Cmd_UnitAbilitySet",
+    "args": [
+      2,
+      35,
+      52,
+      4
+    ]
+  },
+  "39": {
+    "name": "Cmd_UnitLevelUp",
+    "args": [
+      2,
+      4
+    ]
+  },
+  "3A": {
+    "name": "Cmd_MoneyChapterLoyaltySet",
+    "args": [
+      40,
+      52,
+      4
+    ]
+  },
+  "3B": {
+    "name": "Cmd_CharJoin",
+    "args": [
+      2,
+      14,
+      62
+    ]
+  },
+  "3C": {
+    "name": "Cmd_UnitJoinTest",
+    "args": [
+      2,
+      14,
+      58
+    ]
+  },
+  "3D": {
+    "name": "Cmd_GetItem",
+    "args": [
+      23,
+      73,
+      38,
+      2
+    ]
+  },
+  "3E": {
+    "name": "Cmd_AddEquipment",
+    "args": [
+      2,
+      59,
+      73,
+      60,
+      73,
+      61
+    ]
+  },
+  "3F": {
+    "name": "Cmd_TurnTest",
+    "args": [
+      4,
+      36
+    ]
+  },
+  "40": {
+    "name": "Cmd_SideTest",
+    "args": [
+      72
+    ]
+  },
+  "41": {
+    "name": "Cmd_UnitCountTest",
+    "args": [
+      3,
+      4,
+      36,
+      63,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "42": {
+    "name": "Cmd_WinTest",
+    "args": []
+  },
+  "43": {
+    "name": "Cmd_LoseTest",
+    "args": []
+  },
+  "44": {
+    "name": "Cmd_BattleInit",
+    "args": []
+  },
+  "45": {
+    "name": "Cmd_BattleGlobalVars",
+    "args": [
+      38,
+      38,
+      4,
+      62,
+      50,
+      2,
+      50,
+      2,
+      71,
+      34
+    ]
+  },
+  "46": {
+    "name": "Cmd_AllyDeploySetup",
+    "args": [
+      2,
+      38,
+      4,
+      4,
+      43,
+      62,
+      69,
+      7,
+      2,
+      4,
+      4
+    ]
+  },
+  "47": {
+    "name": "Cmd_EnemyDeploySetup",
+    "args": [
+      2,
+      38,
+      38,
+      4,
+      4,
+      43,
+      62,
+      69,
+      7,
+      2,
+      4,
+      4
+    ]
+  },
+  "48": {
+    "name": "Cmd_EnemyEquipSetup",
+    "args": [
+      2,
+      59,
+      73,
+      60,
+      73,
+      61
+    ]
+  },
+  "49": {
+    "name": "Cmd_BattleEnd",
+    "args": []
+  },
+  "4A": {
+    "name": "Cmd_ForcedDeploy",
+    "args": [
+      4
+    ]
+  },
+  "4B": {
+    "name": "Cmd_PlayerDeploySetup",
+    "args": [
+      4,
+      4,
+      4,
+      43,
+      38
+    ]
+  },
+  "4C": {
+    "name": "Cmd_HiddenUnitAppear",
+    "args": [
+      64,
+      2,
+      4
+    ]
+  },
+  "4D": {
+    "name": "Cmd_CharStatusChange",
+    "args": [
+      65,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      3,
+      47,
+      24,
+      48,
+      4,
+      4
+    ]
+  },
+  "4E": {
+    "name": "Cmd_UnitStrategyChange",
+    "args": [
+      44,
+      2,
+      4,
+      4,
+      4,
+      4,
+      3,
+      7,
+      2,
+      4,
+      4
+    ]
+  },
+  "4F": {
+    "name": "Cmd_BattleTurnSetup",
+    "args": [
+      2,
+      2,
+      43,
+      38,
+      38,
+      38
+    ]
+  },
+  "50": {
+    "name": "Cmd_BattleActionSetup",
+    "args": [
+      2,
+      70,
+      38,
+      38
+    ]
+  },
+  "51": {
+    "name": "Cmd_RestoreActions",
+    "args": []
+  },
+  "52": {
+    "name": "Cmd_ClassChange",
+    "args": [
+      2,
+      3
+    ]
+  },
+  "53": {
+    "name": "Cmd_BattleRetreat",
+    "args": [
+      44,
+      2,
+      4,
+      4,
+      4,
+      4,
+      3,
+      38
+    ]
+  },
+  "54": {
+    "name": "Cmd_RetreatConfirm",
+    "args": []
+  },
+  "55": {
+    "name": "Cmd_BattleRevive",
+    "args": [
+      64,
+      2,
+      4,
+      4,
+      4,
+      43
+    ]
+  },
+  "56": {
+    "name": "Cmd_WeatherTypeSet",
+    "args": [
+      71
+    ]
+  },
+  "57": {
+    "name": "Cmd_WeatherSet",
+    "args": [
+      34
+    ]
+  },
+  "58": {
+    "name": "Cmd_BattleObstacleSet",
+    "args": [
+      66,
+      67,
+      68,
+      4,
+      4,
+      38,
+      38
+    ]
+  },
+  "59": {
+    "name": "Cmd_BattleLoot",
+    "args": [
+      4,
+      23,
+      73,
+      23,
+      73,
+      23,
+      73,
+      38
+    ]
+  },
+  "5A": {
+    "name": "Cmd_BattleStart",
+    "args": []
+  },
+  "5B": {
+    "name": "Cmd_BattleHighlightArea",
+    "args": [
+      4,
+      4,
+      4,
+      4,
+      38
+    ]
+  },
+  "5C": {
+    "name": "Cmd_BattleHighlightUnit",
+    "args": [
+      2
+    ]
+  },
+  "5D": {
+    "name": "Cmd_TurnLimitSet",
+    "args": [
+      52,
+      4
+    ]
+  },
+  "5E": {
+    "name": "Cmd_UnitDiffTest",
+    "args": [
+      2,
+      2
+    ]
+  },
+  "5F": {
+    "name": "Cmd_DuelEnd",
+    "args": []
+  },
+  "60": {
+    "name": "Cmd_DuelCharAppear",
+    "args": [
+      38,
+      5,
+      76
+    ]
+  },
+  "61": {
+    "name": "Cmd_DuelResult",
+    "args": []
+  },
+  "62": {
+    "name": "Cmd_DuelDeath",
+    "args": [
+      38
+    ]
+  },
+  "63": {
+    "name": "Cmd_DuelDialogue",
+    "args": [
+      38,
+      5,
+      38
+    ]
+  },
+  "64": {
+    "name": "Cmd_DuelAction",
+    "args": [
+      38,
+      76
+    ]
+  },
+  "65": {
+    "name": "Cmd_DuelAttack1",
+    "args": [
+      38,
+      77,
+      38
+    ]
+  },
+  "66": {
+    "name": "Cmd_DuelAttack2",
+    "args": [
+      38,
+      78,
+      38
+    ]
+  },
+  "67": {
+    "name": "Cmd_ChapterName",
+    "args": [
+      4,
+      5
+    ]
+  },
+  "68": {
+    "name": "Cmd_DuelStart",
+    "args": [
+      2,
+      2,
+      79
+    ]
+  },
+  "69": {
+    "name": "Cmd_Narration",
+    "args": [
+      5
+    ]
+  },
+  "6A": {
+    "name": "Cmd_GameOver",
+    "args": []
+  },
+  "6B": {
+    "name": "Cmd_SpellEffect",
+    "args": [
+      4,
+      4,
+      75,
+      38
+    ]
+  },
+  "6F": {
+    "name": "Cmd_DiscardItem",
+    "args": [
+      23
+    ]
+  },
+  "6E": {
+    "name": "Cmd_ProbTest",
+    "args": [
+      4
+    ]
+  },
+  "72": {
+    "name": "Cmd_MsgTransferStub",
+    "args": [
+      4,
+      5
+    ]
+  },
+  "73": {
+    "name": "Cmd_UnitStatsSumTest",
+    "args": [
+      2,
+      4,
+      36,
+      38
+    ]
+  },
+  "74": {
+    "name": "Cmd_SaveToggle",
+    "args": [
+      38
+    ]
+  },
+  "76": {
+    "name": "Cmd_Goto",
+    "args": [
+      4
+    ]
+  },
+  "77": {
+    "name": "Cmd_VarArith",
+    "args": [
+      81,
+      4,
+      83,
+      82,
+      4
+    ]
+  },
+  "78": {
+    "name": "Cmd_IntVarAssign",
+    "args": [
+      4,
+      84,
+      2,
+      85
+    ]
+  },
+  "79": {
+    "name": "Cmd_IntVarTest",
+    "args": [
+      82,
+      4,
+      86,
+      82,
+      4
+    ]
+  },
+  "7B": {
+    "name": "Cmd_CustomTest66",
+    "args": [
+      4,
+      5
+    ]
+  },
+  "00": {
+    "name": "event_end",
+    "args": []
+  },
+  "01": {
+    "name": "subevent",
+    "args": []
+  },
+  "03": {
+    "name": "else",
+    "args": []
+  },
+  "71": {
+    "name": "custom_general",
+    "args": []
+  },
+  "6C": {
+    "name": "exchange_equipment",
+    "args": [
+      2,
+      2
+    ]
+  },
+  "6D": {
+    "name": "special_effect",
+    "args": [
+      64,
+      2,
+      4,
+      2,
+      4,
+      4,
+      43,
+      38
+    ]
+  },
+  "75": {
+    "name": "battle_form",
+    "args": [
+      2,
+      80
+    ]
+  }
+}
