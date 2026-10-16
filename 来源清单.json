@@ -3280,5 +3280,17 @@
     "仓库路径": "tools/eex/eex-opcodes65.json",
     "类型": "项目所需E5/EEX工具",
     "来源SHA256": "b163184a61f04ca7a7c637dbd6cafc70ad13778828054cabfc834819ff25aae8"
+  },
+  {
+    "来源": "C:\\Users\\puluomi002\\Documents\\Codex\\2026-10-15\\kan\\outputs\\后续剧情节奏与反转复核\\后续节奏评估.md",
+    "仓库路径": "knowledge/规划与研究/后续节奏复核/后续节奏评估.md",
+    "类型": "前轮规划审阅；方案未实施",
+    "来源SHA256": "bd74095ff9ef0a8b93c8a0b7b02689ef70828ade17e5d9e294dc8694ab1c6a3a"
+  },
+  {
+    "来源": "C:\\Users\\puluomi002\\Documents\\Codex\\2026-10-15\\kan\\outputs\\后续剧情节奏与反转复核\\后续剧情编排备忘（含剧透）.md",
+    "仓库路径": "knowledge/规划与研究/后续节奏复核/后续剧情编排备忘（含剧透）.md",
+    "类型": "前轮规划审阅；方案未实施",
+    "来源SHA256": "6d7050c45c4f0ddbb67bba05df77bd0d0de12a89bfd55796281de5f1d49fee39"
   }
 ]
