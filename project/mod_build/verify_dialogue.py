@@ -51,7 +51,7 @@ def verify_dialogue(b):
                                 '分框':[{'正文':'\n'.join(p.lines),'断点':p.break_kind} for p in pages]})
         assert k==len(actual),(n,'存在源稿没有对应的对白框',k,len(actual))
         chapter_stats.append({'回':n,'源对白条数':len(entries)-(n==len(b.chapters)),'对白框':len(actual),'需分页条数':multi,'分页心理活动':thoughts})
-    payload={'状态':'通过','范围':'第一至十三回新增正文及末回提示；原作接入17块不改',
+    payload={'状态':'通过','范围':f'共{len(b.chapters)}回新增正文及末回提示；原作接入17块不改',
              '分回':chapter_stats,'分框边界计数':dict(breaks),'无标点硬拆':force,
              '核验':['源稿与EEX逐框相符','显示正文逆向拼接无漏字、无重字','每框不超过三行','人物行宽不超38 GBK字节、旁白36','心理活动每框有完整外括号'],
              '全部分页对白':details}

@@ -1,4 +1,4 @@
-"""翻盘线（钟会线）剧本构建：续写正本第一～十三回 -> RS/R_00..R_12.EEX + Data.e5(通用说话人)。
+"""翻盘线（钟会线）剧本构建：按正本全部回目 -> RS/R_nn.EEX + Data.e5(通用说话人)。
 只输出到 mod_build/build，部署另行备份后进行。仅静态校验，不启动游戏。"""
 from pathlib import Path
 import sys,struct,re,json,hashlib,heapq
