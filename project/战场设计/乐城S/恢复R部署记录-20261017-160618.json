@@ -1,0 +1,23 @@
+{
+  "时间": "2026-10-17T16:06:18.5136626+08:00",
+  "操作": "恢复测试部署前的正式R00、R01；测试版本保留为RS内带时间戳的.bak文件",
+  "文件": [
+    {
+      "文件": "R_00.EEX",
+      "恢复来源": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\lecheng-20261017-142928\\RS\\R_00.EEX",
+      "恢复SHA256": "0A89C38EB6B30206F4F64350879DAC4FE62CF2C129EB609758C071467179C99A",
+      "测试版备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_00.EEX.乐城测试-20261017-160618.bak",
+      "测试版SHA256": "91A0C015A494B06ED404A6D1C69AA01D65E3EDED09C39E4631F7D4068670263E"
+    },
+    {
+      "文件": "R_01.EEX",
+      "恢复来源": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\lecheng-20261017-142928\\RS\\R_01.EEX",
+      "恢复SHA256": "5B93D97516F68E480BBBE9087ABFACBC921D3F86DAD883F3854020106A9AFA8E",
+      "测试版备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_01.EEX.乐城测试-20261017-160618.bak",
+      "测试版SHA256": "D5FA1D964C278D3640F02ADBFF8F823AB1F7445C0B8BC60F06EB2186D67C0C5D"
+    }
+  ],
+  "其他RS和Data保持不变": true,
+  "未启动游戏": true,
+  "说明": "严格恢复部署前文件；仓库当前R00与部署前R00哈希不同，本次未用仓库版本替换。"
+}

@@ -1,0 +1,14 @@
+{
+  "时间": "2026-10-17T14:35:30",
+  "版本": "乐城S扩军版：30队敌军",
+  "目标": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\S_00.EEX",
+  "备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\lecheng-expand-20261017-143530",
+  "原SHA256": "fbeab9185c0bebf26e00f134182f0e3bd712f547a9acf9d884f4bdcdc4271dbd",
+  "新SHA256": "9e51a1e9436deebb35aab2d6533bdaa3bf906cb775770f54a131c4a459d5337f",
+  "敌军数量": 30,
+  "敌我比例（含待救旧卒）": 3,
+  "游戏Data保持": "877a986beafb2b9db0c1f2cc4234c6ad25bcfe6de76f22c9805f1d7b90a255ab",
+  "游戏其他RS保持": true,
+  "静态模型用例": 34,
+  "实机验证": false
+}

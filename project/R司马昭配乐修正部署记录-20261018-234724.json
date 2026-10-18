@@ -1,0 +1,120 @@
+{
+  "时间": "2026-10-18T23:47:24",
+  "版本": "司马昭配乐修正",
+  "回数": 19,
+  "场景数": 296,
+  "对白框": 7660,
+  "源音乐标记修改": 7,
+  "实际EEX音乐指令修改": [
+    {
+      "文件": "R_00.EEX",
+      "块": 43,
+      "偏移": 62292,
+      "旧CD": 62,
+      "新CD": 71
+    },
+    {
+      "文件": "R_07.EEX",
+      "块": 14,
+      "偏移": 12374,
+      "旧CD": 62,
+      "新CD": 71
+    },
+    {
+      "文件": "R_11.EEX",
+      "块": 12,
+      "偏移": 20526,
+      "旧CD": 62,
+      "新CD": 71
+    },
+    {
+      "文件": "R_12.EEX",
+      "块": 24,
+      "偏移": 31614,
+      "旧CD": 62,
+      "新CD": 71
+    },
+    {
+      "文件": "R_13.EEX",
+      "块": 4,
+      "偏移": 2763,
+      "旧CD": 62,
+      "新CD": 71
+    },
+    {
+      "文件": "R_16.EEX",
+      "块": 11,
+      "偏移": 13075,
+      "旧CD": 62,
+      "新CD": 71
+    }
+  ],
+  "二进制仅62改71且指令偏移保持": true,
+  "源备份": "E:\\JiangWei\\archive\\司马昭配乐修正前-20261018-234430",
+  "部署目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS",
+  "备份目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\R司马昭配乐修正-20261018-234724",
+  "文件": [
+    {
+      "文件": "R_00.EEX",
+      "旧SHA256": "0a41cf0805189f6c3d444e3e4e51b5187225e58f5e99df0cb6f53255b8e7242f",
+      "新SHA256": "0a6ecc503647359624f1d4180ac2d6df97593e6debb64175327fc0753c015943",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_00.EEX.司马昭配乐修正前-20261018-234724.bak"
+    },
+    {
+      "文件": "R_07.EEX",
+      "旧SHA256": "44efc7cd92b7e2bbb2ecd0f80897d000a71e27afcfab39299cbdbb626054f96f",
+      "新SHA256": "1e26f934dec1d947ceeec1648eb6a954d3d8d3b14fab3a99eb59fc2ad74934db",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_07.EEX.司马昭配乐修正前-20261018-234724.bak"
+    },
+    {
+      "文件": "R_11.EEX",
+      "旧SHA256": "9814d0d88218e5c10c117311f8ac6e49e2c04aaec049b8ea0f7d2947982d5624",
+      "新SHA256": "dd3bfcdca4b1877d5c932f11e64c6a5a492b45f35c4c30e5a1ba48fbc5e9c8ec",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_11.EEX.司马昭配乐修正前-20261018-234724.bak"
+    },
+    {
+      "文件": "R_12.EEX",
+      "旧SHA256": "a3f7511fe839f4803c84e8f96470d6e8fd518dd61342e5138b24145914d91138",
+      "新SHA256": "b7e263f474b92bb88bd24be1ab6d76fca49670881f5c7aa637863525663fac52",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_12.EEX.司马昭配乐修正前-20261018-234724.bak"
+    },
+    {
+      "文件": "R_13.EEX",
+      "旧SHA256": "2b5db88385c680085c691f3f2ea217d5d91a764a5334e731fd6b714611afa78d",
+      "新SHA256": "8be3ee370a399d1ad52b65f8c58e96067bd6cebf5034e7ffe96948a82fb5a392",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_13.EEX.司马昭配乐修正前-20261018-234724.bak"
+    },
+    {
+      "文件": "R_16.EEX",
+      "旧SHA256": "5ce8a780809cf0817e3c6dbcb53f7d4b909bee80838a24fdeff444578e8bc269",
+      "新SHA256": "c2c897c3603957c6aa1421bf82152dc9c7fd53bab491abdaa8dc779aedd16f10",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_16.EEX.司马昭配乐修正前-20261018-234724.bak"
+    }
+  ],
+  "19R异路径复现一致": true,
+  "R00原作接入17块原字节一致": true,
+  "Data与S保持": true,
+  "RS_SHA256": {
+    "R_00.EEX": "0a6ecc503647359624f1d4180ac2d6df97593e6debb64175327fc0753c015943",
+    "R_01.EEX": "9fbe556639f5b1b1b9bbac231ae585673aab87c23365da21506d430c3548cff6",
+    "R_02.EEX": "b7a662cd652f89e2333b5eab7b05e913d9aa6b8cbbe3736e364d6e0ec7e3358b",
+    "R_03.EEX": "ceca7b9b75647d9e5cdcdc8713a1270ced99dcf530732b36689512ef58beb406",
+    "R_04.EEX": "7da0646518a0848f85e1a9de90afca2188babef70110691ea95925e9e9ef3600",
+    "R_05.EEX": "a7fa727457043051363dd84a395fb20cffbe2be2f9c43350e7c62e9682e3eb06",
+    "R_06.EEX": "2e9ddae612651e081110deac60722bbe3dbba0a03c3287e10886130cff9f5d37",
+    "R_07.EEX": "1e26f934dec1d947ceeec1648eb6a954d3d8d3b14fab3a99eb59fc2ad74934db",
+    "R_08.EEX": "fc00c07ff95e0a28f9294ef6a6efcd18a2e92811b0a5e4edace666c99726cf55",
+    "R_09.EEX": "f2b47b0ea17fadc62f71d75bae0ce6407b091223e3b123e1aaa0233af6a7accf",
+    "R_10.EEX": "66426448ae6aa4caeecc23cca7b6160fd79394ad851c132466d1ed2448c14436",
+    "R_11.EEX": "dd3bfcdca4b1877d5c932f11e64c6a5a492b45f35c4c30e5a1ba48fbc5e9c8ec",
+    "R_12.EEX": "b7e263f474b92bb88bd24be1ab6d76fca49670881f5c7aa637863525663fac52",
+    "R_13.EEX": "8be3ee370a399d1ad52b65f8c58e96067bd6cebf5034e7ffe96948a82fb5a392",
+    "R_14.EEX": "88b6fc3d27c75a298eb9e9f34fa3096c1eaa82a7b4fc9f6efb8955e823a0e43d",
+    "R_15.EEX": "8dac2a65ac89ceeadd70373d6973d3fa4bde5f238184044b3015e83bbbf940b9",
+    "R_16.EEX": "c2c897c3603957c6aa1421bf82152dc9c7fd53bab491abdaa8dc779aedd16f10",
+    "R_17.EEX": "e5aea3edf67d86dd91c535975dfbfb9ed6c2274e3e424c62d27bcd6bbe5fc0f5",
+    "R_18.EEX": "de8fd65c94934f04adaccc9af0ea673d61f2fe3303af0dea50b51fc4d9ed0285"
+  },
+  "已实机": false,
+  "记录文件": "R司马昭配乐修正部署记录-20261018-234724.json"
+}

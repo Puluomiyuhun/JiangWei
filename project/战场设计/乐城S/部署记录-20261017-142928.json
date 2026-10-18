@@ -1,0 +1,39 @@
+{
+  "时间": "2026-10-17T14:29:28",
+  "版本": "乐城S独立样关第一版",
+  "目标": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release",
+  "备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\lecheng-20261017-142928",
+  "文件": [
+    {
+      "路径": "RS/R_00.EEX",
+      "原先存在": true,
+      "原SHA256": "0a89c38eb6b30206f4f64350879dac4fe62cf2c129eb609758c071467179c99a",
+      "新SHA256": "91a0c015a494b06ed404a6d1c69aa01d65e3eded09c39e4631f7d4068670263e"
+    },
+    {
+      "路径": "RS/R_01.EEX",
+      "原先存在": true,
+      "原SHA256": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e",
+      "新SHA256": "d5fa1d964c278d3640f02adbff8f823ab1f7445c0b8bc60f06eb2186d67c0c5d"
+    },
+    {
+      "路径": "RS/S_00.EEX",
+      "原先存在": false,
+      "原SHA256": null,
+      "新SHA256": "fbeab9185c0bebf26e00f134182f0e3bd712f547a9acf9d884f4bdcdc4271dbd"
+    },
+    {
+      "路径": "Data.e5",
+      "原先存在": true,
+      "原SHA256": "1733b0777b5a1d60f45e495aa6565d6c13d3665c17f3db8adecd374d85725563",
+      "新SHA256": "877a986beafb2b9db0c1f2cc4234c6ad25bcfe6de76f22c9805f1d7b90a255ab"
+    }
+  ],
+  "Data变更人物": [
+    874,
+    875,
+    876,
+    877
+  ],
+  "说明": "R00→S00→R01；重启游戏后重新开始。未启动游戏；正式十六回仓库镜像未改。"
+}

@@ -126,7 +126,7 @@ chapters=long+chapters[len(long):]
 print('长篇回数',len(long))
 
 # ---------- 场景 -> 背景/音乐 ----------
-BG=[('建业 病榻前',41),('建业 丞相府内室',0),('建业 新朝正殿',50),('五丈原 旧营址',59),('联军中军',18),('薛府',0),('秘府',0),('陆凯客舍',0),('丁奉营',18),('张布府',0),('死牢',70),('钟府',5),('建业',15),('永安城外',59),('永安',48),('西陵',45),('洛阳 司马',25),('陇西军',1),('绵竹附近',72),('长安 议事',44),
+BG=[('建业 病榻前',41),('建业 丞相府内室',0),('建业 新朝正殿',50),('五丈原 旧营址',59),('联军中军',18),('薛府',0),('秘府',0),('陆凯客舍',0),('丁奉营',18),('张布府',0),('死牢',70),('钟府',5),('建业 宫门',26),('建业以南 郊外',23),('建业',15),('永安城外',59),('永安',48),('西陵',45),('洛阳 司马',25),('陇西军',1),('绵竹附近',72),('长安 议事',44),
     ('宫门',26),('胡渊营',18),('姜维住处',39),('卫瓘住处',0),('刘禅住处',41),('相国府',11),('谯周府',0),('羊祜府',0),
     ('郊外',23),('剑门关',68),('官署',64),('大街',30),('诸将议事处',39),('魏将软禁处',39),('北门城楼',65),('北门',67),('城门',67),('皇宫外',26),('皇宫',50),('西山',72),('绵竹',68),
     ('姜维府邸',39),('庞会营',18),('句扶营',24),('胡烈营',18),('城外 魏营',1),('关府',41),('魏军营帐',18),
@@ -157,7 +157,7 @@ LAYOUT={
  48:[(51,33,2),(52,48,0),(39,48,1),(66,48,3),(39,53,1),(66,53,3),(39,58,1),(66,58,3)],
  11:[(50,71,0),(50,57,2),(36,55,1),(63,55,3),(36,50,1),(63,50,3),(36,45,1),(63,45,3)],
  41:[(52,42,2),(52,49,0),(47,46,1),(57,46,3),(47,52,1),(57,52,3),(47,40,1),(57,40,3)],
- 39:[(43,58,1),(52,58,3),(47,65,1),(56,65,3),(47,51,1),(56,51,3),(38,65,1),(61,58,3)],
+ 39:[(38,65,1),(52,58,3),(47,65,1),(56,65,3),(47,51,1),(56,51,3),(43,58,1),(61,58,3)],
  0:[(48,41,2),(48,47,0),(43,44,1),(53,44,3),(43,50,1),(53,50,3),(43,38,1),(53,38,3)],
  5:[(45,60,1),(50,60,3),(45,65,1),(50,65,3),(45,55,1),(50,55,3),(40,62,1),(55,62,3)],
  59:[(45,46,1),(55,46,3),(45,51,1),(55,51,3),(50,40,2),(50,56,0),(40,48,1),(60,48,3)],
@@ -165,7 +165,8 @@ LAYOUT={
  1:[(56,53,1),(61,53,3),(56,58,1),(61,58,3),(56,48,1),(61,48,3),(51,53,1),(66,53,3)],
  72:[(53,52,2),(53,58,0),(48,52,2),(48,58,0),(58,52,2),(58,58,0),(43,52,2),(43,58,0)],
  68:[(43,63,1),(51,63,3),(47,69,1),(55,69,3),(39,69,1),(59,63,3),(43,57,1),(51,57,3)],
- 64:[(60,55,2),(60,61,0),(55,55,2),(55,61,0),(65,55,2),(65,61,0),(50,55,2),(50,61,0)],
+ 64:[(65,53,2),(65,63,0),(55,58,1),(73,58,3),(55,63,1),(73,63,3),(55,68,1),(73,68,3)],
+ 70:[(58,31,2),(68,60,0),(60,68,1),(71,67,3),(66,72,0),(60,74,1),(76,67,3),(71,77,0)],
  30:[(42,50,1),(52,50,3),(42,55,1),(52,55,3),(42,45,1),(52,45,3),(47,40,2),(47,60,0)],
  65:[(40,66,1),(50,66,3),(45,61,2),(45,71,0),(40,72,1),(50,72,3),(35,66,1),(55,66,3)],
  67:[(48,58,1),(56,58,3),(48,63,1),(56,63,3),(48,53,1),(56,53,3),(52,48,2),(52,68,0)],
@@ -193,10 +194,10 @@ def layout(bg,n):
    if c:got.append((*c[0],f));break
   else:raise RuntimeError((bg,bx,by))
  return got
-def door(bg,x,y):
+def door(bg,x,y,gate=None):
  """后到者的出现点：原作是从画面边缘或门口沿一条轴走进来，不是从正上方（斜角坐标里 y-14 是斜着飘下来）。"""
  meta,mw,mh=pmeta(bg)
- d=DOOR.get(bg,('x',min(95,mw-3)))
+ d=gate or DOOR.get(bg,('x',min(95,mw-3)))
  if d[0]=='pt':cand=[(d[1],d[2])]
  elif d[0]=='x':cand=[(min(d[1],mw-3),y+k) for k in (0,1,-1,2,-2,3,-3)]
  else:cand=[(x+k,min(d[1],mh-1)) for k in (0,1,-1,2,-2,3,-3)]
@@ -236,24 +237,44 @@ def route(bg,start,goal,occupied):
   if j==len(full)-1 or (p[0]-prev[0],p[1]-prev[1])!=(full[j+1][0]-p[0],full[j+1][1]-p[1]):points.append(p)
  return points
 
-def gate_route(bg,target,occupied):
- """固定门口优先；被临时站位挡住时，仅在门口附近寻找可达落点。"""
- gx,gy=door(bg,*target)
- for r in range(9):
-  cand=[(gx+dx,gy+dy) for dx in range(-r,r+1) for dy in range(-r,r+1) if max(abs(dx),abs(dy))==r]
-  cand.sort(key=lambda p:abs(p[0]-target[0])+abs(p[1]-target[1]))
-  for p in cand:
-   path=route(bg,p,target,occupied)
-   if path is not None:return path
+def projected(bg,x,y):
+ """R 背景图中的贴图左边缘/脚底锚点；Project 后的 +40 与背景顶边抵消。"""
+ meta,_,_=pmeta(bg)
+ return (x-y)*8+struct.unpack_from('<H',meta,8)[0]*4-488,(x+y)*4-192
+
+def offscreen(bg,p):
+ x,y=projected(bg,*p)
+ # 给人物贴图留出边距，不能只让落脚点刚越过画面边线。
+ return x<=-48 or x>=688 or y<=-16 or y>=464
+
+_gate_candidates={}
+def gate_route(bg,target,occupied,gate=None):
+ """实体门口使用原作门位；边缘进退必须走到人物完整离开画面的位置。"""
+ gx,gy=door(bg,*target,gate=gate)
+ if (gate or DOOR.get(bg,('x',)))[0]=='pt':
+  candidates=[(gx+dx,gy+dy) for dx in range(-3,4) for dy in range(-3,4)]
+  candidates.sort(key=lambda p:(max(abs(p[0]-gx),abs(p[1]-gy)),abs(p[0]-target[0])+abs(p[1]-target[1])))
+ else:
+  if bg not in _gate_candidates:
+   meta,mw,mh=pmeta(bg)
+   _gate_candidates[bg]=[(x,y) for x in range(mw-2) for y in range(4,mh)
+                         if offscreen(bg,(x,y)) and not blocked(meta,mw,mh,x,y)]
+  candidates=sorted(_gate_candidates[bg],key=lambda p:(abs(p[0]-gx)+abs(p[1]-gy),abs(p[0]-target[0])+abs(p[1]-target[1])))
+ for p in candidates:
+  path=route(bg,p,target,occupied)
+  if path is not None:return path
  raise ValueError(('门口没有可达路径',bg,target,occupied))
 
 def walk(n,path,finalface):
  out=b''
  for j,p in enumerate(path[1:],1):
   f=finalface if j==len(path)-1 else face(*path[j-1],*p)
-  out+=ins(0x32,0,names[n],0,*p,f)
- if len(path)==1:out+=ins(0x32,0,names[n],0,*path[0],finalface)
+  out+=ins(0x32,0,names[n],0,*p,f)+ins(0x1e)  # 切断连续移动批次，待本段走完再发下一段
+ if len(path)==1:out+=ins(0x32,0,names[n],0,*path[0],finalface)+ins(0x1e)
  return out
+
+STAGE_PLAN=json.loads((HERE/'stage-plan.json').read_text(encoding='utf-8'))
+STAGE_PLAN={(p['回'],p['事件'],p['场所']):p for p in STAGE_PLAN}
 
 report=[]
 def stage(bg,cast):
@@ -295,17 +316,28 @@ def music_ins(m):
  """同曲不重发，免得每场都从头放。"""
  if m is not None:
   assert m!=21,'CD21是玩家操作界面专曲，不得在剧情使用'
+  assert m!=62,'CD62暂不启用：未有合适野心家，不得为用曲硬套人物；司马昭、孙皓禁配'
   assert m==255 or ((f'{m+2:02d}-AudioTrack {m+2:02d}.mp3' in AUDIO_FILES) if USE_AUDIO_MANIFEST else (GAME/f'SoundTrk/{m+2:02d}-AudioTrack {m+2:02d}.mp3').is_file()),('缺少音频或清单记录',m)
  if m is None or m==cur_music[0]:return b''
  cur_music[0]=m;return ins(0x24,m)
 def scene_body(sc,chap,mus=None):
+ # 2026-10-18用户校准：CD62为司马师曲，可给其他野心家，禁止用于司马昭。
+ if 'map' in sc:
+  assert not(mus==62 and any('司马昭' in text for text,_ in sc['map'])),('司马昭转场误用司马师曲',chap['no'])
+ else:
+  cues=[mus]+[it[1] for seg in sc['segs'] for it in seg['lines'] if it[0]=='music']
+  sima=any(it[0]=='say' and it[1]=='司马昭' for seg in sc['segs'] for it in seg['lines'])
+  assert not(sima and 62 in cues),('司马昭场景误用司马师曲',chap['no'],sc['event'])
  if 'map' in sc:
   body=ins(0x2f)+music_ins(mus if mus is not None else (cur_music[0] if cur_music[0] is not None else 16))+ins(0x27,1,30,0,F,F)+ins(0x27,0,4,F,F,F)+ins(0x1c)
+  row=0
   for text,args in sc['map']:
-   pieces=split_map(text)
-   for k,p in enumerate(pieces):
-    a=args if k==len(pieces)-1 else [0,0,1]
+   if args[0]==0:row=0
+   for p in split_map(text):
+    # dx=0 清页并回首行；1,1 是接下一行，绝不能作为整段首句。
+    a=[0,0,args[2]] if row==0 else [1,1,args[2]]
     body+=ins(0x2c,p,*a)+ins(0x09,5)
+    row=(row+1)%3
   report.append({'回':chap['no'],'地图文字':len(sc['map']),'音乐':mus})
   return body+ins(0x1d)
  # 先确定开场曲，再按台词顺序生成场内换曲，避免后写的开场曲覆盖全局曲目状态。
@@ -318,6 +350,10 @@ def scene_body(sc,chap,mus=None):
   for it in seg['lines']:
    if it[0]=='enter':entered.add(it[1]);seen.add(it[1])
    elif it[0]=='say' and it[1] and it[1] not in seen:seen.add(it[1]);initial.append(it[1])
+  plan=STAGE_PLAN[(chap['no'],sc['event'],seg['place'])]
+  assert set(initial)==set(plan['原开场']),('场景演员变化，请更新stage-plan.json',chap['no'],sc['event'])
+  if plan['主位']:
+   j=initial.index(plan['主位']);initial[0],initial[j]=initial[j],initial[0]
   order=initial+[n for n in dict.fromkeys(it[1] for it in seg['lines'] if it[0]=='enter') if n not in initial]
   spots=layout(bg,min(8,len(order))) if order else []
   if chap['no']=='第九回' and sc['event']=='谁去搬':spots[2]=(57,70,3)
@@ -326,15 +362,24 @@ def scene_body(sc,chap,mus=None):
    if sc['event']=='关门以内':spots[2]=(47,69,0);spots[3]=(55,69,0)
    if sc['event']=='谁下的令':spots[2]=(47,69,0)
    if sc['event']=='不许少一个':spots[2]=(47,65,0)
-  if chap['no']=='第九回' and sc['event']=='不能少的兵':spots[0]=(46,54,3);spots[1]=(35,54,1)
   if chap['no']=='第十回' and sc['event']=='有人等不及':spots[0]=(55,46,3);spots[1]=(45,46,1)
   if chap['no']=='第十一回' and sc['event']=='谁的诏书':spots[1]=(46,70,1);spots[2]=(57,65,3)
   if chap['no']=='第十二回' and sc['event']=='一道真命':spots[2]=(46,70,1);spots[3]=(57,70,3)
   if chap['no']=='第十三回' and sc['event']=='没有说完的话':spots[0]=(52,51,0);spots[1]=(52,42,2)
-  slot={};free=list(range(len(spots)))
+  if plan.get('空主位'):
+   # 主人未在场，阶下或帐中对坐；不让属员占用君主/主将的座位。
+   alternatives={18:[(52,54,1),(59,54,3),(52,61,1),(59,61,3)],11:[(49,46,2),(49,54,0),(55,46,2),(55,54,0)]}
+   spots=alternatives[bg][:len(order)]
+  for actor,position in plan.get('坐标',{}).items():spots[order.index(actor)]=tuple(position)
+  def gate_for(n,action):return plan.get('出入口',{}).get(action+':'+n)
+  homes=list(spots)
+  slot={};preferred={};free=list(range(len(spots)))
   def take(n):
    assert free,(chap['no'],sc['event'],'同时在场超过8人',n)
-   slot[n]=free.pop(0);return spots[slot[n]]
+   k=preferred.get(n)
+   if k not in free:k=free[0]
+   free.remove(k);slot[n]=k;preferred[n]=k;spots[k]=homes[k]
+   return spots[k]
   on=[];lines=b'';events=[];routes=[];initial_pos=[];music_cues=[]
   for n in initial:
    x,y,f=take(n);lines+=ins(0x30,names[n],x,y,f,0);on.append(n);initial_pos.append({'人物':n,'id':names[n],'x':x,'y':y,'朝向':f})
@@ -342,9 +387,9 @@ def scene_body(sc,chap,mus=None):
   for it in seg['lines']:
    if it[0]=='enter':
     n=it[1];assert n not in on,(chap['no'],sc['event'],'重复登场',n)
-    x,y,f=take(n);path=gate_route(bg,(x,y),[spots[slot[q]][:2] for q in on]);sx,sy=path[0]
+    x,y,f=take(n);path=gate_route(bg,(x,y),[spots[slot[q]][:2] for q in on],gate_for(n,'登场'));sx,sy=path[0]
     lines+=ins(0x30,names[n],sx,sy,face(sx,sy,*path[min(1,len(path)-1)]),0)+walk(n,path,f);on.append(n);events.append('+'+n)
-    routes.append({'人物':n,'动作':'登场','路径':path,'终向':f})
+    routes.append({'人物':n,'动作':'登场','路径':path,'终向':f,'出入口':gate_for(n,'登场')})
    elif it[0]=='move':
     n,x,y,f=it[1:];assert n in on,(n,'移动者不在场')
     meta,mw,mh=pmeta(bg);assert not blocked(meta,mw,mh,x,y),(n,x,y,'移动终点阻挡')
@@ -353,9 +398,9 @@ def scene_body(sc,chap,mus=None):
     lines+=walk(n,path,f);spots[slot[n]]=(x,y,f);events.append(f'{n}移至{x},{y},{f}');routes.append({'人物':n,'动作':'移动','路径':path,'终向':f})
    elif it[0]=='exit':
     n=it[1];assert n in on,(chap['no'],sc['event'],'未在场却退场',n)
-    x,y,f=spots[slot[n]];path=gate_route(bg,(x,y),[spots[slot[q]][:2] for q in on if q!=n])[::-1];sx,sy=path[-1];ef=face(*path[max(0,len(path)-2)],sx,sy)
+    x,y,f=spots[slot[n]];path=gate_route(bg,(x,y),[spots[slot[q]][:2] for q in on if q!=n],gate_for(n,'退场'))[::-1];sx,sy=path[-1];ef=face(*path[max(0,len(path)-2)],sx,sy)
     lines+=walk(n,path,ef)+ins(0x31,0,names[n],0,0,0,0,6)+ins(0x1e)
-    routes.append({'人物':n,'动作':'退场','路径':path,'终向':ef})
+    routes.append({'人物':n,'动作':'退场','路径':path,'终向':ef,'出入口':gate_for(n,'退场')})
     on.remove(n);free.append(slot.pop(n));free.sort();events.append('-'+n)
    elif it[0]=='music':
     lines+=music_ins(it[1]);music_cues.append(it[1])
@@ -370,7 +415,7 @@ def scene_body(sc,chap,mus=None):
   if seg['place']:body+=ins(0x17,seg['place'])
   body+=lines
   report.append({'回':chap['no'],'事件':sc['event'],'场所':seg['place'],'背景':bg,'开场在场':initial,'进出':events,
-   '台词':sum(1 for it in seg['lines'] if it[0]=='say'),'音乐':mus,'场内换曲':music_cues,'开场坐标':initial_pos,'调度':routes})
+   '主位':plan['主位'],'站位依据':plan['依据'],'台词':sum(1 for it in seg['lines'] if it[0]=='say'),'音乐':mus,'场内换曲':music_cues,'开场坐标':initial_pos,'调度':routes})
   first=False
  return body+ins(0x1d)
 prev_place=[None]

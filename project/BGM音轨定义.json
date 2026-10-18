@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-18",
   "numbering": "脚本CD，非实际文件号",
   "tracks": [
     {
@@ -27,10 +27,10 @@
     {
       "cd": 4,
       "mood": "吴廷",
-      "boundary": "沿用此前原作对照与旧标注，尚未得到本轮用户听感确认；并非人物排他专属。",
-      "source": "原作对照／旧标注，待确认",
+      "boundary": "东吴宫廷常规配乐，孙皓作为在位皇帝沿用。",
+      "source": "原有东吴配乐；用户2026-10-18指定孙皓恢复使用",
       "confirmed": false,
-      "scene_starts": 8,
+      "scene_starts": 9,
       "inside_scene": 0,
       "map_groups": 2,
       "file": "06-AudioTrack 06.mp3"
@@ -52,9 +52,9 @@
       "boundary": "不限魏将，任何阵营的急局都可以用。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 30,
-      "inside_scene": 4,
-      "map_groups": 30,
+      "scene_starts": 37,
+      "inside_scene": 5,
+      "map_groups": 35,
       "file": "08-AudioTrack 08.mp3"
     },
     {
@@ -63,7 +63,7 @@
       "boundary": "突出劲敌的谋略与压迫；与22的前线紧迫区分。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 6,
+      "scene_starts": 9,
       "inside_scene": 0,
       "map_groups": 2,
       "file": "11-AudioTrack 11.mp3"
@@ -74,9 +74,9 @@
       "boundary": "不是紧张、试探曲。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 8,
+      "scene_starts": 9,
       "inside_scene": 2,
-      "map_groups": 10,
+      "map_groups": 9,
       "file": "15-AudioTrack 15.mp3"
     },
     {
@@ -85,9 +85,9 @@
       "boundary": "沿用此前原作对照与旧标注，尚未得到本轮用户听感确认；并非人物排他专属。",
       "source": "原作对照／旧标注，待确认",
       "confirmed": false,
-      "scene_starts": 6,
-      "inside_scene": 0,
-      "map_groups": 13,
+      "scene_starts": 8,
+      "inside_scene": 1,
+      "map_groups": 27,
       "file": "18-AudioTrack 18.mp3"
     },
     {
@@ -107,7 +107,7 @@
       "boundary": "适合接兵、接仓、前沿部署，不再一概给50或71。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 8,
+      "scene_starts": 9,
       "inside_scene": 0,
       "map_groups": 4,
       "file": "24-AudioTrack 24.mp3"
@@ -118,9 +118,9 @@
       "boundary": "不要压住坏消息、军心恐慌；可在急报处换曲。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 11,
+      "scene_starts": 14,
       "inside_scene": 1,
-      "map_groups": 5,
+      "map_groups": 6,
       "file": "27-AudioTrack 27.mp3"
     },
     {
@@ -153,7 +153,7 @@
       "confirmed": true,
       "scene_starts": 3,
       "inside_scene": 0,
-      "map_groups": 1,
+      "map_groups": 2,
       "file": "33-AudioTrack 33.mp3"
     },
     {
@@ -162,8 +162,8 @@
       "boundary": "不是泛动情曲；遗物、无家可归、杀人创伤不配此曲。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 8,
-      "inside_scene": 1,
+      "scene_starts": 18,
+      "inside_scene": 2,
       "map_groups": 1,
       "file": "36-AudioTrack 36.mp3"
     },
@@ -173,9 +173,9 @@
       "boundary": "不是无忧家常；普通熟人笑闹可用34。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 13,
-      "inside_scene": 4,
-      "map_groups": 4,
+      "scene_starts": 27,
+      "inside_scene": 7,
+      "map_groups": 5,
       "file": "41-AudioTrack 41.mp3"
     },
     {
@@ -184,7 +184,7 @@
       "boundary": "沿用此前原作对照与旧标注，尚未得到本轮用户听感确认；并非人物排他专属。",
       "source": "原作对照／旧标注，待确认",
       "confirmed": false,
-      "scene_starts": 3,
+      "scene_starts": 5,
       "inside_scene": 0,
       "map_groups": 2,
       "file": "42-AudioTrack 42.mp3"
@@ -206,7 +206,7 @@
       "boundary": "可穿插使用，但不要为了换曲而打断同一情绪。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 6,
+      "scene_starts": 7,
       "inside_scene": 0,
       "map_groups": 4,
       "file": "44-AudioTrack 44.mp3"
@@ -217,9 +217,9 @@
       "boundary": "私下交易、串联、互相施压；公开办事不必都变密谋。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 17,
-      "inside_scene": 0,
-      "map_groups": 10,
+      "scene_starts": 29,
+      "inside_scene": 3,
+      "map_groups": 21,
       "file": "47-AudioTrack 47.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "confirmed": true,
       "scene_starts": 6,
       "inside_scene": 0,
-      "map_groups": 5,
+      "map_groups": 6,
       "file": "48-AudioTrack 48.mp3"
     },
     {
@@ -239,8 +239,8 @@
       "boundary": "沿用此前原作对照与旧标注，尚未得到本轮用户听感确认；并非人物排他专属。",
       "source": "原作对照／旧标注，待确认",
       "confirmed": false,
-      "scene_starts": 17,
-      "inside_scene": 0,
+      "scene_starts": 24,
+      "inside_scene": 2,
       "map_groups": 4,
       "file": "52-AudioTrack 52.mp3"
     },
@@ -250,9 +250,9 @@
       "boundary": "用于主动出击、截援、展开行动；军中议事可保留70。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 4,
+      "scene_starts": 6,
       "inside_scene": 0,
-      "map_groups": 5,
+      "map_groups": 9,
       "file": "57-AudioTrack 57.mp3"
     },
     {
@@ -279,13 +279,13 @@
     },
     {
       "cd": 62,
-      "mood": "原为司马师曲；很有权力、野心，也险恶的魏人。",
-      "boundary": "本线选司马昭的权柄威慑段；不因原主人已死就弃用，也不为曲硬造人。",
-      "source": "用户2026-10-16明确校准",
+      "mood": "司马师主题曲；当前暂无合适角色，暂不启用。",
+      "boundary": "禁止给司马昭、孙皓；不因角色掌权、冷酷或有政治手段就套成野心家。以后有合适人物再按情境启用，宁可不用。",
+      "source": "用户2026-10-18二次校准",
       "confirmed": true,
-      "scene_starts": 4,
-      "inside_scene": 1,
-      "map_groups": 1,
+      "scene_starts": 0,
+      "inside_scene": 0,
+      "map_groups": 0,
       "file": "64-AudioTrack 64.mp3"
     },
     {
@@ -316,7 +316,7 @@
       "boundary": "沿用此前原作对照与旧标注，尚未得到本轮用户听感确认；并非人物排他专属。",
       "source": "原作对照／旧标注，待确认",
       "confirmed": false,
-      "scene_starts": 9,
+      "scene_starts": 12,
       "inside_scene": 0,
       "map_groups": 2,
       "file": "71-AudioTrack 71.mp3"
@@ -327,21 +327,22 @@
       "boundary": "沿用此前原作对照与旧标注，尚未得到本轮用户听感确认；并非人物排他专属。",
       "source": "原作对照／旧标注，待确认",
       "confirmed": false,
-      "scene_starts": 11,
+      "scene_starts": 15,
       "inside_scene": 0,
-      "map_groups": 3,
+      "map_groups": 9,
       "file": "72-AudioTrack 72.mp3"
     },
     {
       "cd": 71,
-      "mood": "司马氏政务、晋廷",
-      "boundary": "沿用此前原作对照与旧标注，尚未得到本轮用户听感确认；并非人物排他专属。",
-      "source": "原作对照／旧标注，待确认",
+      "mood": "司马昭相关主题；原作权柄、政务、军议段使用。",
+      "boundary": "司马昭相关主题段用71，不用司马师曲62；其他情绪曲按场景需要选择。",
+      "source": "原作RS0 R25/R28/R33指令核对，未试听；用户本轮明确排除62。",
       "confirmed": false,
-      "scene_starts": 0,
-      "inside_scene": 0,
-      "map_groups": 0,
-      "file": "73-AudioTrack 73.mp3"
+      "scene_starts": 4,
+      "inside_scene": 1,
+      "map_groups": 2,
+      "file": "73-AudioTrack 73.mp3",
+      "script_verified": true
     },
     {
       "cd": 72,
@@ -349,7 +350,7 @@
       "boundary": "在冲击点使用，不把一般紧张都升级到72。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 1,
+      "scene_starts": 2,
       "inside_scene": 2,
       "map_groups": 0,
       "file": "74-AudioTrack 74.mp3"
@@ -371,9 +372,9 @@
       "boundary": "复杂、克制的尽头感；不是一般失败或普通葬仪的通用曲。",
       "source": "用户2026-10-16明确校准",
       "confirmed": true,
-      "scene_starts": 1,
+      "scene_starts": 0,
       "inside_scene": 0,
-      "map_groups": 2,
+      "map_groups": 1,
       "file": "99-AudioTrack 99.mp3"
     },
     {
@@ -454,6 +455,7 @@
       "file": null
     }
   ],
-  "version": "第十四回《归路》续写（沿用用户CD定义，统计更新）",
-  "usage_updated": "2026-10-17"
+  "version": "十九回孙皓恢复东吴配乐，CD62暂不使用",
+  "usage_updated": "2026-10-18",
+  "scope": "十九回296场、308段演出；场景开场按事件去重，场内换曲按标记；未试听"
 }

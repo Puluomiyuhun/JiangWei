@@ -1,0 +1,144 @@
+{
+  "时间": "2026-10-18T00:55:33",
+  "版本": "十八回全篇复修与第十八回朝门",
+  "游戏目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release",
+  "部署R数": 18,
+  "备份目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\R全篇复修-20261018-005533",
+  "备份策略": "覆盖前同时保留RS同目录.bak及独立备份；测试版旧.bak未动",
+  "文件": [
+    {
+      "文件": "R_00.EEX",
+      "更新前SHA256": "0a89c38eb6b30206f4f64350879dac4fe62cf2c129eb609758c071467179c99a",
+      "更新后SHA256": "23a0231d596504475d32a3618d1b690700371a7247793b0b81def19b90f2fe44",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_00.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_01.EEX",
+      "更新前SHA256": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e",
+      "更新后SHA256": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e",
+      "内容有变": false,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_01.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_02.EEX",
+      "更新前SHA256": "309c5b2884e576bd47aa5a00f8a861805e4f8899ec5eab450f5c1344c6e828ed",
+      "更新后SHA256": "7182af0d23217456ad801eb631c8341090f27a1b081ab09eb5b601eb2e313a80",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_02.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_03.EEX",
+      "更新前SHA256": "a2510d441b461ff84fbc2ad9d338efecf07d0f3908489a9d2361572dd92df00b",
+      "更新后SHA256": "f59e13388ef00c05249fe89d439c4457a0feb9961cd1076b92fc97e75ad0ba65",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_03.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_04.EEX",
+      "更新前SHA256": "2354d48148cbf88ac6e81b7c1e4a787cf9e7ad3c2fbaeb35d069410f7e8f2b1a",
+      "更新后SHA256": "0ecf06f7943816a0ef82737ecc3a9639d327a94d02b7846e542476ece834d412",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_04.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_05.EEX",
+      "更新前SHA256": "4bc741a7dfc22ad1ac1b25d56601f85e185e678ed97c9499ac063d814262cf67",
+      "更新后SHA256": "c6161ab8745abfd5ff07cf3df07923d0297358aec38eb2fff1b912bb034373b1",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_05.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_06.EEX",
+      "更新前SHA256": "f44a2f3d968ff4dd0359d97a71b86c6af138ad91228e8e44f0c662df62d0cd02",
+      "更新后SHA256": "8d0308bb39f4086f7b434d75025a88f0e91a493064c5a3f602a9e37931b9404b",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_06.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_07.EEX",
+      "更新前SHA256": "713eabf9cbe75f3d2c1da022c23de56caeb238e885065e3f6d5c8e152d6f4035",
+      "更新后SHA256": "7ad3c94b52aa170c9c6d08002e765c5be761fe5f2a9faa4ae79e4cd3dc09134f",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_07.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_08.EEX",
+      "更新前SHA256": "cd1ad56b7aed0a44f322ba4fc8390b378ef237fa4914e1f0132f1cd95a1b80d3",
+      "更新后SHA256": "23f0c647b2e783c73180bdd4be636585f024442ed74158d03815357d5fb41d77",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_08.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_09.EEX",
+      "更新前SHA256": "811c46b6daacf142d3380277446710596a2dd313afe03cb19cf0b8b9cb67d8b3",
+      "更新后SHA256": "5e1dd31baf4b445b9e0e3e3ed4e26da2bfa56f48d30d90d16b6c9c6d718c52f1",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_09.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_10.EEX",
+      "更新前SHA256": "20c5bda8a9f7efe291d4c58d18137af5ee4e08871ccd85542f269e18ad105104",
+      "更新后SHA256": "f3183e32c0b05c47dd00b2b6feb1c136cedc53643c12f87c3d1693c274ad9675",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_10.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_11.EEX",
+      "更新前SHA256": "a33972a0da07596d119a23aee47a6bb46dfc887616bf4450b909603b32745efa",
+      "更新后SHA256": "ab49731626b3aa71af0ff8c7a17395059667eb1d1bf05f0a9e213e32abb68963",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_11.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_12.EEX",
+      "更新前SHA256": "0d08c0a18c46af132fe4cb6fdc327991acb42fedd298c6d2c4c62ecd33f25288",
+      "更新后SHA256": "56e9c43eb772922a5c00a6bd28866b27ad36d6444f09faeae53c7d7ffc77b25d",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_12.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_13.EEX",
+      "更新前SHA256": "e32cb2af15d0d2694e858424723117747287ed913494fae5555a4a5eea2fbbb8",
+      "更新后SHA256": "d7b89129fb24f07ebbab174a0692ba5429edf3dc4ceb34c2b0fc4193fe1a7d81",
+      "内容有变": true,
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_13.EEX.复修前-20261018-005533.bak"
+    },
+    {
+      "文件": "R_14.EEX",
+      "更新前SHA256": null,
+      "更新后SHA256": "d91bec3a7faf9b9a6d3fdd257f626c275f74c904f75cb1fe5bb2b95016a98b38",
+      "内容有变": true,
+      "同目录备份": null
+    },
+    {
+      "文件": "R_15.EEX",
+      "更新前SHA256": null,
+      "更新后SHA256": "0d6765b4161fac54fbeb4f63bb2333a7854a46b9831f2c3cff20c09f606e33c8",
+      "内容有变": true,
+      "同目录备份": null
+    },
+    {
+      "文件": "R_16.EEX",
+      "更新前SHA256": null,
+      "更新后SHA256": "780426e834add290427e996c0a1d1c0c7efc574d18fceb51b5cb099e6c39a19b",
+      "内容有变": true,
+      "同目录备份": null
+    },
+    {
+      "文件": "R_17.EEX",
+      "更新前SHA256": null,
+      "更新后SHA256": "7f2eff1b44f620cabfc6876961833deea89354bc2ee5cc7018345a14ee8fcd96",
+      "内容有变": true,
+      "同目录备份": null
+    }
+  ],
+  "其余原有RS逐文件未变": true,
+  "Data未变": true,
+  "DataSHA256": "877a986beafb2b9db0c1f2cc4234c6ad25bcfe6de76f22c9805f1d7b90a255ab",
+  "所有112个对白说话人槽名与游戏Data匹配": true,
+  "说话人数": 112,
+  "原作接入17块保持": true,
+  "已实机": false,
+  "说明": "正式R直连，没有重新安装测试入口；S_00保持原试验版，未新增可玩S。旧存档内的已加载数据不由本操作迁移。"
+}

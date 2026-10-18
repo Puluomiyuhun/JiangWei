@@ -1,0 +1,165 @@
+{
+  "时间": "2026-10-18T18:38:29",
+  "版本": "R演出调度修复",
+  "回数": 19,
+  "场景数": 296,
+  "对白框": 7660,
+  "正文原字节保持": true,
+  "主位重排场景数": 111,
+  "回归计数": {
+    "地图段": 160,
+    "地图行": 370,
+    "移动段": 536,
+    "退场": 166,
+    "场景站位段": 308,
+    "边缘进退": 214,
+    "门口进退": 62
+  },
+  "源备份": "E:\\JiangWei\\archive\\R调度修复前-20261018-183108",
+  "部署目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS",
+  "备份目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\R演出调度修复-20261018-183829",
+  "文件": [
+    {
+      "文件": "R_00.EEX",
+      "旧SHA256": "bb3aa2095b6650a55da917fb749fe109bc241c211a132e70e48291ae0ce3b3bf",
+      "新SHA256": "0a41cf0805189f6c3d444e3e4e51b5187225e58f5e99df0cb6f53255b8e7242f",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_00.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_01.EEX",
+      "旧SHA256": "4d71400c901c3f619bea59a3220172e577805d4176cd5ea91ce7b0ce5cde9e88",
+      "新SHA256": "9fbe556639f5b1b1b9bbac231ae585673aab87c23365da21506d430c3548cff6",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_01.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_02.EEX",
+      "旧SHA256": "0b7158789e35a7130438074f09bed7475e8745a230bc2bc1f8117dbc96a47436",
+      "新SHA256": "b7a662cd652f89e2333b5eab7b05e913d9aa6b8cbbe3736e364d6e0ec7e3358b",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_02.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_03.EEX",
+      "旧SHA256": "fe2aa3914902f76ce2933db0cfdc607506e4f1a83637483a44e3880621b0b2d5",
+      "新SHA256": "ceca7b9b75647d9e5cdcdc8713a1270ced99dcf530732b36689512ef58beb406",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_03.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_04.EEX",
+      "旧SHA256": "9d220f7e3e49d8a49890ba4e9629bf7cba091854b4e1f608ef9f01fbf8ec0246",
+      "新SHA256": "7da0646518a0848f85e1a9de90afca2188babef70110691ea95925e9e9ef3600",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_04.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_05.EEX",
+      "旧SHA256": "f1dc6b34e3d5b816a01629e251c2f66c8cde45aa0ea5f3f04e3d965e083d4d0c",
+      "新SHA256": "a7fa727457043051363dd84a395fb20cffbe2be2f9c43350e7c62e9682e3eb06",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_05.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_06.EEX",
+      "旧SHA256": "17154038e019d801aa9443583059df0531d732055470bbd430cb74d41a006437",
+      "新SHA256": "2e9ddae612651e081110deac60722bbe3dbba0a03c3287e10886130cff9f5d37",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_06.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_07.EEX",
+      "旧SHA256": "90c43c39a8b37340627d23f24db2d7edeb731d6ccf53578db96f2bd046412dc7",
+      "新SHA256": "44efc7cd92b7e2bbb2ecd0f80897d000a71e27afcfab39299cbdbb626054f96f",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_07.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_08.EEX",
+      "旧SHA256": "95b6517bbf9c150540a7c8f7511c04fd8b254ad3ef9a97475c1fc4fda24ad855",
+      "新SHA256": "fc00c07ff95e0a28f9294ef6a6efcd18a2e92811b0a5e4edace666c99726cf55",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_08.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_09.EEX",
+      "旧SHA256": "911d3e05afd939e6032b57556118fdf141f4818b8b7814165ebe8aed308bf5ed",
+      "新SHA256": "f2b47b0ea17fadc62f71d75bae0ce6407b091223e3b123e1aaa0233af6a7accf",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_09.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_10.EEX",
+      "旧SHA256": "d12a6a06a70e02e04868b4618e30ca4caa3e9961f556d879711ea6d655cf38f5",
+      "新SHA256": "66426448ae6aa4caeecc23cca7b6160fd79394ad851c132466d1ed2448c14436",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_10.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_11.EEX",
+      "旧SHA256": "60c092b8b02e83485af8d79be0b47130253b89396c9c24363276903f96f49106",
+      "新SHA256": "9814d0d88218e5c10c117311f8ac6e49e2c04aaec049b8ea0f7d2947982d5624",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_11.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_12.EEX",
+      "旧SHA256": "15d5c888b5deca658e00ff83bfc4259c62738d4cf5b0d30d2a5fb2ea61ac1581",
+      "新SHA256": "a3f7511fe839f4803c84e8f96470d6e8fd518dd61342e5138b24145914d91138",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_12.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_13.EEX",
+      "旧SHA256": "a2d44b8c63bd76893e298bc5a72074d23e8e3fbe9c5cefa525d80bbbd2657be6",
+      "新SHA256": "2b5db88385c680085c691f3f2ea217d5d91a764a5334e731fd6b714611afa78d",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_13.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_14.EEX",
+      "旧SHA256": "161c1cb59ce05345dbf92a5a29cce16de2811c49c831608c48e407464a654043",
+      "新SHA256": "88b6fc3d27c75a298eb9e9f34fa3096c1eaa82a7b4fc9f6efb8955e823a0e43d",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_14.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_15.EEX",
+      "旧SHA256": "db1624704e8b1fee79e1fe1c94a0b1e4d602de4b4052f5711dadbac2a5e11364",
+      "新SHA256": "8dac2a65ac89ceeadd70373d6973d3fa4bde5f238184044b3015e83bbbf940b9",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_15.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_16.EEX",
+      "旧SHA256": "64a0ffbbadfae6ce50d0bf8cafa98b660010defa1580107f3e2f5ff3139007c0",
+      "新SHA256": "5ce8a780809cf0817e3c6dbcb53f7d4b909bee80838a24fdeff444578e8bc269",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_16.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_17.EEX",
+      "旧SHA256": "7acb436ef11b2974de65ad10a6531aefa86eba6c49dfa979623f17c81d11411c",
+      "新SHA256": "e5aea3edf67d86dd91c535975dfbfb9ed6c2274e3e424c62d27bcd6bbe5fc0f5",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_17.EEX.演出调度修复前-20261018-183829.bak"
+    },
+    {
+      "文件": "R_18.EEX",
+      "旧SHA256": "8be0fb83baff0a363576269969a0beef0050faa2aeee5394ff6ca8e3d8c57d67",
+      "新SHA256": "de8fd65c94934f04adaccc9af0ea673d61f2fe3303af0dea50b51fc4d9ed0285",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_18.EEX.演出调度修复前-20261018-183829.bak"
+    }
+  ],
+  "19R异路径复现一致": true,
+  "R00原作接入17块原字节一致": true,
+  "Data与S保持": true,
+  "RS_SHA256": {
+    "R_00.EEX": "0a41cf0805189f6c3d444e3e4e51b5187225e58f5e99df0cb6f53255b8e7242f",
+    "R_01.EEX": "9fbe556639f5b1b1b9bbac231ae585673aab87c23365da21506d430c3548cff6",
+    "R_02.EEX": "b7a662cd652f89e2333b5eab7b05e913d9aa6b8cbbe3736e364d6e0ec7e3358b",
+    "R_03.EEX": "ceca7b9b75647d9e5cdcdc8713a1270ced99dcf530732b36689512ef58beb406",
+    "R_04.EEX": "7da0646518a0848f85e1a9de90afca2188babef70110691ea95925e9e9ef3600",
+    "R_05.EEX": "a7fa727457043051363dd84a395fb20cffbe2be2f9c43350e7c62e9682e3eb06",
+    "R_06.EEX": "2e9ddae612651e081110deac60722bbe3dbba0a03c3287e10886130cff9f5d37",
+    "R_07.EEX": "44efc7cd92b7e2bbb2ecd0f80897d000a71e27afcfab39299cbdbb626054f96f",
+    "R_08.EEX": "fc00c07ff95e0a28f9294ef6a6efcd18a2e92811b0a5e4edace666c99726cf55",
+    "R_09.EEX": "f2b47b0ea17fadc62f71d75bae0ce6407b091223e3b123e1aaa0233af6a7accf",
+    "R_10.EEX": "66426448ae6aa4caeecc23cca7b6160fd79394ad851c132466d1ed2448c14436",
+    "R_11.EEX": "9814d0d88218e5c10c117311f8ac6e49e2c04aaec049b8ea0f7d2947982d5624",
+    "R_12.EEX": "a3f7511fe839f4803c84e8f96470d6e8fd518dd61342e5138b24145914d91138",
+    "R_13.EEX": "2b5db88385c680085c691f3f2ea217d5d91a764a5334e731fd6b714611afa78d",
+    "R_14.EEX": "88b6fc3d27c75a298eb9e9f34fa3096c1eaa82a7b4fc9f6efb8955e823a0e43d",
+    "R_15.EEX": "8dac2a65ac89ceeadd70373d6973d3fa4bde5f238184044b3015e83bbbf940b9",
+    "R_16.EEX": "5ce8a780809cf0817e3c6dbcb53f7d4b909bee80838a24fdeff444578e8bc269",
+    "R_17.EEX": "e5aea3edf67d86dd91c535975dfbfb9ed6c2274e3e424c62d27bcd6bbe5fc0f5",
+    "R_18.EEX": "de8fd65c94934f04adaccc9af0ea673d61f2fe3303af0dea50b51fc4d9ed0285"
+  },
+  "已实机": false,
+  "已提交": false,
+  "已推送": false,
+  "记录文件": "R演出调度修复部署记录-20261018-183829.json"
+}

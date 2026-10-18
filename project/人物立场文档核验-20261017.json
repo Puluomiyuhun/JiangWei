@@ -1,0 +1,1260 @@
+{
+  "date": "2026-10-17",
+  "scope": "16 chapters 248 scenes",
+  "named_speakers": 92,
+  "covered_named_speakers": [
+    "姜维",
+    "钟会",
+    "杨兰",
+    "诸葛果",
+    "宁随",
+    "张翼",
+    "廖化",
+    "胡烈",
+    "胡渊",
+    "羊琇",
+    "夏侯和",
+    "袁綝",
+    "句扶",
+    "刘禅",
+    "刘璿",
+    "张皇后",
+    "郤正",
+    "董厥",
+    "樊建",
+    "谯周",
+    "陈寿",
+    "范长生",
+    "关彝",
+    "庞会",
+    "丘建",
+    "王含",
+    "句安",
+    "蒋斌",
+    "蒋舒",
+    "张绍",
+    "阎宇",
+    "柳隐",
+    "向充",
+    "来忠",
+    "罗宪",
+    "杨宗",
+    "霍弋",
+    "关索",
+    "花鬘",
+    "孟琰",
+    "邓艾",
+    "王颀",
+    "牵弘",
+    "邓忠",
+    "师纂",
+    "司马昭",
+    "曹绫",
+    "曹奂",
+    "王元姬",
+    "司马炎",
+    "司马攸",
+    "荀勖",
+    "贾充",
+    "裴秀",
+    "杜预",
+    "荀恺",
+    "司马望",
+    "胡奋",
+    "鲁芝",
+    "陈骞",
+    "卫瓘",
+    "田续",
+    "邵悌",
+    "羊祜",
+    "夏侯霸",
+    "钟毓",
+    "辛宪英",
+    "荀顗",
+    "王祥",
+    "郑冲",
+    "文鸯",
+    "文虎",
+    "孙休",
+    "孙皓",
+    "张布",
+    "濮阳兴",
+    "万彧",
+    "丁奉",
+    "陆凯",
+    "华覈",
+    "韦昭",
+    "薛莹",
+    "陆抗",
+    "步协",
+    "留平",
+    "鲁淑",
+    "施绩",
+    "虞汜",
+    "薛珝",
+    "陶璜",
+    "诸葛靓",
+    "张悌"
+  ],
+  "generic_speaker_labels": [
+    "主簿",
+    "参军",
+    "士兵02",
+    "文官",
+    "新兵",
+    "步兵3",
+    "步兵4",
+    "武官",
+    "老兵",
+    "蜀兵",
+    "蜀降卒",
+    "魏兵",
+    "魏将"
+  ],
+  "uncovered_named_speakers": [],
+  "scene_reference_count": 357,
+  "unique_referenced_scenes": 182,
+  "scene_references": [
+    {
+      "id": "01-01",
+      "chapter": 1,
+      "name": "宫门",
+      "source_line": 8
+    },
+    {
+      "id": "01-02",
+      "chapter": 1,
+      "name": "白帽子",
+      "source_line": 25
+    },
+    {
+      "id": "01-03",
+      "chapter": 1,
+      "name": "旧主",
+      "source_line": 54
+    },
+    {
+      "id": "01-04",
+      "chapter": 1,
+      "name": "忍数日之辱",
+      "source_line": 87
+    },
+    {
+      "id": "01-05",
+      "chapter": 1,
+      "name": "江由之辱",
+      "source_line": 125
+    },
+    {
+      "id": "01-06",
+      "chapter": 1,
+      "name": "槛车",
+      "source_line": 149
+    },
+    {
+      "id": "01-07",
+      "chapter": 1,
+      "name": "没有坑",
+      "source_line": 172
+    },
+    {
+      "id": "01-09",
+      "chapter": 1,
+      "name": "樊城的账",
+      "source_line": 255
+    },
+    {
+      "id": "01-12",
+      "chapter": 1,
+      "name": "下一步",
+      "source_line": 305
+    },
+    {
+      "id": "01-13",
+      "chapter": 1,
+      "name": "降过一次",
+      "source_line": 331
+    },
+    {
+      "id": "01-14",
+      "chapter": 1,
+      "name": "两种人",
+      "source_line": 350
+    },
+    {
+      "id": "01-15",
+      "chapter": 1,
+      "name": "账",
+      "source_line": 366
+    },
+    {
+      "id": "01-16",
+      "chapter": 1,
+      "name": "必不以及宗",
+      "source_line": 390
+    },
+    {
+      "id": "01-17",
+      "chapter": 1,
+      "name": "后命",
+      "source_line": 424
+    },
+    {
+      "id": "01-18",
+      "chapter": 1,
+      "name": "相见在近",
+      "source_line": 442
+    },
+    {
+      "id": "02-01",
+      "chapter": 2,
+      "name": "替人守门",
+      "source_line": 7
+    },
+    {
+      "id": "02-02",
+      "chapter": 2,
+      "name": "杜预的算盘",
+      "source_line": 23
+    },
+    {
+      "id": "02-04",
+      "chapter": 2,
+      "name": "仇国论",
+      "source_line": 67
+    },
+    {
+      "id": "02-05",
+      "chapter": 2,
+      "name": "门生",
+      "source_line": 92
+    },
+    {
+      "id": "02-06",
+      "chapter": 2,
+      "name": "金钗",
+      "source_line": 117
+    },
+    {
+      "id": "02-07",
+      "chapter": 2,
+      "name": "请命",
+      "source_line": 136
+    },
+    {
+      "id": "02-09",
+      "chapter": 2,
+      "name": "活人",
+      "source_line": 176
+    },
+    {
+      "id": "02-11",
+      "chapter": 2,
+      "name": "五斗米",
+      "source_line": 221
+    },
+    {
+      "id": "02-12",
+      "chapter": 2,
+      "name": "唇齿",
+      "source_line": 255
+    },
+    {
+      "id": "02-13",
+      "chapter": 2,
+      "name": "都亭",
+      "source_line": 298
+    },
+    {
+      "id": "02-14",
+      "chapter": 2,
+      "name": "剑门不是一个人的",
+      "source_line": 333
+    },
+    {
+      "id": "02-15",
+      "chapter": 2,
+      "name": "女婿",
+      "source_line": 350
+    },
+    {
+      "id": "02-18",
+      "chapter": 2,
+      "name": "讲席以外",
+      "source_line": 432
+    },
+    {
+      "id": "02-19",
+      "chapter": 2,
+      "name": "一碗饭",
+      "source_line": 460
+    },
+    {
+      "id": "03-01",
+      "chapter": 3,
+      "name": "陇西军",
+      "source_line": 7
+    },
+    {
+      "id": "03-03",
+      "chapter": 3,
+      "name": "抓药",
+      "source_line": 54
+    },
+    {
+      "id": "03-04",
+      "chapter": 3,
+      "name": "十几骑",
+      "source_line": 79
+    },
+    {
+      "id": "03-05",
+      "chapter": 3,
+      "name": "逆水",
+      "source_line": 102
+    },
+    {
+      "id": "03-07",
+      "chapter": 3,
+      "name": "兄弟",
+      "source_line": 155
+    },
+    {
+      "id": "03-08",
+      "chapter": 3,
+      "name": "槛车到了以后",
+      "source_line": 182
+    },
+    {
+      "id": "03-09",
+      "chapter": 3,
+      "name": "囚车",
+      "source_line": 211
+    },
+    {
+      "id": "03-10",
+      "chapter": 3,
+      "name": "阴平道",
+      "source_line": 253
+    },
+    {
+      "id": "03-11",
+      "chapter": 3,
+      "name": "各走一程",
+      "source_line": 297
+    },
+    {
+      "id": "03-13",
+      "chapter": 3,
+      "name": "京观",
+      "source_line": 333
+    },
+    {
+      "id": "03-14",
+      "chapter": 3,
+      "name": "棺木",
+      "source_line": 349
+    },
+    {
+      "id": "03-15",
+      "chapter": 3,
+      "name": "鞘",
+      "source_line": 365
+    },
+    {
+      "id": "03-17",
+      "chapter": 3,
+      "name": "旧臣的席位",
+      "source_line": 399
+    },
+    {
+      "id": "04-04",
+      "chapter": 4,
+      "name": "降的是谁",
+      "source_line": 65
+    },
+    {
+      "id": "04-05",
+      "chapter": 4,
+      "name": "逆水第一阵",
+      "source_line": 96
+    },
+    {
+      "id": "04-06",
+      "chapter": 4,
+      "name": "本钱",
+      "source_line": 116
+    },
+    {
+      "id": "04-07",
+      "chapter": 4,
+      "name": "北来的客人",
+      "source_line": 149
+    },
+    {
+      "id": "04-08",
+      "chapter": 4,
+      "name": "遗诏",
+      "source_line": 179
+    },
+    {
+      "id": "04-09",
+      "chapter": 4,
+      "name": "记在谁头上",
+      "source_line": 219
+    },
+    {
+      "id": "04-11",
+      "chapter": 4,
+      "name": "两条船",
+      "source_line": 255
+    },
+    {
+      "id": "04-12",
+      "chapter": 4,
+      "name": "吴汉",
+      "source_line": 280
+    },
+    {
+      "id": "04-14",
+      "chapter": 4,
+      "name": "风向",
+      "source_line": 330
+    },
+    {
+      "id": "04-15",
+      "chapter": 4,
+      "name": "前后脚",
+      "source_line": 345
+    },
+    {
+      "id": "04-16",
+      "chapter": 4,
+      "name": "太后的话",
+      "source_line": 357
+    },
+    {
+      "id": "05-02",
+      "chapter": 5,
+      "name": "看营的人",
+      "source_line": 40
+    },
+    {
+      "id": "05-04",
+      "chapter": 5,
+      "name": "关家",
+      "source_line": 85
+    },
+    {
+      "id": "05-06",
+      "chapter": 5,
+      "name": "立威",
+      "source_line": 184
+    },
+    {
+      "id": "05-09",
+      "chapter": 5,
+      "name": "逆水",
+      "source_line": 275
+    },
+    {
+      "id": "05-10",
+      "chapter": 5,
+      "name": "十九个名字",
+      "source_line": 307
+    },
+    {
+      "id": "05-11",
+      "chapter": 5,
+      "name": "一江之外",
+      "source_line": 337
+    },
+    {
+      "id": "05-13",
+      "chapter": 5,
+      "name": "两千人",
+      "source_line": 377
+    },
+    {
+      "id": "06-01",
+      "chapter": 6,
+      "name": "三百车",
+      "source_line": 7
+    },
+    {
+      "id": "06-03",
+      "chapter": 6,
+      "name": "斩与放",
+      "source_line": 45
+    },
+    {
+      "id": "06-04",
+      "chapter": 6,
+      "name": "士亡法",
+      "source_line": 67
+    },
+    {
+      "id": "06-06",
+      "chapter": 6,
+      "name": "六百里的监军",
+      "source_line": 123
+    },
+    {
+      "id": "06-07",
+      "chapter": 6,
+      "name": "傥骆道",
+      "source_line": 145
+    },
+    {
+      "id": "06-08",
+      "chapter": 6,
+      "name": "城东那扇门",
+      "source_line": 164
+    },
+    {
+      "id": "06-10",
+      "chapter": 6,
+      "name": "第十五道",
+      "source_line": 209
+    },
+    {
+      "id": "07-02",
+      "chapter": 7,
+      "name": "阳安关",
+      "source_line": 27
+    },
+    {
+      "id": "07-04",
+      "chapter": 7,
+      "name": "贾公闾",
+      "source_line": 75
+    },
+    {
+      "id": "07-05",
+      "chapter": 7,
+      "name": "马后头",
+      "source_line": 92
+    },
+    {
+      "id": "07-06",
+      "chapter": 7,
+      "name": "放下刀的人",
+      "source_line": 117
+    },
+    {
+      "id": "07-08",
+      "chapter": 7,
+      "name": "第一个",
+      "source_line": 165
+    },
+    {
+      "id": "07-09",
+      "chapter": 7,
+      "name": "汉中是谁的",
+      "source_line": 190
+    },
+    {
+      "id": "07-10",
+      "chapter": 7,
+      "name": "骂谁",
+      "source_line": 212
+    },
+    {
+      "id": "07-11",
+      "chapter": 7,
+      "name": "两个开门的",
+      "source_line": 231
+    },
+    {
+      "id": "07-12",
+      "chapter": 7,
+      "name": "仓又不会跑",
+      "source_line": 250
+    },
+    {
+      "id": "07-13",
+      "chapter": 7,
+      "name": "七成",
+      "source_line": 279
+    },
+    {
+      "id": "07-14",
+      "chapter": 7,
+      "name": "初一的锣",
+      "source_line": 303
+    },
+    {
+      "id": "07-15",
+      "chapter": 7,
+      "name": "降的是谁",
+      "source_line": 320
+    },
+    {
+      "id": "07-16",
+      "chapter": 7,
+      "name": "长围",
+      "source_line": 339
+    },
+    {
+      "id": "08-01",
+      "chapter": 8,
+      "name": "半仓",
+      "source_line": 7
+    },
+    {
+      "id": "08-05",
+      "chapter": 8,
+      "name": "署名",
+      "source_line": 105
+    },
+    {
+      "id": "08-06",
+      "chapter": 8,
+      "name": "两封信",
+      "source_line": 121
+    },
+    {
+      "id": "08-07",
+      "chapter": 8,
+      "name": "白起",
+      "source_line": 147
+    },
+    {
+      "id": "08-08",
+      "chapter": 8,
+      "name": "外甥",
+      "source_line": 178
+    },
+    {
+      "id": "08-09",
+      "chapter": 8,
+      "name": "杜邮",
+      "source_line": 202
+    },
+    {
+      "id": "08-10",
+      "chapter": 8,
+      "name": "一匹布",
+      "source_line": 240
+    },
+    {
+      "id": "08-11",
+      "chapter": 8,
+      "name": "相国知之",
+      "source_line": 261
+    },
+    {
+      "id": "08-12",
+      "chapter": 8,
+      "name": "射信",
+      "source_line": 276
+    },
+    {
+      "id": "08-14",
+      "chapter": 8,
+      "name": "磨刀",
+      "source_line": 321
+    },
+    {
+      "id": "08-15",
+      "chapter": 8,
+      "name": "雁翎",
+      "source_line": 346
+    },
+    {
+      "id": "08-16",
+      "chapter": 8,
+      "name": "先进了谁的帐",
+      "source_line": 371
+    },
+    {
+      "id": "09-03",
+      "chapter": 9,
+      "name": "乌程的客人",
+      "source_line": 81
+    },
+    {
+      "id": "09-04",
+      "chapter": 9,
+      "name": "右大将军",
+      "source_line": 112
+    },
+    {
+      "id": "09-05",
+      "chapter": 9,
+      "name": "同一面旗",
+      "source_line": 133
+    },
+    {
+      "id": "09-06",
+      "chapter": 9,
+      "name": "谁替谁作保",
+      "source_line": 153
+    },
+    {
+      "id": "09-07",
+      "chapter": 9,
+      "name": "请长史上马",
+      "source_line": 187
+    },
+    {
+      "id": "09-08",
+      "chapter": 9,
+      "name": "借来的骑兵",
+      "source_line": 200
+    },
+    {
+      "id": "09-09",
+      "chapter": 9,
+      "name": "客人的饭量",
+      "source_line": 231
+    },
+    {
+      "id": "09-10",
+      "chapter": 9,
+      "name": "关门以内",
+      "source_line": 258
+    },
+    {
+      "id": "09-11",
+      "chapter": 9,
+      "name": "谁下的令",
+      "source_line": 283
+    },
+    {
+      "id": "09-12",
+      "chapter": 9,
+      "name": "还得拿笔",
+      "source_line": 309
+    },
+    {
+      "id": "09-13",
+      "chapter": 9,
+      "name": "不能少的兵",
+      "source_line": 335
+    },
+    {
+      "id": "09-14",
+      "chapter": 9,
+      "name": "病中",
+      "source_line": 356
+    },
+    {
+      "id": "09-15",
+      "chapter": 9,
+      "name": "谁替江陵守",
+      "source_line": 382
+    },
+    {
+      "id": "09-17",
+      "chapter": 9,
+      "name": "谁肯跟着去",
+      "source_line": 456
+    },
+    {
+      "id": "09-18",
+      "chapter": 9,
+      "name": "留下的人",
+      "source_line": 491
+    },
+    {
+      "id": "10-01",
+      "chapter": 10,
+      "name": "不用签名",
+      "source_line": 7
+    },
+    {
+      "id": "10-02",
+      "chapter": 10,
+      "name": "诏书上的名字",
+      "source_line": 44
+    },
+    {
+      "id": "10-03",
+      "chapter": 10,
+      "name": "把诏办成",
+      "source_line": 82
+    },
+    {
+      "id": "10-04",
+      "chapter": 10,
+      "name": "一千五百",
+      "source_line": 100
+    },
+    {
+      "id": "10-05",
+      "chapter": 10,
+      "name": "缺下的七百",
+      "source_line": 121
+    },
+    {
+      "id": "10-06",
+      "chapter": 10,
+      "name": "城里没有三千人",
+      "source_line": 152
+    },
+    {
+      "id": "10-07",
+      "chapter": 10,
+      "name": "有人等不及",
+      "source_line": 186
+    },
+    {
+      "id": "10-09",
+      "chapter": 10,
+      "name": "接到的人",
+      "source_line": 242
+    },
+    {
+      "id": "10-11",
+      "chapter": 10,
+      "name": "递到谁手里",
+      "source_line": 299
+    },
+    {
+      "id": "10-12",
+      "chapter": 10,
+      "name": "带得走的",
+      "source_line": 320
+    },
+    {
+      "id": "10-13",
+      "chapter": 10,
+      "name": "还你的太守",
+      "source_line": 345
+    },
+    {
+      "id": "10-14",
+      "chapter": 10,
+      "name": "谁先松手",
+      "source_line": 376
+    },
+    {
+      "id": "10-15",
+      "chapter": 10,
+      "name": "船还没有开",
+      "source_line": 400
+    },
+    {
+      "id": "10-16",
+      "chapter": 10,
+      "name": "开给谁的门",
+      "source_line": 423
+    },
+    {
+      "id": "10-17",
+      "chapter": 10,
+      "name": "先别替我担",
+      "source_line": 467
+    },
+    {
+      "id": "10-18",
+      "chapter": 10,
+      "name": "纸上没有那个人",
+      "source_line": 508
+    },
+    {
+      "id": "11-01",
+      "chapter": 11,
+      "name": "少了一个酒友",
+      "source_line": 7
+    },
+    {
+      "id": "11-02",
+      "chapter": 11,
+      "name": "封不住的书",
+      "source_line": 43
+    },
+    {
+      "id": "11-03",
+      "chapter": 11,
+      "name": "三千人的来处",
+      "source_line": 73
+    },
+    {
+      "id": "11-04",
+      "chapter": 11,
+      "name": "留在别人家里的人",
+      "source_line": 124
+    },
+    {
+      "id": "11-05",
+      "chapter": 11,
+      "name": "南边的用处",
+      "source_line": 164
+    },
+    {
+      "id": "11-06",
+      "chapter": 11,
+      "name": "不是一封降表",
+      "source_line": 191
+    },
+    {
+      "id": "11-08",
+      "chapter": 11,
+      "name": "朕让他说的",
+      "source_line": 291
+    },
+    {
+      "id": "11-09",
+      "chapter": 11,
+      "name": "孟家的女儿",
+      "source_line": 332
+    },
+    {
+      "id": "11-10",
+      "chapter": 11,
+      "name": "兄弟的两种差事",
+      "source_line": 376
+    },
+    {
+      "id": "11-11",
+      "chapter": 11,
+      "name": "带谁走",
+      "source_line": 408
+    },
+    {
+      "id": "12-01",
+      "chapter": 12,
+      "name": "带回来的旗",
+      "source_line": 7
+    },
+    {
+      "id": "12-02",
+      "chapter": 12,
+      "name": "不肯落的款",
+      "source_line": 45
+    },
+    {
+      "id": "12-03",
+      "chapter": 12,
+      "name": "问在宫外",
+      "source_line": 73
+    },
+    {
+      "id": "12-04",
+      "chapter": 12,
+      "name": "借走的人",
+      "source_line": 125
+    },
+    {
+      "id": "12-05",
+      "chapter": 12,
+      "name": "关家的门",
+      "source_line": 158
+    },
+    {
+      "id": "12-06",
+      "chapter": 12,
+      "name": "朕不想听捷报",
+      "source_line": 206
+    },
+    {
+      "id": "12-07",
+      "chapter": 12,
+      "name": "太后没有这道诏",
+      "source_line": 249
+    },
+    {
+      "id": "12-09",
+      "chapter": 12,
+      "name": "去长安的路费",
+      "source_line": 319
+    },
+    {
+      "id": "12-10",
+      "chapter": 12,
+      "name": "没有遗诏以后",
+      "source_line": 351
+    },
+    {
+      "id": "12-11",
+      "chapter": 12,
+      "name": "不能替他们签",
+      "source_line": 388
+    },
+    {
+      "id": "12-12",
+      "chapter": 12,
+      "name": "留给朕的事",
+      "source_line": 423
+    },
+    {
+      "id": "12-13",
+      "chapter": 12,
+      "name": "一道真命",
+      "source_line": 471
+    },
+    {
+      "id": "13-01",
+      "chapter": 13,
+      "name": "放行",
+      "source_line": 7
+    },
+    {
+      "id": "13-02",
+      "chapter": 13,
+      "name": "乡里的仓",
+      "source_line": 53
+    },
+    {
+      "id": "13-04",
+      "chapter": 13,
+      "name": "出山",
+      "source_line": 137
+    },
+    {
+      "id": "13-05",
+      "chapter": 13,
+      "name": "没有说完的话",
+      "source_line": 170
+    },
+    {
+      "id": "13-06",
+      "chapter": 13,
+      "name": "谁来做皇帝",
+      "source_line": 189
+    },
+    {
+      "id": "13-08",
+      "chapter": 13,
+      "name": "旧营",
+      "source_line": 262
+    },
+    {
+      "id": "13-10",
+      "chapter": 13,
+      "name": "新主的恩",
+      "source_line": 361
+    },
+    {
+      "id": "13-11",
+      "chapter": 13,
+      "name": "到江边为止",
+      "source_line": 393
+    },
+    {
+      "id": "13-12",
+      "chapter": 13,
+      "name": "回来的人",
+      "source_line": 428
+    },
+    {
+      "id": "13-13",
+      "chapter": 13,
+      "name": "不够一个秋天",
+      "source_line": 461
+    },
+    {
+      "id": "14-02",
+      "chapter": 14,
+      "name": "不必催他回来",
+      "source_line": 42
+    },
+    {
+      "id": "14-03",
+      "chapter": 14,
+      "name": "先给哪一营",
+      "source_line": 78
+    },
+    {
+      "id": "14-05",
+      "chapter": 14,
+      "name": "不救陈仓",
+      "source_line": 140
+    },
+    {
+      "id": "14-09",
+      "chapter": 14,
+      "name": "步家的兵",
+      "source_line": 267
+    },
+    {
+      "id": "14-11",
+      "chapter": 14,
+      "name": "先让车过去",
+      "source_line": 329
+    },
+    {
+      "id": "14-13",
+      "chapter": 14,
+      "name": "不能只靠赦书",
+      "source_line": 397
+    },
+    {
+      "id": "15-02",
+      "chapter": 15,
+      "name": "不许替我答",
+      "source_line": 27
+    },
+    {
+      "id": "15-03",
+      "chapter": 15,
+      "name": "两面胡旗",
+      "source_line": 52
+    },
+    {
+      "id": "15-04",
+      "chapter": 15,
+      "name": "先回来",
+      "source_line": 86
+    },
+    {
+      "id": "15-06",
+      "chapter": 15,
+      "name": "到了也不安分",
+      "source_line": 143
+    },
+    {
+      "id": "15-07",
+      "chapter": 15,
+      "name": "坡上的旗",
+      "source_line": 170
+    },
+    {
+      "id": "15-08",
+      "chapter": 15,
+      "name": "先骂哪一句",
+      "source_line": 198
+    },
+    {
+      "id": "15-09",
+      "chapter": 15,
+      "name": "字写大一些",
+      "source_line": 229
+    },
+    {
+      "id": "15-10",
+      "chapter": 15,
+      "name": "你娘没有教这个",
+      "source_line": 257
+    },
+    {
+      "id": "15-11",
+      "chapter": 15,
+      "name": "少一个角",
+      "source_line": 285
+    },
+    {
+      "id": "15-12",
+      "chapter": 15,
+      "name": "等一回人",
+      "source_line": 312
+    },
+    {
+      "id": "16-01",
+      "chapter": 16,
+      "name": "都算在一起",
+      "source_line": 7
+    },
+    {
+      "id": "16-03",
+      "chapter": 16,
+      "name": "你也会想娘",
+      "source_line": 61
+    },
+    {
+      "id": "16-04",
+      "chapter": 16,
+      "name": "先读这一行",
+      "source_line": 94
+    },
+    {
+      "id": "16-05",
+      "chapter": 16,
+      "name": "留下的人",
+      "source_line": 126
+    },
+    {
+      "id": "16-06",
+      "chapter": 16,
+      "name": "借一匹马",
+      "source_line": 155
+    },
+    {
+      "id": "16-08",
+      "chapter": 16,
+      "name": "回来不是到家",
+      "source_line": 220
+    },
+    {
+      "id": "16-09",
+      "chapter": 16,
+      "name": "你也不想回去",
+      "source_line": 248
+    },
+    {
+      "id": "16-10",
+      "chapter": 16,
+      "name": "这碗从哪里来",
+      "source_line": 280
+    },
+    {
+      "id": "16-11",
+      "chapter": 16,
+      "name": "谁来听坏消息",
+      "source_line": 311
+    },
+    {
+      "id": "16-12",
+      "chapter": 16,
+      "name": "不是替我送的",
+      "source_line": 343
+    },
+    {
+      "id": "16-13",
+      "chapter": 16,
+      "name": "明年还没说",
+      "source_line": 370
+    }
+  ],
+  "protected_files": {
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch1.md": "3b6e47e1755f1fcb1eb81ba304db4b95f778fd69a0a21667171e9596680deff6",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch10.md": "886ebdf226df641af59c097d6da95436b3297bf45c56e1919a17af604a30cbe2",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch11.md": "c21bbaadc20b13bdd1543a9f0faa59fd4e3fee0e0cef477f4443096ecb331733",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch12.md": "3374563511b11a3de92d89892155d7af2d4dc5658e78579593d9de632d8efe3d",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch13.md": "b435e17d2c2783c2e5642fd71a0a13b907f50786d6ad5f7c6f028509ae76e3b2",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch14.md": "a70c569020085dcdb8b7d1fbf79aa70cd4d87afb0de2b7a7a47b7d6fed5fa460",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch15.md": "d1bd2875eb998a2f543ec5c7de2b2f076876c8cbf8ca2ca1990b79062dd36b7a",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch16.md": "39b82d4225c047b3b773d14b9ebbf9782b4864d09df28d2757dd06b4786c9da2",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch2.md": "3374f54073a41262d16e66ea3e7e43e905ede966d02a691ed9dbc71519bc288c",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch3.md": "29b79619e29e4060ea7db35527000efef341405f3ab2c3aed79338ad4d3796ba",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch4.md": "5c652fe5a9a26c5f81bd4cef45e7ff6ce3005b381df26ff942dcc464b0dec453",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch5.md": "e2ef9c7df60a10661bd83dbb51558507b9fabf6f3f91b87335f6a86f1ab04a1a",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch6.md": "c93a8ea347c2175f279c741c5c8eaa6631131793fb4198e048cc55898ac2fe17",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch7.md": "8a3f2d00b81bbff31e0dadd7555529dcbbeafdcadffb48b2b68a20f47a0a3293",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch8.md": "6e78ed98423e76b20a607f27d363f0b3c21cf7bceb10feb2cc7393f369782243",
+    "E:\\JiangWei\\project\\mod_build\\draft\\ch9.md": "6c9add90c28f4cf67bbff55065a91367fb0d66c31b95d5401e117171c81ac057",
+    "E:\\JiangWei\\project\\RS\\R_00.EEX": "23a0231d596504475d32a3618d1b690700371a7247793b0b81def19b90f2fe44",
+    "E:\\JiangWei\\project\\RS\\R_01.EEX": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e",
+    "E:\\JiangWei\\project\\RS\\R_02.EEX": "f52086fbd6775cd54c1cf0be7ed69d6200a232d6024af4a9c75dc5f157d574e3",
+    "E:\\JiangWei\\project\\RS\\R_03.EEX": "d85af11514d9fb340f3df96b233ed5166a4d69b8b8b9bf3af317008f87e4a702",
+    "E:\\JiangWei\\project\\RS\\R_04.EEX": "f67073663925fcf34bc324f5723480539634a2411c470840ae41c55a26e2375d",
+    "E:\\JiangWei\\project\\RS\\R_05.EEX": "104d754b60c707c6746333656c494ce43359ff99c82b1039a589f381ec72806a",
+    "E:\\JiangWei\\project\\RS\\R_06.EEX": "a6fb7ae4f2a367f204460d8ff1f765f56f78d77ce6b4ba88cfb3fc5b36265bb5",
+    "E:\\JiangWei\\project\\RS\\R_07.EEX": "f0cd5bd89afb38fd461fc6580fb69d5632f87791db255539be9cf5403249da91",
+    "E:\\JiangWei\\project\\RS\\R_08.EEX": "3ff040dc00e2663195c1466a0d651f826b743ebcacd0e20a76245510162f03f4",
+    "E:\\JiangWei\\project\\RS\\R_09.EEX": "811c46b6daacf142d3380277446710596a2dd313afe03cb19cf0b8b9cb67d8b3",
+    "E:\\JiangWei\\project\\RS\\R_10.EEX": "c40ac2c9b7f3322b095abef5f4a409c852fed3d2aeb5bce23f3167dc9eb951c8",
+    "E:\\JiangWei\\project\\RS\\R_11.EEX": "15d490cb27f746f36144319ad7adfb73fc83e53015795e0691ed76d4417a59a4",
+    "E:\\JiangWei\\project\\RS\\R_12.EEX": "49885a723480332d18a9c86bb6d283a649550f76267190512646c2a07fc8fb0a",
+    "E:\\JiangWei\\project\\RS\\R_13.EEX": "6052d188f004c6c5c9b2008d085b9f5b63fd339f0d02a1929cb4bddd9106b503",
+    "E:\\JiangWei\\project\\RS\\R_14.EEX": "a7ad40fc83236e5ca47df7301470cde4b90105556ad4b5b605c4964929aa8c8c",
+    "E:\\JiangWei\\project\\RS\\R_15.EEX": "fc24846eefefe95a4e999b78f91e16c132effbfb03efc64f8365c799cc439745"
+  },
+  "protected_files_changed": [],
+  "source_text_characters": 25792,
+  "updated_files": [
+    "project/重要人物立场与关系梳理.md",
+    "AGENTS.md",
+    "project/交接记录.md",
+    "project/用户意见与后续写作要求.md",
+    "project/累计用户意见与人物校准.md",
+    "README.md",
+    "知识索引.md",
+    "project/人物调整方案-阎宇与邓艾-20261017.txt"
+  ],
+  "story_rewritten": false,
+  "rebuilt": false,
+  "deployed": false
+}

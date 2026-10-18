@@ -1,0 +1,43 @@
+{
+  "状态": "已部署",
+  "目标": "F:\\曹操传反编译\\测试mod\\游戏\\RS",
+  "备份": "F:\\曹操传反编译\\测试mod\\笔记\\备份\\东吴政局关系明写修订-20261016-205655",
+  "覆盖文件": [
+    "R_01.EEX",
+    "R_02.EEX",
+    "R_03.EEX",
+    "R_04.EEX",
+    "R_05.EEX",
+    "R_06.EEX",
+    "R_07.EEX",
+    "R_08.EEX",
+    "R_09.EEX",
+    "R_10.EEX",
+    "R_11.EEX",
+    "R_12.EEX"
+  ],
+  "新增文件": [],
+  "不变文件": [
+    "R_00.EEX"
+  ],
+  "全十三回SHA256": {
+    "R_00.EEX": "0a89c38eb6b30206f4f64350879dac4fe62cf2c129eb609758c071467179c99a",
+    "R_01.EEX": "d9428f615dc504952da3ab0e394781037228772d7f2c1df7519235f0f8a13179",
+    "R_02.EEX": "32285712dbad58936b7a38cf21122889f42eb9033e300ce4ff9478b4c48061a3",
+    "R_03.EEX": "6bc073eca4a98954dcb8d3117f1e7a68e55bd2946e6bb2c41d7cac07f946d6cc",
+    "R_04.EEX": "0019f651101b30f8b4c3d86b50db672ed8c43758e30e7a901fb26ed337d55a9e",
+    "R_05.EEX": "193110924851a60b357721c62f3f52de25b0b1b4d9318765bd1a532cdb245d50",
+    "R_06.EEX": "be93eb7bb42c39f687724c029036fcf4fc1844cbb758fe90feb86c4c4f55e3fb",
+    "R_07.EEX": "cdc267cd9330fc46e29c5c7aceaacb1f0e058f0171d1f8e8425022409ac6c4fc",
+    "R_08.EEX": "7dd6f9c66d5931d3b24d01a6a666804ff4f404830f27babb3baf834efe59a189",
+    "R_09.EEX": "b88c15353a4e8bfb9d70bf13c0595937e27652f559eb2bf7ca6da3a12d3b4150",
+    "R_10.EEX": "15818f80ca41f1711b9dd56c3c976c2d4360b5ccfb63524b6ea665f98f73e446",
+    "R_11.EEX": "9231da1edbdbc32e8f96c282d9e10bb609fd35ccee6c6e74dba896be647752b2",
+    "R_12.EEX": "42214a5fd0147195f5c7781c7d2a762855b152d3a717ba74a5ebcba20f45d0a1"
+  },
+  "Data未覆盖": true,
+  "所有原S文件未改": true,
+  "前版原包未改": true,
+  "未启动游戏": true,
+  "实机限制": "未验证画面遮挡、动画或旧存档恢复；S仍为占位。"
+}

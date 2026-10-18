@@ -1,0 +1,12 @@
+{
+  "性质": "仅核本机源码，不证明运行EXE与源码一致",
+  "源码根": "E:\\ccz-new-engine\\1-工程源码",
+  "文件sha256": {
+    "src/script_cmd.c": "d5469aed68933bfdedca5ef7ca35af66f7e9918c68226b466891b11f4ae024ad",
+    "src/script_run.c": "23aae1fe3c400b76d74f5c806be44bbe6f78385867c780c5cb8d66e6910ef2d8",
+    "src/deploy.c": "a3ad92b5a3bea58601559901e9bca49d174a4e0fdb5b7549cc44d2dbbe72dc74",
+    "src/battle_deploy.c": "f00f19b2d740c9570343288fbf908b5fb1912005c79396787838376687da1b52",
+    "src/datatable.c": "5e62a0cf1a8ae043721074c7a7650e5308ffefc7d2d32d67786739c462deb248",
+    "src/battle.c": "3c1cccd59bcb78e8fa901e439864063bae04039b70ee2853b1366b6bbf8c94cc"
+  }
+}

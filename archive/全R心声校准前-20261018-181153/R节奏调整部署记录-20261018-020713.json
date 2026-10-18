@@ -1,0 +1,65 @@
+{
+  "时间": "2026-10-18T02:07:13",
+  "范围": "R_13—R_16节奏调整；R_17完整保留",
+  "回数": 18,
+  "场景数": 282,
+  "源文本净增字符": 1974,
+  "源备份": "E:\\JiangWei\\archive\\节奏调整前-20261018-020532",
+  "部署目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS",
+  "备份目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\R节奏调整-20261018-020713",
+  "文件": [
+    {
+      "文件": "R_13.EEX",
+      "旧SHA256": "cf1eea6688a6c769aab118abbae571d9cd6581b45b3ed449d8934b2f0cb84c60",
+      "新SHA256": "d7de77eea0e22d12d9fab8c2a3451b261698b3ceec58613196e3c493e5469799",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_13.EEX.节奏调整前-20261018-020713.bak"
+    },
+    {
+      "文件": "R_14.EEX",
+      "旧SHA256": "0701d3dcf0ad39d7f6e12afb7aee150bd3f8596f2ada4fdf57d95263a95883de",
+      "新SHA256": "0829c55929825a5f1645c9791fafd2255a4764c92e007513d61cc21febf9b964",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_14.EEX.节奏调整前-20261018-020713.bak"
+    },
+    {
+      "文件": "R_15.EEX",
+      "旧SHA256": "6b6562ea2c349ee7a02f2cdc9146f023df1a878320b5bff8803247d195b86663",
+      "新SHA256": "08ae97ae2bd94b545707e804ca65972446ab75435218c7e175e2862c3f950715",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_15.EEX.节奏调整前-20261018-020713.bak"
+    },
+    {
+      "文件": "R_16.EEX",
+      "旧SHA256": "823c92236957a615ff983c180ef40fbd8913bb569ed888eabedddbaec3ba8f60",
+      "新SHA256": "aab68f4658063e81aaef7e336c52ace2dbb6a2ff526d37f600cdfa85117c27dc",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_16.EEX.节奏调整前-20261018-020713.bak"
+    }
+  ],
+  "对白框": 6981,
+  "18R异路径复现一致": true,
+  "14份其他R原字节保持": true,
+  "原地图文字逐字保持": true,
+  "DataS及其余原有RS未变": true,
+  "说话人槽名兼容": 112,
+  "已实机": false,
+  "已提交": false,
+  "已推送": false,
+  "RS_SHA256": {
+    "R_00.EEX": "23a0231d596504475d32a3618d1b690700371a7247793b0b81def19b90f2fe44",
+    "R_01.EEX": "d5096c5c835516e9ad5de0a3249d07e1704a597c4e84207ae1f3323cdb196782",
+    "R_02.EEX": "7182af0d23217456ad801eb631c8341090f27a1b081ab09eb5b601eb2e313a80",
+    "R_03.EEX": "f59e13388ef00c05249fe89d439c4457a0feb9961cd1076b92fc97e75ad0ba65",
+    "R_04.EEX": "0ecf06f7943816a0ef82737ecc3a9639d327a94d02b7846e542476ece834d412",
+    "R_05.EEX": "9cd5b0bc5e837ceedc5def0112d58e50575dcf959b693f79af4e5a88d08afe18",
+    "R_06.EEX": "ac9f55a0c43e13f3bd76a44f31562ca329cf146a84c868c56bbc15de2f7aee0b",
+    "R_07.EEX": "7ad3c94b52aa170c9c6d08002e765c5be761fe5f2a9faa4ae79e4cd3dc09134f",
+    "R_08.EEX": "44cf3276f56f4127526107de381d2ba15e7f6a288d848525e4167c7d08c69359",
+    "R_09.EEX": "5e1dd31baf4b445b9e0e3e3ed4e26da2bfa56f48d30d90d16b6c9c6d718c52f1",
+    "R_10.EEX": "bac7b1b940eae681e346ce6f47175a2b193b20876c5c57d5aaf3a301e13fb343",
+    "R_11.EEX": "37da29278c4d7a69a07be26296b9a1b14fccbe6e0944c1ca8b8bd19c83a5958c",
+    "R_12.EEX": "cb8e3251b6207026d33715c2cdc2bd582a5e95394aabc56d456b20d7733098a7",
+    "R_13.EEX": "d7de77eea0e22d12d9fab8c2a3451b261698b3ceec58613196e3c493e5469799",
+    "R_14.EEX": "0829c55929825a5f1645c9791fafd2255a4764c92e007513d61cc21febf9b964",
+    "R_15.EEX": "08ae97ae2bd94b545707e804ca65972446ab75435218c7e175e2862c3f950715",
+    "R_16.EEX": "aab68f4658063e81aaef7e336c52ace2dbb6a2ff526d37f600cdfa85117c27dc",
+    "R_17.EEX": "da3324a232401d31e92c12596c5a82e27c9584fac202690e47b2c4c333016d12"
+  }
+}

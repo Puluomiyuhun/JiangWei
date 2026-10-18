@@ -70,8 +70,11 @@ assert any(i['opcode']==0x74 for i in last['instructions'])
 assert (b.OUT/'Data.e5').read_bytes()==(b.GAME/'Data.e5').read_bytes(),'Data与构建输入不同，需审查后包装'
 
 payload={'状态':'通过','范围':'新增及修订正文；R00原作接入17块按原字节验证','结果':stats,'最大同屏人数':max_on,'逐格核验移动步数':all_steps,'原作接入块原字节一致':True,'Data与构建输入一致':True,'音轨检查方式':'文件名清单（未含音频）' if b.USE_AUDIO_MANIFEST else '指定游戏目录的实际音频文件','末回919待续守护':True,'限制':'静态校验；未运行游戏，未实测镜头遮挡、动作动画、存档恢复或战斗衔接。S战斗仍为占位。'}
-(out/'静态校验.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
-(b.OUT/'position-trace.json').write_text(json.dumps(trace,ensure_ascii=False,indent=1),encoding='utf-8')
 from verify_dialogue import verify_dialogue
 verify_dialogue(b)
+from verify_staging import verify_staging
+staging=verify_staging(b)
+payload['演出回归']=staging['检查计数']
+(out/'静态校验.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
+(b.OUT/'position-trace.json').write_text(json.dumps(trace,ensure_ascii=False,indent=1),encoding='utf-8')
 print(json.dumps(payload,ensure_ascii=False,indent=2))

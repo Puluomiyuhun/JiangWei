@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-17",
+  "scope": "仅策划和意见笔记",
+  "canonical_chapters": 17,
+  "canonical_scenes": 259,
+  "new_canonical_chapter_written": false,
+  "protected_file_count": 61,
+  "protected_files_unchanged": true,
+  "protected_files": [
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch1.md",
+      "sha256": "3b6e47e1755f1fcb1eb81ba304db4b95f778fd69a0a21667171e9596680deff6"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch10.md",
+      "sha256": "886ebdf226df641af59c097d6da95436b3297bf45c56e1919a17af604a30cbe2"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch11.md",
+      "sha256": "c21bbaadc20b13bdd1543a9f0faa59fd4e3fee0e0cef477f4443096ecb331733"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch12.md",
+      "sha256": "3374563511b11a3de92d89892155d7af2d4dc5658e78579593d9de632d8efe3d"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch13.md",
+      "sha256": "b435e17d2c2783c2e5642fd71a0a13b907f50786d6ad5f7c6f028509ae76e3b2"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch14.md",
+      "sha256": "a70c569020085dcdb8b7d1fbf79aa70cd4d87afb0de2b7a7a47b7d6fed5fa460"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch15.md",
+      "sha256": "d1bd2875eb998a2f543ec5c7de2b2f076876c8cbf8ca2ca1990b79062dd36b7a"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch16.md",
+      "sha256": "39b82d4225c047b3b773d14b9ebbf9782b4864d09df28d2757dd06b4786c9da2"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch17.md",
+      "sha256": "b977a39e05e8e9834cb0c1ba060a07580bb1d5ece5115e36a6df6b4b27b056f9"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch2.md",
+      "sha256": "3374f54073a41262d16e66ea3e7e43e905ede966d02a691ed9dbc71519bc288c"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch3.md",
+      "sha256": "29b79619e29e4060ea7db35527000efef341405f3ab2c3aed79338ad4d3796ba"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch4.md",
+      "sha256": "5c652fe5a9a26c5f81bd4cef45e7ff6ce3005b381df26ff942dcc464b0dec453"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch5.md",
+      "sha256": "e2ef9c7df60a10661bd83dbb51558507b9fabf6f3f91b87335f6a86f1ab04a1a"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch6.md",
+      "sha256": "c93a8ea347c2175f279c741c5c8eaa6631131793fb4198e048cc55898ac2fe17"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch7.md",
+      "sha256": "8a3f2d00b81bbff31e0dadd7555529dcbbeafdcadffb48b2b68a20f47a0a3293"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch8.md",
+      "sha256": "6e78ed98423e76b20a607f27d363f0b3c21cf7bceb10feb2cc7393f369782243"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\mod_build\\draft\\ch9.md",
+      "sha256": "6c9add90c28f4cf67bbff55065a91367fb0d66c31b95d5401e117171c81ac057"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_00.EEX",
+      "sha256": "23a0231d596504475d32a3618d1b690700371a7247793b0b81def19b90f2fe44"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_01.EEX",
+      "sha256": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_02.EEX",
+      "sha256": "f52086fbd6775cd54c1cf0be7ed69d6200a232d6024af4a9c75dc5f157d574e3"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_03.EEX",
+      "sha256": "d85af11514d9fb340f3df96b233ed5166a4d69b8b8b9bf3af317008f87e4a702"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_04.EEX",
+      "sha256": "f67073663925fcf34bc324f5723480539634a2411c470840ae41c55a26e2375d"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_05.EEX",
+      "sha256": "104d754b60c707c6746333656c494ce43359ff99c82b1039a589f381ec72806a"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_06.EEX",
+      "sha256": "a6fb7ae4f2a367f204460d8ff1f765f56f78d77ce6b4ba88cfb3fc5b36265bb5"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_07.EEX",
+      "sha256": "f0cd5bd89afb38fd461fc6580fb69d5632f87791db255539be9cf5403249da91"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_08.EEX",
+      "sha256": "3ff040dc00e2663195c1466a0d651f826b743ebcacd0e20a76245510162f03f4"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_09.EEX",
+      "sha256": "811c46b6daacf142d3380277446710596a2dd313afe03cb19cf0b8b9cb67d8b3"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_10.EEX",
+      "sha256": "c40ac2c9b7f3322b095abef5f4a409c852fed3d2aeb5bce23f3167dc9eb951c8"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_11.EEX",
+      "sha256": "15d490cb27f746f36144319ad7adfb73fc83e53015795e0691ed76d4417a59a4"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_12.EEX",
+      "sha256": "49885a723480332d18a9c86bb6d283a649550f76267190512646c2a07fc8fb0a"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_13.EEX",
+      "sha256": "6052d188f004c6c5c9b2008d085b9f5b63fd339f0d02a1929cb4bddd9106b503"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_14.EEX",
+      "sha256": "a7ad40fc83236e5ca47df7301470cde4b90105556ad4b5b605c4964929aa8c8c"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_15.EEX",
+      "sha256": "ff88e46bfdf2ae4190dd809c5b2c6440702062d0d03a234412aa5a749a536216"
+    },
+    {
+      "path": "E:\\JiangWei\\project\\RS\\R_16.EEX",
+      "sha256": "86eea5c05c42c0aec717a10283d5a24d39248462e28ed0e7590214d22197b3a9"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\新特技系统.eex",
+      "sha256": "a76b707e707ab838f6df97fdf9a66eb193c33dd54590c2a155f31cf6f5f33cfd"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_00.EEX",
+      "sha256": "0a89c38eb6b30206f4f64350879dac4fe62cf2c129eb609758c071467179c99a"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_00.EEX.乐城测试-20261017-160618.bak",
+      "sha256": "91a0c015a494b06ed404a6d1c69aa01d65e3eded09c39e4631f7d4068670263e"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_01.EEX",
+      "sha256": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_01.EEX.乐城测试-20261017-160618.bak",
+      "sha256": "d5fa1d964c278d3640f02adbff8f823ab1f7445c0b8bc60f06eb2186d67c0c5d"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_02.EEX",
+      "sha256": "309c5b2884e576bd47aa5a00f8a861805e4f8899ec5eab450f5c1344c6e828ed"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_03.EEX",
+      "sha256": "a2510d441b461ff84fbc2ad9d338efecf07d0f3908489a9d2361572dd92df00b"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_04.EEX",
+      "sha256": "2354d48148cbf88ac6e81b7c1e4a787cf9e7ad3c2fbaeb35d069410f7e8f2b1a"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_05.EEX",
+      "sha256": "4bc741a7dfc22ad1ac1b25d56601f85e185e678ed97c9499ac063d814262cf67"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_06.EEX",
+      "sha256": "f44a2f3d968ff4dd0359d97a71b86c6af138ad91228e8e44f0c662df62d0cd02"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_07.EEX",
+      "sha256": "713eabf9cbe75f3d2c1da022c23de56caeb238e885065e3f6d5c8e152d6f4035"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_08.EEX",
+      "sha256": "cd1ad56b7aed0a44f322ba4fc8390b378ef237fa4914e1f0132f1cd95a1b80d3"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_09.EEX",
+      "sha256": "811c46b6daacf142d3380277446710596a2dd313afe03cb19cf0b8b9cb67d8b3"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_10.EEX",
+      "sha256": "20c5bda8a9f7efe291d4c58d18137af5ee4e08871ccd85542f269e18ad105104"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_11.EEX",
+      "sha256": "a33972a0da07596d119a23aee47a6bb46dfc887616bf4450b909603b32745efa"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_12.EEX",
+      "sha256": "0d08c0a18c46af132fe4cb6fdc327991acb42fedd298c6d2c4c62ecd33f25288"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_13.EEX",
+      "sha256": "e32cb2af15d0d2694e858424723117747287ed913494fae5555a4a5eea2fbbb8"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_59.EEX",
+      "sha256": "eb888697269c651aa34c71f1155a6e51031fff320934b2629d6e5297dc8e53a9"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_60.EEX",
+      "sha256": "95136c40f89f5c1823e6101b89f698aad17e22f2d5e493071fd9542902ad8040"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_61.EEX",
+      "sha256": "aaffa6618eaa4a2f61fa2a5d02d60f191906736385a583d46bb9373e5a13cb66"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_62.EEX",
+      "sha256": "3a6e4681db5c5519a8970162b535e60276971567856364760c924c3204e3d389"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_63.EEX",
+      "sha256": "9e692b50ac0e9418a580457436903aafb81c5c6c5f6036d1af19ec92c7461084"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_70.eex",
+      "sha256": "ead0c7937b721b49ca41d3dd339578d2afedb09d67fd34a60c18bd70ebf45c64"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_90.eex",
+      "sha256": "477023025c0e0b65c32e545601a6cd646e320003f2aa17aa61566e70243df3e5"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\S_00.EEX",
+      "sha256": "b4924c5096bfa134938e6fd13f514173aa0eeeba53ab8cd50a20f4bce3ebc4ad"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\S_00.EEX.贾充修复前-20261017-185535.bak",
+      "sha256": "9e51a1e9436deebb35aab2d6533bdaa3bf906cb775770f54a131c4a459d5337f"
+    },
+    {
+      "path": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\Data.e5",
+      "sha256": "877a986beafb2b9db0c1f2cc4234c6ad25bcfe6de76f22c9805f1d7b90a255ab"
+    }
+  ],
+  "proposal": "project/世界事件推进与第十八回策划-20261017.md",
+  "output_copy_sha256": "4a76109e3f6f261ae0d05bdd26d4af6f24e667f7e01a7014e7641f5652a5a941",
+  "notes": "所有新战果、条约、清洗及人物安排为策划；无构建、部署、试玩、提交或推送。"
+}

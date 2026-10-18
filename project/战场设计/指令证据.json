@@ -1,0 +1,5137 @@
+{
+  "日期": "2026-10-17",
+  "性质": "原作二进制静态解码及本地源码核查，不等于游戏运行验证",
+  "源码根": "E:\\ccz-new-engine\\1-工程源码",
+  "源码指纹": [
+    {
+      "文件": "src/script_cmd.c",
+      "sha256": "d5469aed68933bfdedca5ef7ca35af66f7e9918c68226b466891b11f4ae024ad"
+    },
+    {
+      "文件": "src/script_run.c",
+      "sha256": "23aae1fe3c400b76d74f5c806be44bbe6f78385867c780c5cb8d66e6910ef2d8"
+    },
+    {
+      "文件": "src/cmdbar.c",
+      "sha256": "07611ea57e22f6d234fa349c5b8b25278b8d8504d5b46987bbcc2551a1521673"
+    },
+    {
+      "文件": "src/deploy.c",
+      "sha256": "a3ad92b5a3bea58601559901e9bca49d174a4e0fdb5b7549cc44d2dbbe72dc74"
+    },
+    {
+      "文件": "src/battle_deploy.c",
+      "sha256": "f00f19b2d740c9570343288fbf908b5fb1912005c79396787838376687da1b52"
+    },
+    {
+      "文件": "src/battlemap.c",
+      "sha256": "2e87d3717a43b10e331397cc9a5880f8f4e680c6ea9db152ebbdd3451eaabd7c"
+    },
+    {
+      "文件": "src/sbattle.c",
+      "sha256": "ec48759e73e1b7224c1a0cb57e9e5c6ec205fb34060bad289812ef178f3f4f3c"
+    },
+    {
+      "文件": "src/battle.c",
+      "sha256": "3c1cccd59bcb78e8fa901e439864063bae04039b70ee2853b1366b6bbf8c94cc"
+    },
+    {
+      "文件": "include/battle.h",
+      "sha256": "87b5431e8ed78ebafcba4d64ae92e168f23a74b8b63f5e82fc7e0ce3aafe2ef1"
+    }
+  ],
+  "地形库": {
+    "文件": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\Hexzmap.e5",
+    "sha256": "5372a3ee10d32bcd0a8e8af3e12bf896a0647a66b9a8fefb8663116bfa13bad6"
+  },
+  "样本总数": 129,
+  "S总数": 119,
+  "地图检查数": 58,
+  "重点记录": [
+    {
+      "文件": "姜维原作/R_31.EEX",
+      "块": 8,
+      "记录": null,
+      "指令": [
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 14523,
+          "offset_hex": "0x38bb",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            ""
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 14528,
+          "offset_hex": "0x38c0",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 14532,
+          "offset_hex": "0x38c4",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14534,
+          "offset_hex": "0x38c6",
+          "opcode": "0x79",
+          "name": "Cmd_IntVarTest",
+          "args": [
+            4,
+            3119,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14562,
+          "offset_hex": "0x38e2",
+          "opcode": "0x76",
+          "name": "Cmd_Goto",
+          "args": [
+            10
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14570,
+          "offset_hex": "0x38ea",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 14572,
+          "offset_hex": "0x38ec",
+          "opcode": "0x2F",
+          "name": "Cmd_ClearChar",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 14574,
+          "offset_hex": "0x38ee",
+          "opcode": "0x24",
+          "name": "Cmd_CdTrack",
+          "args": [
+            25
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 14580,
+          "offset_hex": "0x38f4",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14582,
+          "offset_hex": "0x38f6",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            ""
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14589,
+          "offset_hex": "0x38fd",
+          "opcode": "0x27",
+          "name": "Cmd_ShowBackground",
+          "args": [
+            2,
+            65535,
+            65535,
+            183,
+            65535
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14611,
+          "offset_hex": "0x3913",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            0,
+            35,
+            54,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14637,
+          "offset_hex": "0x392d",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            2,
+            46,
+            45,
+            2,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14663,
+          "offset_hex": "0x3947",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            9,
+            51,
+            45,
+            2,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14689,
+          "offset_hex": "0x3961",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            4,
+            56,
+            45,
+            2,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14715,
+          "offset_hex": "0x397b",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            11,
+            61,
+            45,
+            2,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14741,
+          "offset_hex": "0x3995",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            17,
+            66,
+            45,
+            2,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14767,
+          "offset_hex": "0x39af",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            1,
+            46,
+            66,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14793,
+          "offset_hex": "0x39c9",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            5,
+            51,
+            66,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14819,
+          "offset_hex": "0x39e3",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            10,
+            56,
+            66,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14845,
+          "offset_hex": "0x39fd",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            8,
+            61,
+            66,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14871,
+          "offset_hex": "0x3a17",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            18,
+            66,
+            66,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14897,
+          "offset_hex": "0x3a31",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            47,
+            71,
+            66,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14923,
+          "offset_hex": "0x3a4b",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            15,
+            76,
+            66,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14949,
+          "offset_hex": "0x3a65",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 2,
+          "offset": 14951,
+          "offset_hex": "0x3a67",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            0,
+            1,
+            907
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 2,
+          "offset": 14965,
+          "offset_hex": "0x3a75",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            22,
+            71,
+            45,
+            2,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 2,
+          "offset": 14991,
+          "offset_hex": "0x3a8f",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14993,
+          "offset_hex": "0x3a91",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 14995,
+          "offset_hex": "0x3a93",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 14997,
+          "offset_hex": "0x3a95",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "系统入口"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 15012,
+          "offset_hex": "0x3aa4",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4032,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 15038,
+          "offset_hex": "0x3abe",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            3100,
+            2,
+            0,
+            31
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 15064,
+          "offset_hex": "0x3ad8",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            927,
+            12,
+            50,
+            2,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 15090,
+          "offset_hex": "0x3af2",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 15092,
+          "offset_hex": "0x3af4",
+          "opcode": "0x1C",
+          "name": "Cmd_Draw",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 15094,
+          "offset_hex": "0x3af6",
+          "opcode": "0x18",
+          "name": "Cmd_EventName",
+          "args": [
+            "存亡一线"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 15107,
+          "offset_hex": "0x3b03",
+          "opcode": "0x17",
+          "name": "Cmd_LocationName",
+          "args": [
+            "姜维军营帐"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 15122,
+          "offset_hex": "0x3b12",
+          "opcode": "0x72",
+          "name": "Cmd_MsgTransferStub",
+          "args": [
+            18,
+            ""
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 15133,
+          "offset_hex": "0x3b1d",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4071,
+            2,
+            0,
+            255
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 15159,
+          "offset_hex": "0x3b37",
+          "opcode": "0x16",
+          "name": "Cmd_ShowInfo",
+          "args": [
+            "100S_31:剑门关之战\n单挑：\t杨兰vs蒋舒    马岱–庞会    句扶–句安\n\r\n对话：姜维–钟会    句扶–蒋舒    张翼–钟会\n    杨兰–钟会（和蒋舒单挑过）    诸葛果–钟会（钟会和杨兰对话过）\n\r\n印授条件：全灭敌人\n\r\n选择一：敌军一共有四轮的进攻。第六回合马岱\n在西关出现，我军攻防上升。先在东关挡住第一\n波敌人的攻击，之后第二军团在北关进攻，待他\n们进入关内后廖张两人出现，敌人降防+混乱麻\n痺。第三轮胡家父子领军在西关出现并中了火计\n，全军降防+混乱麻痺以及扣 200 血，击退后钟\n会本阵的大军会从北关进攻。靠近钟会本阵则左\n右出现武卫营的伏兵部队连同虎豹骑队一同\n进攻，我军全军降防，千万不可大意。\n\r\n选择二：流程相同，但第二波部队中伏时只\n降防，不会对关中军团使用火计，钟会的伏兵还\n增加大戟士和强弓兵并且敌军加攻，请小心应对。\n\r\n到此关为止，若张嶷存活且段谷之战全灭敌人\n则会有是否在阴平布置守军的选项，若不布置\n守军则进入历史线（选 2），否则进入幻想线\n（选 1）；若其中一个条件没满足则必定进历史线。\n\r\n宝物：\n"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16050,
+          "offset_hex": "0x3eb2",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 16052,
+          "offset_hex": "0x3eb4",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            1,
+            3500,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 16066,
+          "offset_hex": "0x3ec2",
+          "opcode": "0x76",
+          "name": "Cmd_Goto",
+          "args": [
+            988
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 16074,
+          "offset_hex": "0x3eca",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16076,
+          "offset_hex": "0x3ecc",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 16078,
+          "offset_hex": "0x3ece",
+          "opcode": "0x79",
+          "name": "Cmd_IntVarTest",
+          "args": [
+            4,
+            3119,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 16106,
+          "offset_hex": "0x3eea",
+          "opcode": "0x76",
+          "name": "Cmd_Goto",
+          "args": [
+            1379
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 16114,
+          "offset_hex": "0x3ef2",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16116,
+          "offset_hex": "0x3ef4",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            10,
+            6,
+            3
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16130,
+          "offset_hex": "0x3f02",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&向充\n经过一番波折，总算进入了剑门关，我们\n可以稍微安心了。\n&姜维\n不，现在说可以安心实在是太早了，钟会\n十几万大军马上就要开到，真正的大战正\n要开始。"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16283,
+          "offset_hex": "0x3f9b",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            47,
+            0,
+            3
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16297,
+          "offset_hex": "0x3fa9",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&董厥\n伯约，我不讳言我并不喜欢你，但是现在\n国难当头，我会抛下一切对你的成见，和\n你一起共守剑门关。\n&姜维\n如此甚好，现在这里能够多得一名将领是\n一名，更何况龚袭的能力可是连丞相都有\n夸赞过的。"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16491,
+          "offset_hex": "0x406b",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            17,
+            6,
+            3
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16505,
+          "offset_hex": "0x4079",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            15,
+            6,
+            3
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16519,
+          "offset_hex": "0x4087",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&廖化\n伯约，过去我曾经怀疑你爱大汉的心，\n现在看你四处转战，力挽狂澜的表现，\n或许我是错的。\n&张翼\n在这时候我也不想再分益州人或是外州人\n，大家应该齐心来对付曹贼入侵。\n&姜维\n没错，我们只要能够团结一心，曹贼军队\n不管有多少都无法对抗我们。"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16758,
+          "offset_hex": "0x4176",
+          "opcode": "0x09",
+          "name": "Cmd_Delay",
+          "args": [
+            5
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16766,
+          "offset_hex": "0x417e",
+          "opcode": "0x30",
+          "name": "Cmd_CharAppear",
+          "args": [
+            566,
+            92,
+            54,
+            3,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16792,
+          "offset_hex": "0x4198",
+          "opcode": "0x32",
+          "name": "Cmd_CharMove",
+          "args": [
+            0,
+            566,
+            0,
+            48,
+            54,
+            3
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16824,
+          "offset_hex": "0x41b8",
+          "opcode": "0x34",
+          "name": "Cmd_CharAction",
+          "args": [
+            566,
+            6
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16834,
+          "offset_hex": "0x41c2",
+          "opcode": "0x09",
+          "name": "Cmd_Delay",
+          "args": [
+            5
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16842,
+          "offset_hex": "0x41ca",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&士兵01\n报！贼军已经杀到关下，为数大约两万。\n&姜维\n两万人…再去探探敌人后续有多少人马！\n&士兵01\n是！"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16947,
+          "offset_hex": "0x4233",
+          "opcode": "0x32",
+          "name": "Cmd_CharMove",
+          "args": [
+            0,
+            566,
+            0,
+            92,
+            54,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 16979,
+          "offset_hex": "0x4253",
+          "opcode": "0x31",
+          "name": "Cmd_CharDisappear",
+          "args": [
+            0,
+            566,
+            0,
+            0,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17017,
+          "offset_hex": "0x4279",
+          "opcode": "0x1E",
+          "name": "Cmd_CharRedraw",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17019,
+          "offset_hex": "0x427b",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&姜维\n准备迎敌！务必要将贼军挡在关外！"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17062,
+          "offset_hex": "0x42a6",
+          "opcode": "0x09",
+          "name": "Cmd_Delay",
+          "args": [
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17070,
+          "offset_hex": "0x42ae",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17072,
+          "offset_hex": "0x42b0",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            1,
+            910,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17086,
+          "offset_hex": "0x42be",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17100,
+          "offset_hex": "0x42cc",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&诸葛果\n主公，可否在待会作战的时候注意一下\n有没有邓艾的军队？\n&姜维\n为什么呢？\n&诸葛果\n果总有点在意邓艾军队的所在位置…"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17224,
+          "offset_hex": "0x4348",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&张嶷\n（伯约把后面的军队都调上来，似乎忽略\n了一种可能性…万一贼军绕过剑门关进入\n益州怎么办？）\n&张嶷\n（看来诸葛姑娘似乎也注意到这点，等\n这仗结束之后，和她讨论一下好了。）"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17399,
+          "offset_hex": "0x43f7",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17413,
+          "offset_hex": "0x4405",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17415,
+          "offset_hex": "0x4407",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            10,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17429,
+          "offset_hex": "0x4415",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            47,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17443,
+          "offset_hex": "0x4423",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            17,
+            0,
+            2
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17457,
+          "offset_hex": "0x4431",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            15,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17471,
+          "offset_hex": "0x443f",
+          "opcode": "0x33",
+          "name": "Cmd_CharTurn",
+          "args": [
+            5,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17485,
+          "offset_hex": "0x444d",
+          "opcode": "0x09",
+          "name": "Cmd_Delay",
+          "args": [
+            5
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17493,
+          "offset_hex": "0x4455",
+          "opcode": "0x24",
+          "name": "Cmd_CdTrack",
+          "args": [
+            21
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17499,
+          "offset_hex": "0x445b",
+          "opcode": "0x08",
+          "name": "Cmd_Menu",
+          "args": [
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17505,
+          "offset_hex": "0x4461",
+          "opcode": "0x06",
+          "name": "Cmd_DeployLimit",
+          "args": [
+            1,
+            13,
+            15,
+            17,
+            65535,
+            65535,
+            65535,
+            3,
+            16,
+            20,
+            12,
+            13
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17557,
+          "offset_hex": "0x4495",
+          "opcode": "0x06",
+          "name": "Cmd_DeployLimit",
+          "args": [
+            1,
+            13,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17609,
+          "offset_hex": "0x44c9",
+          "opcode": "0x06",
+          "name": "Cmd_DeployLimit",
+          "args": [
+            1,
+            13,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17661,
+          "offset_hex": "0x44fd",
+          "opcode": "0x06",
+          "name": "Cmd_DeployLimit",
+          "args": [
+            1,
+            13,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 17713,
+          "offset_hex": "0x4531",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17715,
+          "offset_hex": "0x4533",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "HEXи瓁砞﹚"
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17733,
+          "offset_hex": "0x4545",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17759,
+          "offset_hex": "0x455f",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4057,
+            2,
+            0,
+            54
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17785,
+          "offset_hex": "0x4579",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            0,
+            28,
+            20,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17813,
+          "offset_hex": "0x4595",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            1,
+            13,
+            9,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17841,
+          "offset_hex": "0x45b1",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            2,
+            22,
+            9,
+            3,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17869,
+          "offset_hex": "0x45cd",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            3,
+            28,
+            21,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17897,
+          "offset_hex": "0x45e9",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            4,
+            28,
+            22,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17925,
+          "offset_hex": "0x4605",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            5,
+            27,
+            19,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17953,
+          "offset_hex": "0x4621",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            6,
+            27,
+            20,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 17981,
+          "offset_hex": "0x463d",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            7,
+            27,
+            21,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18009,
+          "offset_hex": "0x4659",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            8,
+            27,
+            22,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18037,
+          "offset_hex": "0x4675",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            9,
+            26,
+            19,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18065,
+          "offset_hex": "0x4691",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            10,
+            26,
+            20,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18093,
+          "offset_hex": "0x46ad",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            11,
+            26,
+            21,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18121,
+          "offset_hex": "0x46c9",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            12,
+            26,
+            22,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18149,
+          "offset_hex": "0x46e5",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            13,
+            13,
+            28,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18177,
+          "offset_hex": "0x4701",
+          "opcode": "0x4B",
+          "name": "Cmd_PlayerDeploySetup",
+          "args": [
+            14,
+            14,
+            28,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 1,
+          "offset": 18205,
+          "offset_hex": "0x471d",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 8,
+          "record": 0,
+          "depth": 0,
+          "offset": 18207,
+          "offset_hex": "0x471f",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        }
+      ]
+    },
+    {
+      "文件": "姜维原作/R_31.EEX",
+      "块": 9,
+      "记录": 0,
+      "指令": [
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18213,
+          "offset_hex": "0x4725",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "�碑aち传"
+          ]
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18226,
+          "offset_hex": "0x4732",
+          "opcode": "0x07",
+          "name": "Cmd_DeployedTest",
+          "args": []
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18228,
+          "offset_hex": "0x4734",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18232,
+          "offset_hex": "0x4738",
+          "opcode": "0x08",
+          "name": "Cmd_Menu",
+          "args": [
+            0
+          ]
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18238,
+          "offset_hex": "0x473e",
+          "opcode": "0x34",
+          "name": "Cmd_CharAction",
+          "args": [
+            0,
+            17
+          ]
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18248,
+          "offset_hex": "0x4748",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&姜维\n这是关系到大汉存亡的决战，一定要\n获胜！"
+          ]
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18298,
+          "offset_hex": "0x477a",
+          "opcode": "0x06",
+          "name": "Cmd_DeployLimit",
+          "args": [
+            0,
+            0,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535
+          ]
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18350,
+          "offset_hex": "0x47ae",
+          "opcode": "0x1D",
+          "name": "Cmd_PaletteSet",
+          "args": []
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18352,
+          "offset_hex": "0x47b0",
+          "opcode": "0x24",
+          "name": "Cmd_CdTrack",
+          "args": [
+            255
+          ]
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18358,
+          "offset_hex": "0x47b6",
+          "opcode": "0x0D",
+          "name": "Cmd_EndScene",
+          "args": []
+        },
+        {
+          "block": 9,
+          "record": 0,
+          "depth": 0,
+          "offset": 18360,
+          "offset_hex": "0x47b8",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        }
+      ]
+    },
+    {
+      "文件": "姜维原作/S_03.EEX",
+      "块": 1,
+      "记录": 6,
+      "指令": [
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22252,
+          "offset_hex": "0x56ec",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "驹い矪竚"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22265,
+          "offset_hex": "0x56f9",
+          "opcode": "0x2E",
+          "name": "Cmd_UnitAdjacentTest",
+          "args": [
+            2,
+            222,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22279,
+          "offset_hex": "0x5707",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            0,
+            1,
+            39
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22291,
+          "offset_hex": "0x5713",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22295,
+          "offset_hex": "0x5717",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22297,
+          "offset_hex": "0x5719",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "单挑奖励"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22312,
+          "offset_hex": "0x5728",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22338,
+          "offset_hex": "0x5742",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4048,
+            0,
+            0,
+            100
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22364,
+          "offset_hex": "0x575c",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22366,
+          "offset_hex": "0x575e",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22368,
+          "offset_hex": "0x5760",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "金钱"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22379,
+          "offset_hex": "0x576b",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "①"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22386,
+          "offset_hex": "0x5772",
+          "opcode": "0x3A",
+          "name": "Cmd_MoneyChapterLoyaltySet",
+          "args": [
+            0,
+            1,
+            1000
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22402,
+          "offset_hex": "0x5782",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            2,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22428,
+          "offset_hex": "0x579c",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22430,
+          "offset_hex": "0x579e",
+          "opcode": "0x79",
+          "name": "Cmd_IntVarTest",
+          "args": [
+            4,
+            3105,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22458,
+          "offset_hex": "0x57ba",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            2,
+            0,
+            0,
+            2000
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22484,
+          "offset_hex": "0x57d4",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22486,
+          "offset_hex": "0x57d6",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            1,
+            52,
+            2,
+            0,
+            4917116
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22512,
+          "offset_hex": "0x57f0",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            3,
+            2,
+            1,
+            52
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22538,
+          "offset_hex": "0x580a",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            3,
+            0,
+            4,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22564,
+          "offset_hex": "0x5824",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22590,
+          "offset_hex": "0x583e",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22592,
+          "offset_hex": "0x5840",
+          "opcode": "0x79",
+          "name": "Cmd_IntVarTest",
+          "args": [
+            4,
+            3,
+            1,
+            0,
+            999998
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22620,
+          "offset_hex": "0x585c",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            0,
+            52,
+            2,
+            0,
+            999999
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22646,
+          "offset_hex": "0x5876",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22648,
+          "offset_hex": "0x5878",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22650,
+          "offset_hex": "0x587a",
+          "opcode": "0x03",
+          "name": "else",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22654,
+          "offset_hex": "0x587e",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            0,
+            52,
+            2,
+            4,
+            3
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 22680,
+          "offset_hex": "0x5898",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22682,
+          "offset_hex": "0x589a",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            3,
+            2,
+            1,
+            52
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22708,
+          "offset_hex": "0x58b4",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22734,
+          "offset_hex": "0x58ce",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22736,
+          "offset_hex": "0x58d0",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            2,
+            222,
+            65535,
+            65535,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22762,
+          "offset_hex": "0x58ea",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            222,
+            2,
+            65535,
+            65535,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22788,
+          "offset_hex": "0x5904",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&杨兰\n前方武将，虽然和你无冤无仇，\n但还是请你纳命来吧。\n&申仪\n什么？！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 22863,
+          "offset_hex": "0x594f",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22865,
+          "offset_hex": "0x5951",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "虫珼矪竚"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22880,
+          "offset_hex": "0x5960",
+          "opcode": "0x68",
+          "name": "Cmd_DuelStart",
+          "args": [
+            2,
+            222,
+            20
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22894,
+          "offset_hex": "0x596e",
+          "opcode": "0x60",
+          "name": "Cmd_DuelCharAppear",
+          "args": [
+            0,
+            "居然有美女送上门，难道我申仪倒楣这么\n多年终于要转运了？",
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 22962,
+          "offset_hex": "0x59b2",
+          "opcode": "0x60",
+          "name": "Cmd_DuelCharAppear",
+          "args": [
+            1,
+            "（这是送给姜维的见面礼。）",
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23001,
+          "offset_hex": "0x59d9",
+          "opcode": "0x61",
+          "name": "Cmd_DuelResult",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23003,
+          "offset_hex": "0x59db",
+          "opcode": "0x64",
+          "name": "Cmd_DuelAction",
+          "args": [
+            1,
+            8
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23013,
+          "offset_hex": "0x59e5",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            1,
+            "准备受死吧！",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23038,
+          "offset_hex": "0x59fe",
+          "opcode": "0x64",
+          "name": "Cmd_DuelAction",
+          "args": [
+            1,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23048,
+          "offset_hex": "0x5a08",
+          "opcode": "0x65",
+          "name": "Cmd_DuelAttack1",
+          "args": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23062,
+          "offset_hex": "0x5a16",
+          "opcode": "0x65",
+          "name": "Cmd_DuelAttack1",
+          "args": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23076,
+          "offset_hex": "0x5a24",
+          "opcode": "0x65",
+          "name": "Cmd_DuelAttack1",
+          "args": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23090,
+          "offset_hex": "0x5a32",
+          "opcode": "0x65",
+          "name": "Cmd_DuelAttack1",
+          "args": [
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23104,
+          "offset_hex": "0x5a40",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            0,
+            "好，好强的臂力……\n这怎么可能？",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23148,
+          "offset_hex": "0x5a6c",
+          "opcode": "0x64",
+          "name": "Cmd_DuelAction",
+          "args": [
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23158,
+          "offset_hex": "0x5a76",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            1,
+            "能接下我一招，看来你还有两下子！",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23203,
+          "offset_hex": "0x5aa3",
+          "opcode": "0x64",
+          "name": "Cmd_DuelAction",
+          "args": [
+            0,
+            10
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23213,
+          "offset_hex": "0x5aad",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            0,
+            "哼，别以为我只会靠叛变混饭吃！",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23256,
+          "offset_hex": "0x5ad8",
+          "opcode": "0x64",
+          "name": "Cmd_DuelAction",
+          "args": [
+            0,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23266,
+          "offset_hex": "0x5ae2",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23280,
+          "offset_hex": "0x5af0",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23294,
+          "offset_hex": "0x5afe",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23308,
+          "offset_hex": "0x5b0c",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            0,
+            "有破绽！",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23329,
+          "offset_hex": "0x5b21",
+          "opcode": "0x65",
+          "name": "Cmd_DuelAttack1",
+          "args": [
+            0,
+            4,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23343,
+          "offset_hex": "0x5b2f",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            1,
+            "中计了！",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23364,
+          "offset_hex": "0x5b44",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23378,
+          "offset_hex": "0x5b52",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23392,
+          "offset_hex": "0x5b60",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23406,
+          "offset_hex": "0x5b6e",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23420,
+          "offset_hex": "0x5b7c",
+          "opcode": "0x66",
+          "name": "Cmd_DuelAttack2",
+          "args": [
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23434,
+          "offset_hex": "0x5b8a",
+          "opcode": "0x65",
+          "name": "Cmd_DuelAttack1",
+          "args": [
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23448,
+          "offset_hex": "0x5b98",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            0,
+            "哇啊！",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23467,
+          "offset_hex": "0x5bab",
+          "opcode": "0x64",
+          "name": "Cmd_DuelAction",
+          "args": [
+            0,
+            11
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23477,
+          "offset_hex": "0x5bb5",
+          "opcode": "0x23",
+          "name": "Cmd_SoundEffect",
+          "args": [
+            38,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23489,
+          "offset_hex": "0x5bc1",
+          "opcode": "0x62",
+          "name": "Cmd_DuelDeath",
+          "args": [
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23495,
+          "offset_hex": "0x5bc7",
+          "opcode": "0x63",
+          "name": "Cmd_DuelDialogue",
+          "args": [
+            1,
+            "笨蛋，不知道什么叫“卖个破绽”吗？",
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23542,
+          "offset_hex": "0x5bf6",
+          "opcode": "0x5F",
+          "name": "Cmd_DuelEnd",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23544,
+          "offset_hex": "0x5bf8",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23546,
+          "offset_hex": "0x5bfa",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&申仪\n想不到我申仪，\n居然连个小姑娘都打不过……\n&申仪\n（算了，这样也好…总比活著被羞辱…）\n&申仪\n（东三郡申家势力就此瓦解，这个大魏\n统治者的脑袋绝不简单啊…）"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23709,
+          "offset_hex": "0x5c9d",
+          "opcode": "0x53",
+          "name": "Cmd_BattleRetreat",
+          "args": [
+            0,
+            222,
+            0,
+            0,
+            0,
+            0,
+            6,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23751,
+          "offset_hex": "0x5cc7",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&杨兰\n真好笑，这种武艺还敢自夸。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23788,
+          "offset_hex": "0x5cec",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23790,
+          "offset_hex": "0x5cee",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            0,
+            1,
+            1004
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23804,
+          "offset_hex": "0x5cfc",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&杨兰\n好，这下敌兵混乱了。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23835,
+          "offset_hex": "0x5d1b",
+          "opcode": "0x4D",
+          "name": "Cmd_CharStatusChange",
+          "args": [
+            0,
+            282,
+            0,
+            0,
+            0,
+            0,
+            0,
+            6,
+            65535,
+            65535,
+            8,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23903,
+          "offset_hex": "0x5d5f",
+          "opcode": "0x4D",
+          "name": "Cmd_CharStatusChange",
+          "args": [
+            0,
+            283,
+            0,
+            0,
+            0,
+            0,
+            0,
+            6,
+            65535,
+            65535,
+            8,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23971,
+          "offset_hex": "0x5da3",
+          "opcode": "0x4D",
+          "name": "Cmd_CharStatusChange",
+          "args": [
+            0,
+            284,
+            0,
+            0,
+            0,
+            0,
+            0,
+            6,
+            65535,
+            65535,
+            8,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24039,
+          "offset_hex": "0x5de7",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 24041,
+          "offset_hex": "0x5de9",
+          "opcode": "0x0B",
+          "name": "Cmd_AssignVar",
+          "args": [
+            39,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 24053,
+          "offset_hex": "0x5df5",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        }
+      ]
+    },
+    {
+      "文件": "姜维原作/S_19.EEX",
+      "块": 1,
+      "记录": 6,
+      "指令": [
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23135,
+          "offset_hex": "0x5a5f",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "驹い矪竚"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23148,
+          "offset_hex": "0x5a6c",
+          "opcode": "0x25",
+          "name": "Cmd_UnitAtPosTest",
+          "args": [
+            0,
+            0,
+            19
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23166,
+          "offset_hex": "0x5a7e",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            1,
+            8,
+            1,
+            22
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23180,
+          "offset_hex": "0x5a8c",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23184,
+          "offset_hex": "0x5a90",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&姜维\n已经取得相当的战果了，全军撤退！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23227,
+          "offset_hex": "0x5abb",
+          "opcode": "0x31",
+          "name": "Cmd_CharDisappear",
+          "args": [
+            1,
+            65535,
+            0,
+            0,
+            19,
+            19,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23265,
+          "offset_hex": "0x5ae1",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&牵弘\n咦？敌人明明占优势还撤退，那我还真是\n走运。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23319,
+          "offset_hex": "0x5b17",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&陈骞\n该退则退，真是有名将的风范。\n&陈骞\n（这仗打得也累死人，等下一定要去找\n“妮可”玩个够。）\n&陈骞\n（当个正人君子还真累人，去找小姐都要\n躲躲藏藏，有时候真羡慕石苞这种人。）"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23498,
+          "offset_hex": "0x5bca",
+          "opcode": "0x51",
+          "name": "Cmd_RestoreActions",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23500,
+          "offset_hex": "0x5bcc",
+          "opcode": "0x3D",
+          "name": "Cmd_GetItem",
+          "args": [
+            285,
+            0,
+            0,
+            65535
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 23518,
+          "offset_hex": "0x5bde",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23520,
+          "offset_hex": "0x5be0",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            ""
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23527,
+          "offset_hex": "0x5be7",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "①"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23534,
+          "offset_hex": "0x5bee",
+          "opcode": "0x3A",
+          "name": "Cmd_MoneyChapterLoyaltySet",
+          "args": [
+            0,
+            1,
+            20000
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23550,
+          "offset_hex": "0x5bfe",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            1,
+            50,
+            2,
+            0,
+            4930826
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23576,
+          "offset_hex": "0x5c18",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            1,
+            51,
+            2,
+            0,
+            4930827
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23602,
+          "offset_hex": "0x5c32",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            0,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23628,
+          "offset_hex": "0x5c4c",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23654,
+          "offset_hex": "0x5c66",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23680,
+          "offset_hex": "0x5c80",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            0,
+            2,
+            1,
+            50
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23706,
+          "offset_hex": "0x5c9a",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            1,
+            2,
+            1,
+            51
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23732,
+          "offset_hex": "0x5cb4",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            1,
+            1,
+            4,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23758,
+          "offset_hex": "0x5cce",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23784,
+          "offset_hex": "0x5ce8",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23810,
+          "offset_hex": "0x5d02",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            2,
+            2,
+            0,
+            1000
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23836,
+          "offset_hex": "0x5d1c",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 23838,
+          "offset_hex": "0x5d1e",
+          "opcode": "0x79",
+          "name": "Cmd_IntVarTest",
+          "args": [
+            4,
+            3105,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 23866,
+          "offset_hex": "0x5d3a",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            2,
+            0,
+            0,
+            1000
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 23892,
+          "offset_hex": "0x5d54",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23894,
+          "offset_hex": "0x5d56",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 23896,
+          "offset_hex": "0x5d58",
+          "opcode": "0x79",
+          "name": "Cmd_IntVarTest",
+          "args": [
+            4,
+            3271,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 23924,
+          "offset_hex": "0x5d74",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            2,
+            0,
+            0,
+            1000
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 23950,
+          "offset_hex": "0x5d8e",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23952,
+          "offset_hex": "0x5d90",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            2,
+            3,
+            4,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 23978,
+          "offset_hex": "0x5daa",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4,
+            2,
+            4,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24004,
+          "offset_hex": "0x5dc4",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "②"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24011,
+          "offset_hex": "0x5dcb",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4,
+            0,
+            0,
+            20000
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24037,
+          "offset_hex": "0x5de5",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            1,
+            52,
+            2,
+            0,
+            4917116
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24063,
+          "offset_hex": "0x5dff",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            3,
+            2,
+            1,
+            52
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24089,
+          "offset_hex": "0x5e19",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            3,
+            0,
+            4,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24115,
+          "offset_hex": "0x5e33",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24141,
+          "offset_hex": "0x5e4d",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 24143,
+          "offset_hex": "0x5e4f",
+          "opcode": "0x79",
+          "name": "Cmd_IntVarTest",
+          "args": [
+            4,
+            3,
+            1,
+            0,
+            999998
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 24171,
+          "offset_hex": "0x5e6b",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            0,
+            52,
+            2,
+            0,
+            999999
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 24197,
+          "offset_hex": "0x5e85",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24199,
+          "offset_hex": "0x5e87",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 24201,
+          "offset_hex": "0x5e89",
+          "opcode": "0x03",
+          "name": "else",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 24205,
+          "offset_hex": "0x5e8d",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            0,
+            52,
+            2,
+            4,
+            3
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 2,
+          "offset": 24231,
+          "offset_hex": "0x5ea7",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24233,
+          "offset_hex": "0x5ea9",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            3,
+            2,
+            1,
+            52
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24259,
+          "offset_hex": "0x5ec3",
+          "opcode": "0x77",
+          "name": "Cmd_VarArith",
+          "args": [
+            2,
+            4076,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24285,
+          "offset_hex": "0x5edd",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "③"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24292,
+          "offset_hex": "0x5ee4",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            1003,
+            1003,
+            "过关节省了[C28*/1]个回合，奖励[C28*/2]金\n战利品[C2820000]金，本关共计获得[C3A*/4]金\n现仓库总资金为[C3A*/3]金"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 1,
+          "offset": 24413,
+          "offset_hex": "0x5f5d",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 24415,
+          "offset_hex": "0x5f5f",
+          "opcode": "0x49",
+          "name": "Cmd_BattleEnd",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 24417,
+          "offset_hex": "0x5f61",
+          "opcode": "0x0D",
+          "name": "Cmd_EndScene",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 24419,
+          "offset_hex": "0x5f63",
+          "opcode": "0x0B",
+          "name": "Cmd_AssignVar",
+          "args": [
+            22,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 6,
+          "depth": 0,
+          "offset": 24431,
+          "offset_hex": "0x5f6f",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        }
+      ]
+    },
+    {
+      "文件": "姜维原作/S_25.EEX",
+      "块": 1,
+      "记录": 2,
+      "指令": [
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21576,
+          "offset_hex": "0x5448",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "驹い矪竚"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21589,
+          "offset_hex": "0x5455",
+          "opcode": "0x3F",
+          "name": "Cmd_TurnTest",
+          "args": [
+            3,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21601,
+          "offset_hex": "0x5461",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            0,
+            1,
+            11
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21613,
+          "offset_hex": "0x546d",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21617,
+          "offset_hex": "0x5471",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&司马昭\n士季，刚才你说的不安定要素，还有第二\n个吗？\n&钟会\n第二个不安定要素，文钦和诸葛诞交恶，\n只不过是因为面对共同敌人而勉强共事。\n&钟会\n然而现在突围受挫，两个面对到危难时，\n所有的不满和冲突都会一次爆发出来。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21831,
+          "offset_hex": "0x5547",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            127,
+            9,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21849,
+          "offset_hex": "0x5559",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            127,
+            127,
+            "这样不行，我军的士气实在是太低落了，\n如果再这样打下去，只会重蹈当日仲恭的\n覆辙。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21942,
+          "offset_hex": "0x55b6",
+          "opcode": "0x31",
+          "name": "Cmd_CharDisappear",
+          "args": [
+            0,
+            127,
+            0,
+            0,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 21980,
+          "offset_hex": "0x55dc",
+          "opcode": "0x55",
+          "name": "Cmd_BattleRevive",
+          "args": [
+            0,
+            127,
+            0,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22012,
+          "offset_hex": "0x55fc",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            95,
+            127,
+            65535,
+            65535,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22038,
+          "offset_hex": "0x5616",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            127,
+            95,
+            65535,
+            65535,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22064,
+          "offset_hex": "0x5630",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&诸葛诞\n你这个无能的家伙，不是说去突围吗？\n怎么突到现在还是没有成功？\n&文钦\n城中的北方士兵根本就没有斗志，而这些\n人留在这边又只会白白消耗粮食，不如把\n这些人全部送走，只留下东吴军。\n&诸葛诞\n你在说什么鬼话，你没看到全怿的表现？\n那帮吴贼不可信。\n&文钦\n北军因为有人质在司马昭手上，不可能全\n心作战，当日仲恭就是因为率领这样没有\n士气的军队才会落败。\n&诸葛诞\n少拿我和毌丘俭那个失败者相比！谁不知\n道你的想法，你是想要把城中听命于我的\n士兵全部赶出去，好取得大权。\n&文钦\n你比他还不如！仲恭至少知道要积极出击\n，不像你，只知道躲在寿春城坐吃山空。\n&诸葛诞\n你这个粗人！\n&文钦\n你自己想想，你从起兵以来做了什么事\n情？除了向东吴摇尾乞怜之外，就是困\n在这边当乌龟。\n&文钦\n你口口声声说自己是正始名士，但是你丢\n脸的作为，根本连个匹夫都不如！\n&诸葛诞\n够了！文钦，你不相信我会杀你？\n&文钦\n你有本事就杀！我巴不得早点去见仲恭，\n也不要再看见你这个废物。\n&诸葛诞\n那你就去死吧！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22919,
+          "offset_hex": "0x5987",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            95,
+            6,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22937,
+          "offset_hex": "0x5999",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            127,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22955,
+          "offset_hex": "0x59ab",
+          "opcode": "0x23",
+          "name": "Cmd_SoundEffect",
+          "args": [
+            35,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22967,
+          "offset_hex": "0x59b7",
+          "opcode": "0x09",
+          "name": "Cmd_Delay",
+          "args": [
+            5
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22975,
+          "offset_hex": "0x59bf",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            127,
+            9,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 22993,
+          "offset_hex": "0x59d1",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&文钦\n没能打倒司马家，最后却死在自己人手\n里…或许早在我进入寿春城的一刻，我\n就该知道会发生这种事了。\n&文钦\n虽说这样死了，能够直接去那边见昭伯和\n仲恭也不错。\n&文钦\n但是我反而担心阿鸯他…真的能够理解我\n的大义吗？"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23208,
+          "offset_hex": "0x5aa8",
+          "opcode": "0x53",
+          "name": "Cmd_BattleRetreat",
+          "args": [
+            0,
+            127,
+            0,
+            0,
+            0,
+            0,
+            6,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23250,
+          "offset_hex": "0x5ad2",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&诸葛诞\n死有余辜！\n&诸葛诞\n现在集中兵力，挡在城门这边，巩固好\n寿春城的防御！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23331,
+          "offset_hex": "0x5b23",
+          "opcode": "0x4C",
+          "name": "Cmd_HiddenUnitAppear",
+          "args": [
+            0,
+            270,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23347,
+          "offset_hex": "0x5b33",
+          "opcode": "0x4C",
+          "name": "Cmd_HiddenUnitAppear",
+          "args": [
+            0,
+            271,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23363,
+          "offset_hex": "0x5b43",
+          "opcode": "0x4C",
+          "name": "Cmd_HiddenUnitAppear",
+          "args": [
+            0,
+            272,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23379,
+          "offset_hex": "0x5b53",
+          "opcode": "0x4C",
+          "name": "Cmd_HiddenUnitAppear",
+          "args": [
+            0,
+            273,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23395,
+          "offset_hex": "0x5b63",
+          "opcode": "0x09",
+          "name": "Cmd_Delay",
+          "args": [
+            5
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23403,
+          "offset_hex": "0x5b6b",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            128,
+            128,
+            "阿虎…爹罹难了…"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23432,
+          "offset_hex": "0x5b88",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            129,
+            129,
+            "是诸葛诞下的手？"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23461,
+          "offset_hex": "0x5ba5",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            128,
+            128,
+            "除了他也没有别人了，这个人和爹的仇恨\n也不是一天两天的事情。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23533,
+          "offset_hex": "0x5bed",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            129,
+            129,
+            "该怎么办？我们要杀回去报仇？还是要\n继续作战？"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23591,
+          "offset_hex": "0x5c27",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            128,
+            128,
+            "你忘记了第三个选择…我们投降司马昭。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23640,
+          "offset_hex": "0x5c58",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            129,
+            129,
+            "您疯了吗？司马昭可能接受我们？"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23683,
+          "offset_hex": "0x5c83",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            128,
+            128,
+            "他如果是个人物，他就会这样做。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23726,
+          "offset_hex": "0x5cae",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            129,
+            129,
+            "可是司马昭和我们文家有深仇大恨。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23771,
+          "offset_hex": "0x5cdb",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            128,
+            128,
+            "那又如何？你要我们在这边像狗一样死\n掉？我追求的战场可不是这样。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23847,
+          "offset_hex": "0x5d27",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            129,
+            129,
+            "二哥，我认为你对爹的死，根本就没有\n任何感觉！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23905,
+          "offset_hex": "0x5d61",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            128,
+            128,
+            "或许吧…我现在是真的没有感觉，本来应\n该悲伤，却一点悲哀的心情都没有。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 23987,
+          "offset_hex": "0x5db3",
+          "opcode": "0x15",
+          "name": "Cmd_Dialogue2",
+          "args": [
+            128,
+            128,
+            "六十年前那个被世人唾弃的吕奉先，说不\n定，他也和我是同样的人。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24061,
+          "offset_hex": "0x5dfd",
+          "opcode": "0x31",
+          "name": "Cmd_CharDisappear",
+          "args": [
+            0,
+            128,
+            0,
+            0,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24099,
+          "offset_hex": "0x5e23",
+          "opcode": "0x31",
+          "name": "Cmd_CharDisappear",
+          "args": [
+            0,
+            129,
+            0,
+            0,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24137,
+          "offset_hex": "0x5e49",
+          "opcode": "0x55",
+          "name": "Cmd_BattleRevive",
+          "args": [
+            0,
+            128,
+            0,
+            30,
+            3,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24169,
+          "offset_hex": "0x5e69",
+          "opcode": "0x55",
+          "name": "Cmd_BattleRevive",
+          "args": [
+            0,
+            129,
+            0,
+            31,
+            3,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24201,
+          "offset_hex": "0x5e89",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            130,
+            65535,
+            0,
+            65535,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24227,
+          "offset_hex": "0x5ea3",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            107,
+            65535,
+            0,
+            65535,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24253,
+          "offset_hex": "0x5ebd",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&司马昭\n终于等到你们两兄弟了。\n&司马昭\n说说你们投降的原因吧。\n&文虎\n诸葛诞杀了我们父亲，我要报仇！\n&司马昭\n我讨伐诸葛诞，是为了要维护国家的长治\n久安，不是帮你复仇的。\n&文鸯\n因为我不想死，我的人生只过了二十年不\n到，我要留着性命去面对更多的战斗。\n&司马昭\n哼哼，你很诚实面对自己内心的欲望。虽\n说以爹的性格，应该会当场将你诛杀，但\n是大哥恐怕不会这样做。\n&钟会\n这两个人是逆贼文钦的儿子，大将军不可\n轻易放过。\n&司马昭\n你在说什么？文钦罪不容诛，儿子本来也\n当应一死。然而两兄弟穷途末路，弃逆归\n顺，诛杀两人，恐怕坚定守军守城决心。\n&钟会\n是…\n&文鸯\n说吧，你希望我们兄弟做什么？\n&司马昭\n我把精锐的虎豹骑交给你，要你率军对\n城内喊话，事成我必有重赏。\n&文鸯\n我还有拒绝的可能？"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24921,
+          "offset_hex": "0x6159",
+          "opcode": "0x31",
+          "name": "Cmd_CharDisappear",
+          "args": [
+            0,
+            128,
+            0,
+            0,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24959,
+          "offset_hex": "0x617f",
+          "opcode": "0x31",
+          "name": "Cmd_CharDisappear",
+          "args": [
+            0,
+            129,
+            0,
+            0,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 24997,
+          "offset_hex": "0x61a5",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            130,
+            65535,
+            3,
+            65535,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 25023,
+          "offset_hex": "0x61bf",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            107,
+            65535,
+            3,
+            65535,
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 25049,
+          "offset_hex": "0x61d9",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&司马昭\n我居然赦免害死自己兄长的凶手，是不是\n很看不起我？\n&曹绫\n不，祖父过去也赦免过张绣，这样的作为\n是大将应有的风范。\n&钟会\n这两兄弟居心叵测，现在用得着他们，要\n不要等到乱平之后，把他们给了…\n&司马昭\n士季，每个人你都想杀掉，请问以后还有\n谁要为我们卖命？\n&司马昭\n再说，真正居心叵测的又是谁呢？\n&钟会\n………"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 25361,
+          "offset_hex": "0x6311",
+          "opcode": "0x0B",
+          "name": "Cmd_AssignVar",
+          "args": [
+            11,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 2,
+          "depth": 0,
+          "offset": 25373,
+          "offset_hex": "0x631d",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        }
+      ]
+    },
+    {
+      "文件": "陆抗原作/S_37.EEX",
+      "块": 1,
+      "记录": 27,
+      "指令": [
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30355,
+          "offset_hex": "0x7693",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "战中处置"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30368,
+          "offset_hex": "0x76a0",
+          "opcode": "0x36",
+          "name": "Cmd_UnitStatusTest",
+          "args": [
+            646,
+            7,
+            0,
+            2
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30388,
+          "offset_hex": "0x76b4",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            1,
+            32,
+            1,
+            51
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30402,
+          "offset_hex": "0x76c2",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30406,
+          "offset_hex": "0x76c6",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            646,
+            9,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30424,
+          "offset_hex": "0x76d8",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            646,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30442,
+          "offset_hex": "0x76ea",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&羊祜1\n唔…居然能够伤到我……\n&羊祜1\n真是没想到…我瞧不上眼的施绩和凌封，\n居然在关键时刻给予我军致命的打击…\n&羊祜1\n（羊祜啊羊祜，没想到这次居然彻底失\n算了。）"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30606,
+          "offset_hex": "0x778e",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&羊祜1\n（为今之计想要撤退只能靠牺牲其他人的部\n曲了…）"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30665,
+          "offset_hex": "0x77c9",
+          "opcode": "0x53",
+          "name": "Cmd_BattleRetreat",
+          "args": [
+            0,
+            646,
+            0,
+            0,
+            0,
+            0,
+            65535,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30707,
+          "offset_hex": "0x77f3",
+          "opcode": "0x3D",
+          "name": "Cmd_GetItem",
+          "args": [
+            38,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30725,
+          "offset_hex": "0x7805",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&凌封\n不行，不能放跑了羊祜！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30758,
+          "offset_hex": "0x7826",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            6,
+            2,
+            65535,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30784,
+          "offset_hex": "0x7840",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&施绩\n凌奋威，穷寇莫追。眼下羊祜主力部队已\n经溃散。战场之上剩余的晋兵军心已乱。\n&施绩\n现在要做的应该是先将战场之上士气低迷\n的敌军给清扫干净。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30930,
+          "offset_hex": "0x78d2",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            0,
+            2,
+            65535,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 30956,
+          "offset_hex": "0x78ec",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&陆抗\n公绪说的不错，羊祜所部已遭受重创，\n难成气候。等收拾完这些晋兵，我等便\n可以开赴襄阳了！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31053,
+          "offset_hex": "0x794d",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            0,
+            5,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31071,
+          "offset_hex": "0x795f",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            0,
+            6,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31089,
+          "offset_hex": "0x7971",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&陆抗\n好，羊祜已为我军所败。敌军士气想必已经\n跌至冰点。\n&陆抗\n接下来，\n就将剩下的敌军一鼓作气消灭干净吧。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31199,
+          "offset_hex": "0x79df",
+          "opcode": "0x50",
+          "name": "Cmd_BattleActionSetup",
+          "args": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31217,
+          "offset_hex": "0x79f1",
+          "opcode": "0x4D",
+          "name": "Cmd_CharStatusChange",
+          "args": [
+            2,
+            65535,
+            0,
+            0,
+            0,
+            39,
+            19,
+            2,
+            4,
+            0,
+            65535,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31285,
+          "offset_hex": "0x7a35",
+          "opcode": "0x4D",
+          "name": "Cmd_CharStatusChange",
+          "args": [
+            2,
+            65535,
+            0,
+            0,
+            0,
+            39,
+            19,
+            2,
+            1,
+            0,
+            65535,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31353,
+          "offset_hex": "0x7a79",
+          "opcode": "0x4D",
+          "name": "Cmd_CharStatusChange",
+          "args": [
+            2,
+            65535,
+            0,
+            0,
+            0,
+            39,
+            19,
+            2,
+            5,
+            0,
+            65535,
+            0,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31421,
+          "offset_hex": "0x7abd",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 1,
+          "offset": 31423,
+          "offset_hex": "0x7abf",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "胜利条件变更"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 1,
+          "offset": 31442,
+          "offset_hex": "0x7ad2",
+          "opcode": "0x19",
+          "name": "Cmd_WinCondition",
+          "args": [
+            "胜利条件\n一、全灭敌军。\n\n失败条件\n一、陆抗死亡。\n二、回合数超过25。\n\n道具提示：\n一、击退羊祜。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 1,
+          "offset": 31541,
+          "offset_hex": "0x7b35",
+          "opcode": "0x1A",
+          "name": "Cmd_ShowWinCondition",
+          "args": [
+            "全灭敌军！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 1,
+          "offset": 31556,
+          "offset_hex": "0x7b44",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31558,
+          "offset_hex": "0x7b46",
+          "opcode": "0x0B",
+          "name": "Cmd_AssignVar",
+          "args": [
+            51,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 27,
+          "depth": 0,
+          "offset": 31570,
+          "offset_hex": "0x7b52",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        }
+      ]
+    },
+    {
+      "文件": "陆抗原作/S_37.EEX",
+      "块": 1,
+      "记录": 28,
+      "指令": [
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 31574,
+          "offset_hex": "0x7b56",
+          "opcode": "0x02",
+          "name": "Cmd_InternalInfo",
+          "args": [
+            "战中处置"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 31587,
+          "offset_hex": "0x7b63",
+          "opcode": "0x42",
+          "name": "Cmd_WinTest",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 31589,
+          "offset_hex": "0x7b65",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 31601,
+          "offset_hex": "0x7b71",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 31605,
+          "offset_hex": "0x7b75",
+          "opcode": "0x51",
+          "name": "Cmd_RestoreActions",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 31607,
+          "offset_hex": "0x7b77",
+          "opcode": "0x01",
+          "name": "subevent",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31609,
+          "offset_hex": "0x7b79",
+          "opcode": "0x05",
+          "name": "Cmd_VarTest",
+          "args": [
+            1,
+            51,
+            0
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31623,
+          "offset_hex": "0x7b87",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&陆抗\n很好，这次不止歼灭了从西陵逃窜的残余\n兵马，甚至还重创了羊祜的部曲。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31701,
+          "offset_hex": "0x7bd5",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&纺绩\n我们勠力同心，没有什么事情是办不到的。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31750,
+          "offset_hex": "0x7c06",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&赵氏贞\n幼节…可别忘了，还有我的功劳。"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31793,
+          "offset_hex": "0x7c31",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&甘莘\n喂喂喂，两位大姐，明明我才是立下头功\n的人好不好？"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31853,
+          "offset_hex": "0x7c6d",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&孙遥\n欸，不是我吗？"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31878,
+          "offset_hex": "0x7c86",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&陆抗\n诸位都有贡献力量，不过…"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31913,
+          "offset_hex": "0x7ca9",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&陆抗\n能够取得如此宏大的战果，在下认为突袭\n羊祜主营的公绪和凌奋威才是头号功臣啊！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 31999,
+          "offset_hex": "0x7cff",
+          "opcode": "0x4F",
+          "name": "Cmd_BattleTurnSetup",
+          "args": [
+            6,
+            0,
+            65535,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 32025,
+          "offset_hex": "0x7d19",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&施绩\n幼节…"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 1,
+          "offset": 32042,
+          "offset_hex": "0x7d2a",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 32044,
+          "offset_hex": "0x7d2c",
+          "opcode": "0x14",
+          "name": "Cmd_Dialogue",
+          "args": [
+            "&陆抗\n事不宜迟，打扫完战场。大家就即刻整备\n兵马，准备进击襄阳！"
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 32112,
+          "offset_hex": "0x7d70",
+          "opcode": "0x59",
+          "name": "Cmd_BattleLoot",
+          "args": [
+            0,
+            99,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535,
+            65535
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 32148,
+          "offset_hex": "0x7d94",
+          "opcode": "0x49",
+          "name": "Cmd_BattleEnd",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 32150,
+          "offset_hex": "0x7d96",
+          "opcode": "0x0B",
+          "name": "Cmd_AssignVar",
+          "args": [
+            0,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 32162,
+          "offset_hex": "0x7da2",
+          "opcode": "0x0B",
+          "name": "Cmd_AssignVar",
+          "args": [
+            637,
+            1
+          ]
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 32174,
+          "offset_hex": "0x7dae",
+          "opcode": "0x0D",
+          "name": "Cmd_EndScene",
+          "args": []
+        },
+        {
+          "block": 1,
+          "record": 28,
+          "depth": 0,
+          "offset": 32176,
+          "offset_hex": "0x7db0",
+          "opcode": "0x00",
+          "name": "event_end",
+          "args": []
+        }
+      ]
+    }
+  ],
+  "限制": [
+    "文本解码对非GBK内部注释有替换字符；结构完整不等于所有文本正确",
+    "未确认运行中的EXE与源码完全一致",
+    "尚未验证旧卒转阵、战场存读档、兵种移动和AI平衡"
+  ]
+}
