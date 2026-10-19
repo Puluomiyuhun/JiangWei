@@ -1,0 +1,89 @@
+{
+  "时间": "2026-10-18T01:10:08",
+  "范围": "R_10—R_17（第十一至十八回）易读性与人物情感复修",
+  "部署目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS",
+  "备份目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\R易读性复修-20261018-011008",
+  "源备份": "E:\\JiangWei\\archive\\易读性复修前-20261018-005839",
+  "文件": [
+    {
+      "文件": "R_10.EEX",
+      "旧SHA256": "f3183e32c0b05c47dd00b2b6feb1c136cedc53643c12f87c3d1693c274ad9675",
+      "新SHA256": "5ce5b4b577db363fb776d816c31a21e08e0248b6430052736d999461ad0467e4",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_10.EEX.易读性前-20261018-011008.bak"
+    },
+    {
+      "文件": "R_11.EEX",
+      "旧SHA256": "ab49731626b3aa71af0ff8c7a17395059667eb1d1bf05f0a9e213e32abb68963",
+      "新SHA256": "47d5e1d5597f2e14cd5c00870d5a79ff7533e0e1b68e146e67757e43e0f45c69",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_11.EEX.易读性前-20261018-011008.bak"
+    },
+    {
+      "文件": "R_12.EEX",
+      "旧SHA256": "56e9c43eb772922a5c00a6bd28866b27ad36d6444f09faeae53c7d7ffc77b25d",
+      "新SHA256": "cb8e3251b6207026d33715c2cdc2bd582a5e95394aabc56d456b20d7733098a7",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_12.EEX.易读性前-20261018-011008.bak"
+    },
+    {
+      "文件": "R_13.EEX",
+      "旧SHA256": "d7b89129fb24f07ebbab174a0692ba5429edf3dc4ceb34c2b0fc4193fe1a7d81",
+      "新SHA256": "cf1eea6688a6c769aab118abbae571d9cd6581b45b3ed449d8934b2f0cb84c60",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_13.EEX.易读性前-20261018-011008.bak"
+    },
+    {
+      "文件": "R_14.EEX",
+      "旧SHA256": "d91bec3a7faf9b9a6d3fdd257f626c275f74c904f75cb1fe5bb2b95016a98b38",
+      "新SHA256": "0701d3dcf0ad39d7f6e12afb7aee150bd3f8596f2ada4fdf57d95263a95883de",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_14.EEX.易读性前-20261018-011008.bak"
+    },
+    {
+      "文件": "R_15.EEX",
+      "旧SHA256": "0d6765b4161fac54fbeb4f63bb2333a7854a46b9831f2c3cff20c09f606e33c8",
+      "新SHA256": "e6385bc396e93884821470e9c5a5b2eea3e1eef7f7842b0ab13303a98d5547c6",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_15.EEX.易读性前-20261018-011008.bak"
+    },
+    {
+      "文件": "R_16.EEX",
+      "旧SHA256": "780426e834add290427e996c0a1d1c0c7efc574d18fceb51b5cb099e6c39a19b",
+      "新SHA256": "9022ec3972debf925b375f6df071a6e89eec5da714a01513ed4e4d787aa317cd",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_16.EEX.易读性前-20261018-011008.bak"
+    },
+    {
+      "文件": "R_17.EEX",
+      "旧SHA256": "7f2eff1b44f620cabfc6876961833deea89354bc2ee5cc7018345a14ee8fcd96",
+      "新SHA256": "da3324a232401d31e92c12596c5a82e27c9584fac202690e47b2c4c333016d12",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_17.EEX.易读性前-20261018-011008.bak"
+    }
+  ],
+  "R00至R09与部署前相同": true,
+  "其他全部原有RS未变": true,
+  "Data未变": true,
+  "DataSHA256": "877a986beafb2b9db0c1f2cc4234c6ad25bcfe6de76f22c9805f1d7b90a255ab",
+  "说话人槽名兼容": 112,
+  "对白框": 6738,
+  "最大同屏人数": 8,
+  "异路径复现18R一致": true,
+  "地图事件顺序与事实短报保持": true,
+  "已实机": false,
+  "已提交": false,
+  "已推送": false,
+  "RS_SHA256": {
+    "R_00.EEX": "23a0231d596504475d32a3618d1b690700371a7247793b0b81def19b90f2fe44",
+    "R_01.EEX": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e",
+    "R_02.EEX": "7182af0d23217456ad801eb631c8341090f27a1b081ab09eb5b601eb2e313a80",
+    "R_03.EEX": "f59e13388ef00c05249fe89d439c4457a0feb9961cd1076b92fc97e75ad0ba65",
+    "R_04.EEX": "0ecf06f7943816a0ef82737ecc3a9639d327a94d02b7846e542476ece834d412",
+    "R_05.EEX": "c6161ab8745abfd5ff07cf3df07923d0297358aec38eb2fff1b912bb034373b1",
+    "R_06.EEX": "8d0308bb39f4086f7b434d75025a88f0e91a493064c5a3f602a9e37931b9404b",
+    "R_07.EEX": "7ad3c94b52aa170c9c6d08002e765c5be761fe5f2a9faa4ae79e4cd3dc09134f",
+    "R_08.EEX": "44cf3276f56f4127526107de381d2ba15e7f6a288d848525e4167c7d08c69359",
+    "R_09.EEX": "5e1dd31baf4b445b9e0e3e3ed4e26da2bfa56f48d30d90d16b6c9c6d718c52f1",
+    "R_10.EEX": "5ce5b4b577db363fb776d816c31a21e08e0248b6430052736d999461ad0467e4",
+    "R_11.EEX": "47d5e1d5597f2e14cd5c00870d5a79ff7533e0e1b68e146e67757e43e0f45c69",
+    "R_12.EEX": "cb8e3251b6207026d33715c2cdc2bd582a5e95394aabc56d456b20d7733098a7",
+    "R_13.EEX": "cf1eea6688a6c769aab118abbae571d9cd6581b45b3ed449d8934b2f0cb84c60",
+    "R_14.EEX": "0701d3dcf0ad39d7f6e12afb7aee150bd3f8596f2ada4fdf57d95263a95883de",
+    "R_15.EEX": "e6385bc396e93884821470e9c5a5b2eea3e1eef7f7842b0ab13303a98d5547c6",
+    "R_16.EEX": "9022ec3972debf925b375f6df071a6e89eec5da714a01513ed4e4d787aa317cd",
+    "R_17.EEX": "da3324a232401d31e92c12596c5a82e27c9584fac202690e47b2c4c333016d12"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "时间": "2026-10-19T23:59:20",
+  "版本": "R15起对白复修",
+  "范围": "R_15—R_18（第十六至十九回）",
+  "回数": 19,
+  "场景数": 296,
+  "审读场数": 49,
+  "调整场数": 35,
+  "源字符净增": 739,
+  "源备份": "E:\\JiangWei\\archive\\R15起对白复修前-20261019-235738",
+  "部署目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS",
+  "备份目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\R15起对白复修-20261019-235920",
+  "文件": [
+    {
+      "文件": "R_15.EEX",
+      "旧SHA256": "8dac2a65ac89ceeadd70373d6973d3fa4bde5f238184044b3015e83bbbf940b9",
+      "新SHA256": "7d2d4e3814c53f8540aee0186cd1a1060f0bf924222e2732737cc652e46e1ad8",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_15.EEX.对白复修前-20261019-235920.bak"
+    },
+    {
+      "文件": "R_16.EEX",
+      "旧SHA256": "c2c897c3603957c6aa1421bf82152dc9c7fd53bab491abdaa8dc779aedd16f10",
+      "新SHA256": "2f7b559a7f7ee8c16073cfccd0d1c21e269bdec73d05546bca93d72ac9522751",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_16.EEX.对白复修前-20261019-235920.bak"
+    },
+    {
+      "文件": "R_17.EEX",
+      "旧SHA256": "f292c3c76c3b10a874d3263500a6d6b1defba392d7eb5f58bb5f178acd2dffc3",
+      "新SHA256": "34c49dca74c0321f25ab986bea4130340d881a8b93a5d6f68ee0788feb5f4f7d",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_17.EEX.对白复修前-20261019-235920.bak"
+    },
+    {
+      "文件": "R_18.EEX",
+      "旧SHA256": "de8fd65c94934f04adaccc9af0ea673d61f2fe3303af0dea50b51fc4d9ed0285",
+      "新SHA256": "9442ce62526712b69f2a7c0c5f4f54a3ff84e37d4154d22bb95cf70c9d06aaff",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_18.EEX.对白复修前-20261019-235920.bak"
+    }
+  ],
+  "对白框": 7681,
+  "演出回归": {
+    "地图段": 160,
+    "地图行": 370,
+    "移动段": 536,
+    "退场": 166,
+    "场景站位段": 308,
+    "边缘进退": 214,
+    "门口进退": 62
+  },
+  "Data与S保持": true,
+  "旧地图短报原字保持": true,
+  "场序与音乐及进退场源指令保持": true,
+  "R00原作接入17块原字节一致": true,
+  "现有说话人槽兼容数": 113,
+  "RS_SHA256": {
+    "R_00.EEX": "0a6ecc503647359624f1d4180ac2d6df97593e6debb64175327fc0753c015943",
+    "R_01.EEX": "9fbe556639f5b1b1b9bbac231ae585673aab87c23365da21506d430c3548cff6",
+    "R_02.EEX": "b7a662cd652f89e2333b5eab7b05e913d9aa6b8cbbe3736e364d6e0ec7e3358b",
+    "R_03.EEX": "ceca7b9b75647d9e5cdcdc8713a1270ced99dcf530732b36689512ef58beb406",
+    "R_04.EEX": "7da0646518a0848f85e1a9de90afca2188babef70110691ea95925e9e9ef3600",
+    "R_05.EEX": "a7fa727457043051363dd84a395fb20cffbe2be2f9c43350e7c62e9682e3eb06",
+    "R_06.EEX": "2e9ddae612651e081110deac60722bbe3dbba0a03c3287e10886130cff9f5d37",
+    "R_07.EEX": "1e26f934dec1d947ceeec1648eb6a954d3d8d3b14fab3a99eb59fc2ad74934db",
+    "R_08.EEX": "fc00c07ff95e0a28f9294ef6a6efcd18a2e92811b0a5e4edace666c99726cf55",
+    "R_09.EEX": "f2b47b0ea17fadc62f71d75bae0ce6407b091223e3b123e1aaa0233af6a7accf",
+    "R_10.EEX": "66426448ae6aa4caeecc23cca7b6160fd79394ad851c132466d1ed2448c14436",
+    "R_11.EEX": "dd3bfcdca4b1877d5c932f11e64c6a5a492b45f35c4c30e5a1ba48fbc5e9c8ec",
+    "R_12.EEX": "b7e263f474b92bb88bd24be1ab6d76fca49670881f5c7aa637863525663fac52",
+    "R_13.EEX": "8be3ee370a399d1ad52b65f8c58e96067bd6cebf5034e7ffe96948a82fb5a392",
+    "R_14.EEX": "88b6fc3d27c75a298eb9e9f34fa3096c1eaa82a7b4fc9f6efb8955e823a0e43d",
+    "R_15.EEX": "7d2d4e3814c53f8540aee0186cd1a1060f0bf924222e2732737cc652e46e1ad8",
+    "R_16.EEX": "2f7b559a7f7ee8c16073cfccd0d1c21e269bdec73d05546bca93d72ac9522751",
+    "R_17.EEX": "34c49dca74c0321f25ab986bea4130340d881a8b93a5d6f68ee0788feb5f4f7d",
+    "R_18.EEX": "9442ce62526712b69f2a7c0c5f4f54a3ff84e37d4154d22bb95cf70c9d06aaff"
+  },
+  "已实机": false,
+  "已提交": false,
+  "已推送": false,
+  "19R异路径复现一致": true,
+  "记录文件": "R15起对白复修部署记录-20261019-235920.json"
+}

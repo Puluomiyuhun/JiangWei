@@ -1,0 +1,185 @@
+{
+  "时间": "2026-10-18T18:12:20",
+  "版本": "全R心声校准",
+  "回数": 19,
+  "场景数": 296,
+  "调整场数": 59,
+  "修订心声条数": 76,
+  "通查心声条数": 639,
+  "仅心声改变": true,
+  "新增场数": 0,
+  "源字符净增": 384,
+  "正文修改回次": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "源备份": "E:\\JiangWei\\archive\\全R心声校准前-20261018-181153",
+  "部署目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS",
+  "备份目录": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\backups\\R全R心声校准-20261018-181220",
+  "文件": [
+    {
+      "文件": "R_00.EEX",
+      "旧SHA256": "f9fba0f9bc602634e07e86306eef72cd67b6f17b92570934fb11b50e8e49f875",
+      "新SHA256": "bb3aa2095b6650a55da917fb749fe109bc241c211a132e70e48291ae0ce3b3bf",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_00.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_01.EEX",
+      "旧SHA256": "10db0c1e28b27d69039ff1ba42fed7bbfc9f506d3226eea9a5c7a5770fbd7211",
+      "新SHA256": "4d71400c901c3f619bea59a3220172e577805d4176cd5ea91ce7b0ce5cde9e88",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_01.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_02.EEX",
+      "旧SHA256": "7182af0d23217456ad801eb631c8341090f27a1b081ab09eb5b601eb2e313a80",
+      "新SHA256": "0b7158789e35a7130438074f09bed7475e8745a230bc2bc1f8117dbc96a47436",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_02.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_03.EEX",
+      "旧SHA256": "8a45ee82d5584241e6a7dfd95a927511ea562e2ee3baf5b680028424987e0c19",
+      "新SHA256": "fe2aa3914902f76ce2933db0cfdc607506e4f1a83637483a44e3880621b0b2d5",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_03.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_04.EEX",
+      "旧SHA256": "4b656ac81bc91816ea5d76aa44e0357717990c5826434ad321d1b82673cdb0d5",
+      "新SHA256": "9d220f7e3e49d8a49890ba4e9629bf7cba091854b4e1f608ef9f01fbf8ec0246",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_04.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_05.EEX",
+      "旧SHA256": "79c6d060249017f87b08c2a68ac023b26c757a079f7e7ad201dbd107f723aa9c",
+      "新SHA256": "f1dc6b34e3d5b816a01629e251c2f66c8cde45aa0ea5f3f04e3d965e083d4d0c",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_05.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_06.EEX",
+      "旧SHA256": "9719fadb17c81b68de34dee2a9fbacfdcd0439c2bdf7af3bfe1b3676b2778105",
+      "新SHA256": "17154038e019d801aa9443583059df0531d732055470bbd430cb74d41a006437",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_06.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_07.EEX",
+      "旧SHA256": "14555eabde4e6f48d7a5f539ddd2f29a55a9c18161a7e5c9e5dcddfd0862503c",
+      "新SHA256": "90c43c39a8b37340627d23f24db2d7edeb731d6ccf53578db96f2bd046412dc7",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_07.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_08.EEX",
+      "旧SHA256": "44cf3276f56f4127526107de381d2ba15e7f6a288d848525e4167c7d08c69359",
+      "新SHA256": "95b6517bbf9c150540a7c8f7511c04fd8b254ad3ef9a97475c1fc4fda24ad855",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_08.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_09.EEX",
+      "旧SHA256": "f42c5f87a12fe4441e4b6c53ad8d8741735b9bc47dd46caef9193cbb27580d4d",
+      "新SHA256": "911d3e05afd939e6032b57556118fdf141f4818b8b7814165ebe8aed308bf5ed",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_09.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_10.EEX",
+      "旧SHA256": "e47250651df66a5c6168a202763af1e4aad605973ad11610b000e1d512875680",
+      "新SHA256": "d12a6a06a70e02e04868b4618e30ca4caa3e9961f556d879711ea6d655cf38f5",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_10.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_11.EEX",
+      "旧SHA256": "9e15ea83be94cd9a9fcfad4e309473025537ad77c95907847332070bdd87a9e0",
+      "新SHA256": "60c092b8b02e83485af8d79be0b47130253b89396c9c24363276903f96f49106",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_11.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_12.EEX",
+      "旧SHA256": "2bd15249940e042cd95baef8290b22247a3934e0bba26e77e898b9566f5c8262",
+      "新SHA256": "15d5c888b5deca658e00ff83bfc4259c62738d4cf5b0d30d2a5fb2ea61ac1581",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_12.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_13.EEX",
+      "旧SHA256": "cb81ff1c6943f564efd30f6723bb54c17373b663961a8e56a7e80b566804a9cf",
+      "新SHA256": "a2d44b8c63bd76893e298bc5a72074d23e8e3fbe9c5cefa525d80bbbd2657be6",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_13.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_14.EEX",
+      "旧SHA256": "586ee7171b444a101e902bdcae8c034912e74b0c8b990e7fda3d4b999eb43184",
+      "新SHA256": "161c1cb59ce05345dbf92a5a29cce16de2811c49c831608c48e407464a654043",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_14.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_15.EEX",
+      "旧SHA256": "0bfbfd246b816d87973e5264b829478a15b37d6846a3ce24031bf5482c4e278f",
+      "新SHA256": "db1624704e8b1fee79e1fe1c94a0b1e4d602de4b4052f5711dadbac2a5e11364",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_15.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_16.EEX",
+      "旧SHA256": "e623eee88776d23e528758e9ae54ad9a68555bf6e49f547a5b0b6e66584bd37f",
+      "新SHA256": "64a0ffbbadfae6ce50d0bf8cafa98b660010defa1580107f3e2f5ff3139007c0",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_16.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_17.EEX",
+      "旧SHA256": "9a33ac175c47b5f4cf3867def6d254af7811822da4a267ff8615a1c41831aeed",
+      "新SHA256": "7acb436ef11b2974de65ad10a6531aefa86eba6c49dfa979623f17c81d11411c",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_17.EEX.全R心声校准前-20261018-181220.bak"
+    },
+    {
+      "文件": "R_18.EEX",
+      "旧SHA256": "01e5bbbd580cc3be50dfca1aea7a1373b3dd7378545a3011ef63b25302c49743",
+      "新SHA256": "8be0fb83baff0a363576269969a0beef0050faa2aeee5394ff6ca8e3d8c57d67",
+      "同目录备份": "E:\\ccz-new-engine\\1-工程源码\\bin\\Release\\RS\\R_18.EEX.全R心声校准前-20261018-181220.bak"
+    }
+  ],
+  "对白框": 7660,
+  "19R异路径复现一致": true,
+  "旧地图短报原字保持": true,
+  "R00原作接入17块原字节一致": true,
+  "未改R": [],
+  "Data与S保持": true,
+  "现有说话人槽兼容数": 113,
+  "王韬槽": 118,
+  "RS_SHA256": {
+    "R_00.EEX": "bb3aa2095b6650a55da917fb749fe109bc241c211a132e70e48291ae0ce3b3bf",
+    "R_01.EEX": "4d71400c901c3f619bea59a3220172e577805d4176cd5ea91ce7b0ce5cde9e88",
+    "R_02.EEX": "0b7158789e35a7130438074f09bed7475e8745a230bc2bc1f8117dbc96a47436",
+    "R_03.EEX": "fe2aa3914902f76ce2933db0cfdc607506e4f1a83637483a44e3880621b0b2d5",
+    "R_04.EEX": "9d220f7e3e49d8a49890ba4e9629bf7cba091854b4e1f608ef9f01fbf8ec0246",
+    "R_05.EEX": "f1dc6b34e3d5b816a01629e251c2f66c8cde45aa0ea5f3f04e3d965e083d4d0c",
+    "R_06.EEX": "17154038e019d801aa9443583059df0531d732055470bbd430cb74d41a006437",
+    "R_07.EEX": "90c43c39a8b37340627d23f24db2d7edeb731d6ccf53578db96f2bd046412dc7",
+    "R_08.EEX": "95b6517bbf9c150540a7c8f7511c04fd8b254ad3ef9a97475c1fc4fda24ad855",
+    "R_09.EEX": "911d3e05afd939e6032b57556118fdf141f4818b8b7814165ebe8aed308bf5ed",
+    "R_10.EEX": "d12a6a06a70e02e04868b4618e30ca4caa3e9961f556d879711ea6d655cf38f5",
+    "R_11.EEX": "60c092b8b02e83485af8d79be0b47130253b89396c9c24363276903f96f49106",
+    "R_12.EEX": "15d5c888b5deca658e00ff83bfc4259c62738d4cf5b0d30d2a5fb2ea61ac1581",
+    "R_13.EEX": "a2d44b8c63bd76893e298bc5a72074d23e8e3fbe9c5cefa525d80bbbd2657be6",
+    "R_14.EEX": "161c1cb59ce05345dbf92a5a29cce16de2811c49c831608c48e407464a654043",
+    "R_15.EEX": "db1624704e8b1fee79e1fe1c94a0b1e4d602de4b4052f5711dadbac2a5e11364",
+    "R_16.EEX": "64a0ffbbadfae6ce50d0bf8cafa98b660010defa1580107f3e2f5ff3139007c0",
+    "R_17.EEX": "7acb436ef11b2974de65ad10a6531aefa86eba6c49dfa979623f17c81d11411c",
+    "R_18.EEX": "8be0fb83baff0a363576269969a0beef0050faa2aeee5394ff6ca8e3d8c57d67"
+  },
+  "已实机": false,
+  "已提交": false,
+  "已推送": false,
+  "记录文件": "R全R心声校准部署记录-20261018-181220.json"
+}

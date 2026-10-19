@@ -1,0 +1,91 @@
+{
+  "状态": "通过",
+  "当前版": "第十四回《归路》续写",
+  "比较基线": "c2b8c32f1a9ac697eb01af346c639ae28be6617c",
+  "新增回目": 14,
+  "新文件": "R_13.EEX",
+  "新增场数": 14,
+  "全部场数": 223,
+  "前十三回分回源稿原字节不变": true,
+  "R00至R11原字节不变": true,
+  "R12只更换末回接续尾部": true,
+  "R对比": {
+    "R_00.EEX": {
+      "原SHA256": "0a89c38eb6b30206f4f64350879dac4fe62cf2c129eb609758c071467179c99a",
+      "新SHA256": "0a89c38eb6b30206f4f64350879dac4fe62cf2c129eb609758c071467179c99a",
+      "全部字节一致": true
+    },
+    "R_01.EEX": {
+      "原SHA256": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e",
+      "新SHA256": "5b93d97516f68e480bbbe9087abfacbc921d3f86dad883f3854020106a9afa8e",
+      "全部字节一致": true
+    },
+    "R_02.EEX": {
+      "原SHA256": "309c5b2884e576bd47aa5a00f8a861805e4f8899ec5eab450f5c1344c6e828ed",
+      "新SHA256": "309c5b2884e576bd47aa5a00f8a861805e4f8899ec5eab450f5c1344c6e828ed",
+      "全部字节一致": true
+    },
+    "R_03.EEX": {
+      "原SHA256": "a2510d441b461ff84fbc2ad9d338efecf07d0f3908489a9d2361572dd92df00b",
+      "新SHA256": "a2510d441b461ff84fbc2ad9d338efecf07d0f3908489a9d2361572dd92df00b",
+      "全部字节一致": true
+    },
+    "R_04.EEX": {
+      "原SHA256": "2354d48148cbf88ac6e81b7c1e4a787cf9e7ad3c2fbaeb35d069410f7e8f2b1a",
+      "新SHA256": "2354d48148cbf88ac6e81b7c1e4a787cf9e7ad3c2fbaeb35d069410f7e8f2b1a",
+      "全部字节一致": true
+    },
+    "R_05.EEX": {
+      "原SHA256": "4bc741a7dfc22ad1ac1b25d56601f85e185e678ed97c9499ac063d814262cf67",
+      "新SHA256": "4bc741a7dfc22ad1ac1b25d56601f85e185e678ed97c9499ac063d814262cf67",
+      "全部字节一致": true
+    },
+    "R_06.EEX": {
+      "原SHA256": "f44a2f3d968ff4dd0359d97a71b86c6af138ad91228e8e44f0c662df62d0cd02",
+      "新SHA256": "f44a2f3d968ff4dd0359d97a71b86c6af138ad91228e8e44f0c662df62d0cd02",
+      "全部字节一致": true
+    },
+    "R_07.EEX": {
+      "原SHA256": "713eabf9cbe75f3d2c1da022c23de56caeb238e885065e3f6d5c8e152d6f4035",
+      "新SHA256": "713eabf9cbe75f3d2c1da022c23de56caeb238e885065e3f6d5c8e152d6f4035",
+      "全部字节一致": true
+    },
+    "R_08.EEX": {
+      "原SHA256": "cd1ad56b7aed0a44f322ba4fc8390b378ef237fa4914e1f0132f1cd95a1b80d3",
+      "新SHA256": "cd1ad56b7aed0a44f322ba4fc8390b378ef237fa4914e1f0132f1cd95a1b80d3",
+      "全部字节一致": true
+    },
+    "R_09.EEX": {
+      "原SHA256": "811c46b6daacf142d3380277446710596a2dd313afe03cb19cf0b8b9cb67d8b3",
+      "新SHA256": "811c46b6daacf142d3380277446710596a2dd313afe03cb19cf0b8b9cb67d8b3",
+      "全部字节一致": true
+    },
+    "R_10.EEX": {
+      "原SHA256": "20c5bda8a9f7efe291d4c58d18137af5ee4e08871ccd85542f269e18ad105104",
+      "新SHA256": "20c5bda8a9f7efe291d4c58d18137af5ee4e08871ccd85542f269e18ad105104",
+      "全部字节一致": true
+    },
+    "R_11.EEX": {
+      "原SHA256": "a33972a0da07596d119a23aee47a6bb46dfc887616bf4450b909603b32745efa",
+      "新SHA256": "a33972a0da07596d119a23aee47a6bb46dfc887616bf4450b909603b32745efa",
+      "全部字节一致": true
+    },
+    "R_12.EEX": {
+      "原SHA256": "7cd6682ca8975ce2bbe3bea259a5073f05c448fa444ef483d42996fc1b1c7f10",
+      "新SHA256": "0d08c0a18c46af132fe4cb6fdc327991acb42fedd298c6d2c4c62ecd33f25288",
+      "全部字节一致": false,
+      "除末块外全部原字节一致": true,
+      "末块地图音乐文字与显示指令一致": true,
+      "变化": "旧待续条件、提示和保存尾部改为跳转25，接R_13"
+    },
+    "R_13.EEX": {
+      "新增": true,
+      "SHA256": "e32cb2af15d0d2694e858424723117747287ed913494fae5555a4a5eea2fbbb8",
+      "字节": 32991
+    }
+  },
+  "Data与构建输入一致": true,
+  "S未改": true,
+  "原作接入17块": "由静态校验独立逐字节确认",
+  "限制": "本轮仅静态检查，未部署、未运行游戏；S仍占位。"
+}
